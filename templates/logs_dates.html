@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<link rel="icon" href="{{ url_for('static', filename='css/images/OB1LAB.ico') }}">
+		<meta name="color-scheme" content="light dark">
+		<title>Логи {{server}}</title>
+	</head>
+	<body>
+		<h1>Логи {{server}}</h1>
+		<hr>
+<pre>{% for date in dates %}<a href="{{server}}/{{ date }}.txt">{{ date }}.txt</a> 
+{% endfor %}</pre><hr>
+	</body>
+</html>

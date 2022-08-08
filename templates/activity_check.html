@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+{% block title %}Чекер активности{% endblock %}
+{% block body %}
+	<div class="activity_box">
+		<div class="window">
+			<div class="get_players"></div>
+			<div class="search_list">
+				<input type="text" placeholder="Добавить игрока" class="search_input" id="source">
+				<div class="autocom_box" id="deactive"></div>
+			</div>
+			<div class="select_server">
+				<button class="server_selected" onclick="select_server()" value="{{ first_server }}">{{ first_server }}</button>
+				<div class="server_list" id="deactive">
+					{% for server in servers %}
+						<button class="server" onclick="select_server_value('{{ server }}')">
+							<div class="avatar" style="background-image: url({{ servers[server]['icon'] }})"></div>
+							<div class="name">{{ server }}</div>
+						</button>
+					{% endfor %}
+				</div>
+			</div>
+			<div class="dates">
+				<div class="date1"><input type="date" value="1970-01-01" min="1970-01-01" max="1970-01-01"></div>
+				<div class="separator">─</div>
+				<div class="date2"><input type="date" value="1970-01-01" min="1970-01-01" max="1970-01-01"></div>
+			</div>
+			<button class="start_button" onclick="get_activity()">Посмотреть онлайн</button>
+			<div class="output_data" id="deactive">
+				<div class="activity_table">
+					<div>Активность состава</div>
+					<button class="close_output_data" onclick="close_table()">×</button>
+				</div>
+				<div class="output_acitivity">
+					<table class="view_activity_players"></table>
+				</div>
+			</div>
+		</div>
+	</div>
+{% endblock %}

@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<link rel="icon" href="{{ url_for('static', filename='css/images/OB1LAB.ico') }}">
+		<meta name="color-scheme" content="light dark">
+		<meta charset="utf-8">
+		<title>Логи {{server}}</title>
+	</head>
+	<body>
+		<pre style="word-wrap: break-word; white-space: pre-wrap;" id=logs>{% for line in logs %}<b><span style="color: #555555;">{{line|safe}}</span></b>
+{% endfor %}</pre>
+	{% if parser %}
+		<script type="text/javascript" src="{{ url_for('static', filename='js/logs.js') }}"></script>
+	{% endif %}
+	</body>
+</html>
