@@ -1,0 +1,7 @@
+.logs {
+	height: calc(100vh - 54px);
+	color: #BBB;
+	margin-left: 5px;
+	overflow-y: auto;
+	overflow-x: hidden;
+}

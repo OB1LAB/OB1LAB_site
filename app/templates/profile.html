@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block css %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/profile.css') }}">
+{% endblock %}
+
+{% block content %}
+    <hr>
+    <div class="profile">
+        <img src="{{ path_image }}">
+        <div class="statistic">
+            <div class="name">{{ name }}</div>
+            <div class="rank" style="color: {{ color }}">{{ rank }}</div>
+            <div class="register">Время регистрации: {{ register_time }}</div>
+        </div>
+    </div>
+    <hr>
+{% endblock %}

@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block css %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/public_logs_dates.css') }}">
+{% endblock %}
+
+{% block content %}
+    <h1>UltimaTech/Приватные логи</h1>
+    <hr>
+    <div class="log_dates">
+        <div class="log_date"><a href="{{ route_data.url_path }}">Назад</a></div>
+        {% for date in dates %}
+            <div class="log_date"><a href="{{ route_data.url_path }}/private_logs/{{ date }}">{{ date }}</a></div>
+        {% endfor %}
+    </div>
+    <hr>
+{% endblock %}

@@ -1,0 +1,186 @@
+p {
+	height: 40px;
+	font-size: 28px;
+	text-align: center;
+}
+
+input {
+	height: 25px;
+	padding-left: 5px;
+	background-color: #303030;
+	-webkit-text-fill-color: #D0D0D0;
+	border: 0;
+	margin-left: 15px;
+	outline: 0;
+	width: 93px;
+	padding-right: 3px;
+}
+
+#hidden {
+	display: none;
+}
+
+.server {
+	cursor: pointer;
+}
+
+.server:hover {
+	color: #E5E5E5;
+	background: #505050;
+}
+
+.select_server {
+	display: none;
+	flex-direction: column-reverse;
+	position: fixed;
+	margin-top: -100px;
+}
+
+.servers:hover .select_server {
+	display: flex;
+}
+
+.player_button {
+	display: flex;
+	align-items: center;
+	background: transparent;
+	border: 0;
+	cursor: pointer;
+}
+
+.server_list, .server {
+	width: 140px;
+	height: 25px;
+	color: #D0D0D0;
+	background: #303030;
+	border: 0;
+}
+
+.activity_check {
+	height: calc(95vh - 52px);
+	display: flex;
+	color: #DEDEDE;
+	justify-content: center;
+    align-items: center;
+}
+
+.left_side {
+	height: 681px;
+	width: 342px;
+}
+
+.right_side {
+	height: 681px;
+	width: 1000px;
+	margin-left: 50px;
+}
+
+.statistic {
+	height: 40px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+}
+
+.player_list {
+	height: 639px;
+}
+
+.activity_list {
+	height: 599px;
+	padding-top: 0px;
+}
+
+.player_list, .activity_list {
+	border: 1px solid #888;
+	overflow-y: auto;
+}
+
+.activity_player {
+	border-top: 1px solid #888;
+	text-align: center;
+}
+
+.player, .activity_player {
+	display: flex;
+	align-items: center;
+}
+
+.player {
+	width: 320px;
+	margin: 5px;
+	margin-left: 6px;
+}
+
+.player_list .player_button {
+	margin-top: 5px;
+}
+
+.player img {
+	height: 64px;
+	width: 64px;
+}
+
+.player .name {
+	margin-left: 10px;
+	font-size: 25px;
+}
+
+.arrow {
+	display: none;
+	color: #BBB;
+	font-size: 25px;
+	margin-left: auto;
+	margin-right: 10px;
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+.player_button:hover .arrow {
+	display: block;
+}
+
+.player_button:hover {
+	background: #292929;
+}
+
+.total {
+	width: 80px;
+}
+
+.activity_player .total {
+	width: 79px;
+}
+
+.avg {
+	width: 50px;
+}
+
+.ban {
+	width: 70px;
+}
+
+.kick {
+	width: 70px;
+}
+
+.mute {
+	width: 70px;
+}
+
+.warn {
+	width: 70px;
+}
+
+.pm {
+	width: 70px;
+}
+
+.global {
+	width: 70px;
+}
+
+.local {
+	width: 70px;
+	margin-left: auto;
+}

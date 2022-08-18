@@ -11,3 +11,4 @@ def generate_password():
         else:
             password += str(randint(0, 9))
     return password
+

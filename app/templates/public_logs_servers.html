@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block css %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/public_logs_servers.css') }}">
+{% endblock %}
+
+{% block content %}
+    <hr>
+    <div class="select_server_menu">
+        <div class="server_list">
+            <h1>Выберите сервер:</h1>
+            <div class="servers">
+                {% for server in servers %}
+                    <a href="{{ route_data.url_path }}/public_logs/{{ server }}"><img src="{{ url_for('static', filename='css/images/'+server+'.png') }}"></a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,40 @@
+img {
+	width: 128px;
+	height: 128px;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+div {
+	color: white;
+}
+
+.profile {
+	display: flex;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.statistic {
+	display: flex;
+	flex-direction: column;
+	margin-left: 15px;
+	font-size: 14px;
+}
+
+.name {
+	font-size: 30px;
+}
+
+.rank {
+	margin-top: 10px;
+	font-size: 20px;
+	margin-bottom: auto;
+}
+
+.register {
+	color: #BBB;
+	justify-content: end;
+}

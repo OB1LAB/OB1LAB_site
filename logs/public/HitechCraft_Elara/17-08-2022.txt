@@ -1,0 +1,2119 @@
+[00:00:06] VIPersona issued server command: /ipreport
+[00:00:14] VIPersona issued server command: /bc &bНа нашем сервере идёт набор в мод.состав. Подать заявку можно тут - &ahttps://clck.ru/Ve2kY
+[00:00:32] Legion_Ori issued server command: /home
+[00:00:34] Legion_Ori issued server command: /we cui
+[00:01:10] VIPersona issued server command: /enderchest
+[00:02:11] Legion_Ori вышел
+[00:02:52] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:03:20] [G] VIPersona: !&6/warp top &b<Мехи/Удача5>&d<Обмен руд 9к22>&a<Мобы>&3<Магазин>&e<Топ качалка>&3<Казино>
+[00:04:31] VIPersona issued server command: /home
+[00:08:08] titanpsih issued server command: /home
+[00:08:12] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:08:14] titanpsih issued server command: /back
+[00:09:02] titanpsih issued server command: /home
+[00:09:06] VIPersona issued server command: /thru
+[00:09:07] INfamy issued server command: /rtp
+[00:09:11] VIPersona issued server command: /thru
+[00:10:30] VIPersona issued server command: /home
+[00:13:33] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:13:37] VIPersona issued server command: /mem
+[00:14:26] [G] INfamy: ! куда тпс потерялся
+[00:15:08] VIPersona issued server command: /home
+[00:17:29] INfamy issued server command: /home
+[00:18:17] INfamy вышел
+[00:18:30] INfamy зашёл
+[00:18:30] MozGOkluY issued server command: /dupeip INfamy
+[00:18:30] [L] setNolik: &aЗашел &b[&6INfamy&b]
+[00:18:34] INfamy issued server command: /we cui
+[00:18:53] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:19:16] INfamy issued server command: /rtp
+[00:20:15] VIPersona issued server command: /list
+[00:20:16] RIGADAUGAVPILS был кикнут
+[00:20:17] RIGADAUGAVPILS вышел
+[00:20:18] VIPersona issued server command: /kit
+[00:20:26] VIPersona issued server command: /kit res
+[00:20:41] INfamy issued server command: /home
+[00:20:56] VIPersona issued server command: /kit ultratools
+[00:21:39] VIPersona issued server command: /kit
+[00:21:56] VIPersona issued server command: /kit forestry
+[00:22:17] Agillity вышел
+[00:22:25] INfamy issued server command: /warp usa
+[00:23:06] INfamy issued server command: /home
+[00:23:43] SoapBuble зашёл
+[00:23:44] [L] setNolik: &aЗашел &b[&6SoapBuble&b]
+[00:23:44] MozGOkluY issued server command: /dupeip SoapBuble
+[00:23:45] INfamy issued server command: /warp usa
+[00:23:54] SoapBuble issued server command: /we cui
+[00:24:04] INfamy issued server command: /home
+[00:24:06] VIPersona вышел
+[00:24:09] Tooife зашёл
+[00:24:09] MozGOkluY issued server command: /dupeip Tooife
+[00:24:09] [L] setNolik: &aЗашел &b[&6Tooife&b]
+[00:24:11] Tooife issued server command: /we cui
+[00:24:13] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:25:01] kuzaval issued server command: /home
+[00:26:42] Tooife вышел
+[00:27:01] Tooife зашёл
+[00:27:01] MozGOkluY issued server command: /dupeip Tooife
+[00:27:01] [L] setNolik: &aЗашел &b[&6Tooife&b]
+[00:27:03] Tooife issued server command: /we cui
+[00:29:34] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:29:48] INfamy issued server command: /warp neo
+[00:29:55] kuzaval issued server command: /warp top
+[00:30:26] INfamy issued server command: /home
+[00:30:50] SoapBuble issued server command: /home
+[00:31:25] SoapBuble issued server command: /home
+[00:31:33] kuzaval issued server command: /home
+[00:31:38] INfamy issued server command: /rtp
+[00:32:09] DickHolder зашёл
+[00:32:09] MozGOkluY issued server command: /dupeip DickHolder
+[00:32:09] [L] setNolik: &aЗашел &b[&6DickHolder&b]
+[00:32:11] DickHolder issued server command: /we cui
+[00:33:05] DickHolder issued server command: /warp world
+[00:33:06] DickHolder issued server command: /we cui
+[00:33:13] DickHolder issued server command: /rtp
+[00:34:43] DickHolder issued server command: /warp shop
+[00:34:44] DickHolder issued server command: /we cui
+[00:34:46] DickHolder issued server command: /warp shop
+[00:34:47] DickHolder issued server command: /money
+[00:34:52] DickHolder issued server command: /mpcaseshop
+[00:34:54] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:34:56] DickHolder issued server command: /mpcaseview 10
+[00:35:01] DickHolder issued server command: /mpcaseshop
+[00:35:13] DickHolder issued server command: /kit start
+[00:35:19] DickHolder issued server command: /kit start
+[00:35:22] DickHolder issued server command: /kit eat
+[00:35:30] Tooife вышел
+[00:35:53] titanpsih был кикнут
+[00:35:53] titanpsih вышел
+[00:35:53] Rizhok был кикнут
+[00:35:53] Rizhok вышел
+[00:35:53] Spinogryz был кикнут
+[00:35:53] Spinogryz вышел
+[00:35:53] MozGOkluY был кикнут
+[00:35:53] MozGOkluY вышел
+[00:35:53] setNolik был кикнут
+[00:35:53] setNolik вышел
+[00:35:53] 7ov4 был кикнут
+[00:35:53] 7ov4 вышел
+[00:35:53] kuzaval был кикнут
+[00:35:53] kuzaval вышел
+[00:35:53] INfamy был кикнут
+[00:35:53] INfamy вышел
+[00:35:53] SoapBuble был кикнут
+[00:35:53] SoapBuble вышел
+[00:35:53] DickHolder был кикнут
+[00:35:53] DickHolder вышел
+[00:36:02] Сервер выключился
+[00:36:52] Сервер включился
+[00:37:20] setNolik зашёл
+[00:37:22] setNolik issued server command: /we cui
+[00:37:25] setNolik issued server command: /god
+[00:38:22] titanpsih зашёл
+[00:38:23] [L] setNolik: &aЗашел &b[&6titanpsih&b]
+[00:38:26] titanpsih issued server command: /we cui
+[00:38:27] titanpsih issued server command: /vanish
+[00:39:32] INfamy зашёл
+[00:39:32] [L] setNolik: &aЗашел &b[&6INfamy&b]
+[00:39:36] INfamy issued server command: /we cui
+[00:40:15] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:41:12] INfamy был кикнут
+[00:41:12] INfamy вышел
+[00:41:12] INfamy зашёл
+[00:41:13] [L] setNolik: &aЗашел &b[&6INfamy&b]
+[00:41:16] INfamy issued server command: /we cui
+[00:43:10] SoapBuble зашёл
+[00:43:10] [L] setNolik: &aЗашел &b[&6SoapBuble&b]
+[00:43:13] SoapBuble issued server command: /we cui
+[00:44:25] Tooife зашёл
+[00:44:25] [L] setNolik: &aЗашел &b[&6Tooife&b]
+[00:44:27] Tooife issued server command: /we cui
+[00:45:35] Tooife issued server command: /warp top
+[00:45:35] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:45:54] Tooife issued server command: /warp usa
+[00:47:14] INfamy issued server command: /home
+[00:48:12] Tooife issued server command: /warp top
+[00:48:20] Tooife issued server command: /home
+[00:48:28] Tooife issued server command: /warp usa
+[00:48:30] Tooife issued server command: /warp usa
+[00:48:31] Tooife issued server command: /warp top
+[00:49:25] INfamy issued server command: /warp usa
+[00:50:00] Tooife issued server command: /home
+[00:50:06] INfamy issued server command: /home
+[00:50:26] SoapBuble issued server command: /home
+[00:50:43] 7ov4 зашёл
+[00:50:43] [L] setNolik: &aЗашел &b[&67ov4&b]
+[00:50:51] 7ov4 issued server command: /we cui
+[00:50:56] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:51:24] 7ov4 issued server command: /warp end
+[00:51:26] 7ov4 issued server command: /we cui
+[00:51:41] Tooife issued server command: /warp top
+[00:51:42] SoapBuble issued server command: /home
+[00:51:58] Tooife issued server command: /home
+[00:52:06] 7ov4 issued server command: /home
+[00:52:14] 7ov4 issued server command: /home
+[00:52:15] 7ov4 issued server command: /we cui
+[00:52:19] SoapBuble issued server command: /warp shop
+[00:52:20] SoapBuble issued server command: /we cui
+[00:52:37] SoapBuble issued server command: /home
+[00:52:39] SoapBuble issued server command: /we cui
+[00:52:59] Tooife issued server command: /warp usa
+[00:53:26] Tooife issued server command: /home
+[00:54:40] INfamy issued server command: /eat
+[00:54:41] INfamy issued server command: /eat
+[00:54:46] 7ov4 issued server command: /warp usa
+[00:54:50] 7ov4 issued server command: /warp all
+[00:54:59] INfamy вышел
+[00:55:45] 7ov4 issued server command: /home
+[00:56:16] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:56:58] Tooife issued server command: /warp top
+[00:57:21] Tooife issued server command: /home
+[00:58:43] Tooife issued server command: /warp top
+[00:59:05] Tooife issued server command: /home
+[01:01:36] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[01:01:52] 7ov4 issued server command: /home
+[01:02:02] 7ov4 issued server command: /home
+[01:02:19] 7ov4 issued server command: /home
+[01:03:23] 7ov4 issued server command: /home
+[01:05:09] ArtemSilakov зашёл
+[01:05:09] [L] setNolik: &aЗашел &b[&6ArtemSilakov&b]
+[01:05:20] ArtemSilakov issued server command: /vanish
+[01:05:42] ArtemSilakov issued server command: /gm 1
+[01:05:57] 7ov4 issued server command: /home
+[01:06:57] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[01:07:49] 7ov4 issued server command: /home
+[01:07:53] 7ov4 issued server command: /home
+[01:07:58] 7ov4 issued server command: /home
+[01:08:15] 7ov4 issued server command: /home
+[01:12:17] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[01:17:38] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[01:22:58] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[01:25:18] Oxpannik_Detdoma зашёл
+[01:25:18] [L] setNolik: &aЗашел &b[&6Oxpannik_Detdoma&b]
+[01:25:39] Oxpannik_Detdoma issued server command: /we cui
+[01:26:47] [G] Oxpannik_Detdoma: !всем ку
+[01:27:05] MozGOkluY зашёл
+[01:27:05] [L] setNolik: &aЗашел &b[&6MozGOkluY&b]
+[01:27:08] MozGOkluY issued server command: /we cui
+[01:27:10] MozGOkluY issued server command: /god && /trash
+[01:27:35] MozGOkluY вышел
+[01:28:19] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[01:29:13] Oxpannik_Detdoma issued server command: /m Tooife упс, у тебя дом взорвался
+[01:29:17] Oxpannik_Detdoma issued server command: /m Tooife сори
+[01:29:45] Oxpannik_Detdoma issued server command: /home
+[01:29:48] Oxpannik_Detdoma issued server command: /ec
+[01:30:45] Oxpannik_Detdoma issued server command: /home
+[01:31:42] [G] Oxpannik_Detdoma: ! Tooife упс, у тебя дом взорвался
+[01:32:12] [G] Oxpannik_Detdoma: !наверное с проводкой неполадки
+[01:32:18] [G] Oxpannik_Detdoma: !ил нет)
+[01:32:54] Oxpannik_Detdoma issued server command: /home
+[01:33:00] Oxpannik_Detdoma issued server command: /warp mining
+[01:33:07] Oxpannik_Detdoma issued server command: /we cui
+[01:33:22] Oxpannik_Detdoma issued server command: /warp mining
+[01:33:25] Oxpannik_Detdoma issued server command: /rtp
+[01:33:39] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[01:34:50] Oxpannik_Detdoma вышел
+[01:34:56] Oxpannik_Detdoma зашёл
+[01:34:56] [L] setNolik: &aЗашел &b[&6Oxpannik_Detdoma&b]
+[01:35:00] Oxpannik_Detdoma issued server command: /we cui
+[01:38:59] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[01:40:14] Tooife был кикнут
+[01:40:14] Tooife вышел
+[01:44:20] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[01:47:23] kuzaval зашёл
+[01:47:23] [L] setNolik: &aЗашел &b[&6kuzaval&b]
+[01:47:30] kuzaval issued server command: /we cui
+[01:49:40] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[01:55:01] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[01:56:10] [G] Oxpannik_Detdoma: ! kuzaval ку брат
+[01:56:18] [G] Oxpannik_Detdoma: !а ты че оделся как я?
+[01:56:25] [G] kuzaval: !в плане?
+[01:56:34] [G] Oxpannik_Detdoma: !в прямом
+[01:56:38] Oxpannik_Detdoma issued server command: /tpahere kuzaval
+[01:56:41] [G] kuzaval: !лет семь этот скин использую
+[01:56:45] [L] kuzaval: "вопросы?
+[01:56:50] [G] kuzaval: !вопросы?
+[01:57:17] [G] Oxpannik_Detdoma: !пока балдей
+[01:58:02] [G] Oxpannik_Detdoma: !&6Продам ДК Шмотки/Посохи, пробуд ядра.&4Cердце дракона.&2Крафты на заказ.&Продам плутоний.
+[01:58:08] [G] Oxpannik_Detdoma: !продам*
+[01:58:50] [G] Oxpannik_Detdoma: ! kuzaval а че ты такой негативный?
+[01:58:59] [G] Oxpannik_Detdoma: ! прям веет от тебя пассивной агрессией
+[02:00:21] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[02:05:42] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[02:11:02] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[02:16:22] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[02:21:43] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[02:24:03] Oxpannik_Detdoma issued server command: /rtp
+[02:25:42] Oxpannik_Detdoma вышел
+[02:26:35] Oxpannik_Detdoma зашёл
+[02:26:35] [L] setNolik: &aЗашел &b[&6Oxpannik_Detdoma&b]
+[02:26:38] Oxpannik_Detdoma issued server command: /we cui
+[02:26:50] Oxpannik_Detdoma issued server command: /home
+[02:26:54] Oxpannik_Detdoma issued server command: /we cui
+[02:27:03] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[02:27:31] Spinogryz зашёл
+[02:27:32] [L] setNolik: &aЗашел &b[&6Spinogryz&b]
+[02:27:34] Spinogryz issued server command: /we cui
+[02:28:08] Oxpannik_Detdoma issued server command: /warp mining
+[02:28:10] Oxpannik_Detdoma issued server command: /we cui
+[02:28:12] Oxpannik_Detdoma issued server command: /rtp
+[02:31:23] kuzaval issued server command: /лше уфе
+[02:31:26] kuzaval issued server command: /kit eat
+[02:32:24] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[02:37:44] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[02:41:23] ArtemSilakov вышел
+[02:42:44] ArtemSilakov зашёл
+[02:42:44] [L] setNolik: &aЗашел &b[&6ArtemSilakov&b]
+[02:42:55] ArtemSilakov issued server command: /vanish
+[02:42:57] ArtemSilakov issued server command: /gm 1
+[02:43:04] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[02:46:10] kuzaval вышел
+[02:48:07] Triptokon зашёл
+[02:48:07] [L] setNolik: &aЗашел &b[&6Triptokon&b]
+[02:48:11] kuzaval зашёл
+[02:48:11] [L] setNolik: &aЗашел &b[&6kuzaval&b]
+[02:48:16] Triptokon issued server command: /we cui
+[02:48:17] Triptokon issued server command: /god
+[02:48:17] Triptokon issued server command: /fly
+[02:48:18] kuzaval issued server command: /we cui
+[02:48:25] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[02:48:48] Triptokon issued server command: /seen vaffelka
+[02:48:52] Triptokon issued server command: /seen blaga_lich
+[02:49:01] Triptokon вышел
+[02:53:45] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[02:59:06] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[02:59:51] ArtemSilakov вышел
+[03:01:08] ArtemSilakov зашёл
+[03:01:08] [L] setNolik: &aЗашел &b[&6ArtemSilakov&b]
+[03:01:15] Oxpannik_Detdoma issued server command: /home
+[03:01:47] Oxpannik_Detdoma вышел
+[03:02:21] Oxpannik_Detdoma зашёл
+[03:02:21] [L] setNolik: &aЗашел &b[&6Oxpannik_Detdoma&b]
+[03:02:25] Oxpannik_Detdoma issued server command: /we cui
+[03:03:43] ArtemSilakov вышел
+[03:04:26] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[03:06:16] Oxpannik_Detdoma issued server command: /we cui
+[03:07:25] kuzaval issued server command: /home\
+[03:07:28] kuzaval issued server command: /home
+[03:08:09] Oxpannik_Detdoma issued server command: /home
+[03:08:12] Oxpannik_Detdoma issued server command: /we cui
+[03:09:47] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[03:10:12] kuzaval issued server command: /warp top
+[03:11:50] kuzaval issued server command: /home
+[03:13:17] kuzaval issued server command: /warp usa
+[03:14:09] kuzaval issued server command: /home
+[03:15:07] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[03:17:40] Oxpannik_Detdoma issued server command: /home
+[03:20:27] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[03:21:42] Oxpannik_Detdoma issued server command: /home
+[03:23:10] Oxpannik_Detdoma issued server command: /ec
+[03:24:55] Oxpannik_Detdoma issued server command: /ec
+[03:25:00] Oxpannik_Detdoma issued server command: /home
+[03:25:48] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[03:27:50] Oxpannik_Detdoma issued server command: /ec
+[03:31:08] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[03:33:26] kuzaval issued server command: /кез
+[03:33:28] kuzaval issued server command: /rtp
+[03:33:48] kuzaval issued server command: /rtp
+[03:34:03] kuzaval issued server command: /rtp
+[03:34:05] kuzaval issued server command: /rtp
+[03:34:56] kuzaval issued server command: /home
+[03:35:10] kuzaval issued server command: /kit eat
+[03:36:29] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[03:37:03] setNolik был кикнут
+[03:37:03] setNolik вышел
+[03:37:03] titanpsih был кикнут
+[03:37:03] titanpsih вышел
+[03:37:03] SoapBuble был кикнут
+[03:37:03] SoapBuble вышел
+[03:37:03] 7ov4 был кикнут
+[03:37:03] 7ov4 вышел
+[03:37:03] Spinogryz был кикнут
+[03:37:03] Spinogryz вышел
+[03:37:03] kuzaval был кикнут
+[03:37:03] kuzaval вышел
+[03:37:03] Oxpannik_Detdoma был кикнут
+[03:37:03] Oxpannik_Detdoma вышел
+[03:37:10] Сервер выключился
+[03:37:59] Сервер включился
+[03:38:34] setNolik зашёл
+[03:38:36] setNolik issued server command: /we cui
+[03:38:38] setNolik issued server command: /god
+[03:39:14] Oxpannik_Detdoma зашёл
+[03:39:14] [L] setNolik: &aЗашел &b[&6Oxpannik_Detdoma&b]
+[03:39:24] Oxpannik_Detdoma issued server command: /we cui
+[03:39:27] titanpsih зашёл
+[03:39:27] [L] setNolik: &aЗашел &b[&6titanpsih&b]
+[03:39:31] titanpsih issued server command: /we cui
+[03:39:32] titanpsih issued server command: /vanish
+[03:41:49] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[03:47:10] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[03:52:30] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[03:57:50] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[03:58:38] SoapBuble зашёл
+[03:58:39] [L] setNolik: &aЗашел &b[&6SoapBuble&b]
+[03:58:40] SoapBuble issued server command: /we cui
+[04:03:11] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[04:07:52] SoapBuble issued server command: /we cui
+[04:08:17] SoapBuble issued server command: /home
+[04:08:19] SoapBuble issued server command: /we cui
+[04:08:31] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[04:12:16] SoapBuble issued server command: /home
+[04:13:52] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[04:15:46] SoapBuble issued server command: /we cui
+[04:16:01] SoapBuble issued server command: /home
+[04:16:03] SoapBuble issued server command: /we cui
+[04:19:12] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[04:24:33] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[04:29:53] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[04:35:13] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[04:40:34] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[04:45:54] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[04:51:15] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[04:56:35] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[05:01:55] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[05:05:10] SoapBuble issued server command: /home
+[05:07:16] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[05:12:36] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[05:17:57] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[05:23:17] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[05:25:50] vVIrTuOZzz зашёл
+[05:25:51] [L] setNolik: &aЗашел &b[&6vVIrTuOZzz&b]
+[05:26:30] vVIrTuOZzz issued server command: /we cui
+[05:27:04] vVIrTuOZzz issued server command: /home
+[05:28:38] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[05:29:25] vVIrTuOZzz issued server command: /warp usa
+[05:29:58] vVIrTuOZzz issued server command: /home
+[05:32:42] vVIrTuOZzz issued server command: /warp usa
+[05:33:13] vVIrTuOZzz issued server command: /home
+[05:33:34] vVIrTuOZzz issued server command: /warp usa
+[05:33:58] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[05:34:10] vVIrTuOZzz вышел
+[05:36:30] vVIrTuOZzz зашёл
+[05:36:30] [L] setNolik: &aЗашел &b[&6vVIrTuOZzz&b]
+[05:36:35] vVIrTuOZzz issued server command: /we cui
+[05:36:56] vVIrTuOZzz issued server command: /home
+[05:37:55] vVIrTuOZzz issued server command: /warp usa
+[05:38:33] vVIrTuOZzz issued server command: /tpa setNolik
+[05:39:18] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[05:39:22] vVIrTuOZzz issued server command: /home
+[05:40:08] vVIrTuOZzz issued server command: /warp usa
+[05:44:39] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[05:47:48] vVIrTuOZzz issued server command: /home
+[05:49:12] vVIrTuOZzz issued server command: /home
+[05:49:59] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[05:53:06] Illidan2045 зашёл
+[05:53:06] [L] setNolik: &aЗашел &b[&6Illidan2045&b]
+[05:53:07] Illidan2045 issued server command: /we cui
+[05:54:19] SoapBuble issued server command: /home
+[05:55:20] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[05:56:37] Shon55 зашёл
+[05:56:37] [L] setNolik: &aЗашел &b[&6Shon55&b]
+[05:56:40] vVIrTuOZzz issued server command: /home
+[05:58:24] vVIrTuOZzz вышел
+[06:00:05] Shon55 issued server command: /we cui
+[06:00:40] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[06:00:42] Shon55 issued server command: /fly
+[06:02:09] vVIrTuOZzz зашёл
+[06:02:10] [L] setNolik: &aЗашел &b[&6vVIrTuOZzz&b]
+[06:02:15] vVIrTuOZzz issued server command: /we cui
+[06:02:45] vVIrTuOZzz вышел
+[06:03:23] vVIrTuOZzz зашёл
+[06:03:23] [L] setNolik: &aЗашел &b[&6vVIrTuOZzz&b]
+[06:03:27] vVIrTuOZzz issued server command: /we cui
+[06:05:49] vVIrTuOZzz issued server command: /warp usa
+[06:06:01] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[06:07:56] vVIrTuOZzz issued server command: /home
+[06:11:21] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[06:16:41] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[06:22:02] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[06:24:29] Shon55 issued server command: /warp _
+[06:25:37] Shon55 issued server command: /home
+[06:27:03] Shon55 issued server command: /warp _
+[06:27:22] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[06:27:53] Shon55 issued server command: /home
+[06:28:37] Shon55 issued server command: /warp _
+[06:29:00] Shon55 issued server command: /home
+[06:31:06] vVIrTuOZzz был кикнут
+[06:31:06] vVIrTuOZzz вышел
+[06:32:43] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[06:34:43] iceostick зашёл
+[06:34:43] [L] setNolik: &aЗашел &b[&6iceostick&b]
+[06:35:04] iceostick issued server command: /we cui
+[06:35:54] iceostick issued server command: /warp world
+[06:35:56] iceostick issued server command: /we cui
+[06:35:56] Shon55 issued server command: /warp _
+[06:36:02] iceostick issued server command: /rtp
+[06:36:24] Shon55 issued server command: /home
+[06:38:03] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[06:38:08] setNolik был кикнут
+[06:38:08] setNolik вышел
+[06:38:08] Oxpannik_Detdoma был кикнут
+[06:38:08] Oxpannik_Detdoma вышел
+[06:38:08] titanpsih был кикнут
+[06:38:08] titanpsih вышел
+[06:38:08] SoapBuble был кикнут
+[06:38:08] SoapBuble вышел
+[06:38:08] Illidan2045 был кикнут
+[06:38:08] Illidan2045 вышел
+[06:38:08] Shon55 был кикнут
+[06:38:08] Shon55 вышел
+[06:38:08] iceostick был кикнут
+[06:38:08] iceostick вышел
+[06:38:15] Сервер выключился
+[06:39:04] Сервер включился
+[06:39:32] setNolik зашёл
+[06:39:35] setNolik issued server command: /we cui
+[06:39:37] setNolik issued server command: /god
+[06:40:18] iceostick зашёл
+[06:40:18] [L] setNolik: &aЗашел &b[&6iceostick&b]
+[06:40:22] iceostick issued server command: /we cui
+[06:40:31] titanpsih зашёл
+[06:40:32] [L] setNolik: &aЗашел &b[&6titanpsih&b]
+[06:40:35] titanpsih issued server command: /we cui
+[06:40:35] titanpsih issued server command: /vanish
+[06:40:55] Shon55 зашёл
+[06:40:55] [L] setNolik: &aЗашел &b[&6Shon55&b]
+[06:41:21] [L] iceostick: .кез
+[06:41:23] iceostick issued server command: /rpt
+[06:41:25] iceostick issued server command: /rtp
+[06:42:03] nfan229 зашёл
+[06:42:04] [L] setNolik: &aЗашел &b[&6nfan229&b]
+[06:42:08] nfan229 issued server command: /we cui
+[06:42:35] iceostick issued server command: /kits
+[06:42:39] iceostick issued server command: /kit eat
+[06:42:44] Shon55 был кикнут
+[06:42:44] Shon55 вышел
+[06:42:45] iceostick issued server command: /kit hunter
+[06:42:52] Shon55 зашёл
+[06:42:52] [L] setNolik: &aЗашел &b[&6Shon55&b]
+[06:42:57] Shon55 issued server command: /we cui
+[06:43:20] nfan229 issued server command: /home
+[06:43:23] nfan229 issued server command: /we cui
+[06:43:24] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[06:43:40] iceostick issued server command: /rtp
+[06:43:43] iceostick issued server command: /rtp
+[06:43:57] iceostick issued server command: /rtp
+[06:44:34] iceostick issued server command: /rtp
+[06:44:55] iceostick issued server command: /rtp
+[06:45:00] Shon55 вышел
+[06:45:05] Illidan2045 зашёл
+[06:45:05] [L] setNolik: &aЗашел &b[&6Illidan2045&b]
+[06:45:07] Illidan2045 issued server command: /we cui
+[06:45:43] iceostick issued server command: /rtp
+[06:45:53] iceostick issued server command: /rtp
+[06:46:12] iceostick issued server command: /rtp
+[06:47:09] iceostick issued server command: /rtp
+[06:47:32] iceostick issued server command: /rtp
+[06:48:17] iceostick issued server command: /rtp
+[06:48:44] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[06:49:04] iceostick issued server command: //chunk
+[06:49:04] iceostick issued server command: //outset 16
+[06:49:04] iceostick issued server command: /zone
+[06:49:17] iceostick issued server command: /rg claim prikol
+[06:49:43] iceostick issued server command: /sethome
+[06:49:59] iceostick issued server command: //sel
+[06:50:44] Shon55 зашёл
+[06:50:44] [L] setNolik: &aЗашел &b[&6Shon55&b]
+[06:50:46] Shon55 issued server command: /we cui
+[06:51:02] iceostick issued server command: /warp mining
+[06:51:04] iceostick issued server command: /we cui
+[06:51:07] iceostick issued server command: /rtp
+[06:52:06] Shon55 issued server command: /fiy
+[06:52:37] Shon55 issued server command: /fiy
+[06:52:44] Shon55 issued server command: /fly
+[06:52:55] Shon55 issued server command: /warp _
+[06:53:38] Shon55 issued server command: /home
+[06:54:05] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[06:56:37] Shon55 issued server command: /warp _
+[06:57:24] Shon55 issued server command: /home
+[06:59:25] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[07:04:45] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[07:08:36] Rizhok зашёл
+[07:08:36] [L] setNolik: &aЗашел &b[&6Rizhok&b]
+[07:08:39] Rizhok issued server command: /we cui
+[07:09:29] Shon55 issued server command: /home
+[07:10:06] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[07:10:15] Shon55 issued server command: /home
+[07:10:46] Shon55 issued server command: /warp _
+[07:10:50] iceostick issued server command: /warp usa
+[07:10:52] iceostick issued server command: /we cui
+[07:11:34] Shon55 issued server command: /home
+[07:12:15] iceostick issued server command: /home
+[07:12:35] Shon55 issued server command: /home
+[07:12:35] Shon55 issued server command: /warp _
+[07:12:51] iceostick issued server command: /warp usa
+[07:12:57] SoapBuble зашёл
+[07:12:57] [L] setNolik: &aЗашел &b[&6SoapBuble&b]
+[07:13:00] SoapBuble issued server command: /we cui
+[07:13:51] Shon55 issued server command: /warp _
+[07:14:51] Shon55 issued server command: /home
+[07:15:26] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[07:15:52] iceostick issued server command: /mpcaseshop
+[07:15:53] iceostick issued server command: /mpcaseview 10
+[07:17:20] Shon55 issued server command: /home
+[07:18:12] nfan229 issued server command: /spawb
+[07:18:14] nfan229 issued server command: /spawn
+[07:18:17] nfan229 issued server command: /we cui
+[07:18:51] iceostick issued server command: /home
+[07:18:58] iceostick issued server command: /warp usa
+[07:20:23] SoapBuble issued server command: /home
+[07:20:47] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[07:22:15] Shon55 issued server command: /KIT RES
+[07:22:48] Shon55 issued server command: /kit matter
+[07:23:17] nfan229 issued server command: /home
+[07:23:19] nfan229 issued server command: /we cui
+[07:23:22] nfan229 issued server command: /rtp
+[07:23:49] nfan229 issued server command: /rtp
+[07:24:02] Shon55 issued server command: /hat
+[07:24:20] nfan229 issued server command: /kit Start'
+[07:24:23] nfan229 issued server command: /kit Start
+[07:26:07] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[07:26:40] nfan229 issued server command: /kit Start
+[07:26:42] nfan229 issued server command: /rtp
+[07:26:59] nfan229 issued server command: /rtp
+[07:31:27] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[07:32:58] iceostick issued server command: /home
+[07:33:18] iceostick issued server command: /warp usa
+[07:34:11] iceostick issued server command: /warp mining
+[07:34:12] iceostick issued server command: /we cui
+[07:34:15] [L] iceostick: .кез
+[07:34:18] iceostick issued server command: /rtp
+[07:35:06] iceostick issued server command: /rtp
+[07:35:16] iceostick issued server command: /rtp
+[07:35:23] iceostick issued server command: /rtp
+[07:36:08] iceostick issued server command: /rtp
+[07:36:48] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[07:38:59] nfan229 issued server command: /warp all
+[07:41:31] SoapBuble issued server command: /home
+[07:42:00] SoapBuble issued server command: /home
+[07:42:08] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[07:42:36] nfan229 вышел
+[07:46:36] JaestBrut зашёл
+[07:46:36] [L] setNolik: &aЗашел &b[&6JaestBrut&b]
+[07:46:45] JaestBrut issued server command: /we cui
+[07:47:02] JaestBrut issued server command: /god
+[07:47:05] JaestBrut issued server command: /fly
+[07:47:11] JaestBrut issued server command: /vanish
+[07:47:29] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[07:47:39] iceostick issued server command: /warp usa
+[07:47:42] iceostick issued server command: /we cui
+[07:48:05] Shon55 issued server command: /hat
+[07:48:50] iceostick issued server command: /home
+[07:49:33] Shon55 issued server command: /mpcaseshop
+[07:49:39] iceostick issued server command: /warp usa
+[07:49:43] Shon55 issued server command: /hat
+[07:50:13] iceostick issued server command: /home
+[07:50:24] JaestBrut issued server command: /warp mining
+[07:50:25] JaestBrut issued server command: /we cui
+[07:50:41] JaestBrut issued server command: /rtp
+[07:52:28] Shon55 issued server command: /home
+[07:52:49] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[07:53:20] Shon55 issued server command: /home
+[07:53:24] Shon55 issued server command: /home
+[07:55:24] Shon55 issued server command: /home
+[07:55:25] [L] Shon55: t
+[07:56:31] Shon55 issued server command: /home
+[07:58:10] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[07:58:47] Shon55 issued server command: /hat
+[07:59:11] Shon55 issued server command: /spawn
+[07:59:13] Shon55 issued server command: /we cui
+[08:00:03] Spinogryz зашёл
+[08:00:03] [L] setNolik: &aЗашел &b[&6Spinogryz&b]
+[08:00:05] Spinogryz issued server command: /we cui
+[08:00:08] Spinogryz issued server command: /home
+[08:00:27] Shon55 issued server command: /home
+[08:00:28] Shon55 issued server command: /we cui
+[08:02:43] Spinogryz issued server command: /home
+[08:02:58] 7ov4 зашёл
+[08:02:58] [L] setNolik: &aЗашел &b[&67ov4&b]
+[08:03:00] 7ov4 issued server command: /we cui
+[08:03:22] Spinogryz issued server command: /home
+[08:03:30] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[08:04:12] Spinogryz issued server command: /warp 32
+[08:05:19] Spinogryz issued server command: /home
+[08:08:41] Spinogryz issued server command: /home
+[08:08:50] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[08:10:15] Shon55 issued server command: /home
+[08:10:41] Spinogryz issued server command: /home
+[08:10:46] Spinogryz issued server command: /home
+[08:14:11] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[08:18:13] Shon55 вышел
+[08:19:31] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[08:20:48] Shon55 зашёл
+[08:20:48] [L] setNolik: &aЗашел &b[&6Shon55&b]
+[08:21:32] Shon55 issued server command: /we cui
+[08:21:32] Shon55 issued server command: /home
+[08:24:52] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[08:25:21] JaestBrut issued server command: /warp shop
+[08:25:23] JaestBrut issued server command: /we cui
+[08:25:33] JaestBrut issued server command: /home
+[08:25:35] JaestBrut issued server command: /we cui
+[08:26:58] Shon55 вышел
+[08:27:12] Shon55 зашёл
+[08:27:12] [L] setNolik: &aЗашел &b[&6Shon55&b]
+[08:27:15] Shon55 issued server command: /we cui
+[08:28:07] Spinogryz вышел
+[08:30:12] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[08:30:13] iceostick issued server command: /warp usa
+[08:31:26] [L] iceostick: .кез
+[08:31:29] iceostick issued server command: /rtp
+[08:32:19] iceostick issued server command: /home
+[08:33:11] iceostick issued server command: /warp mining
+[08:33:14] iceostick issued server command: /we cui
+[08:33:16] iceostick issued server command: /rtp
+[08:33:50] iceostick issued server command: /rtp
+[08:34:07] iceostick issued server command: /rtp
+[08:35:33] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[08:38:27] 7ov4 issued server command: /home
+[08:38:28] Shon55 вышел
+[08:38:59] JaestBrut issued server command: /vanish
+[08:40:53] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[08:42:49] vVIrTuOZzz зашёл
+[08:42:49] [L] setNolik: &aЗашел &b[&6vVIrTuOZzz&b]
+[08:42:55] vVIrTuOZzz issued server command: /we cui
+[08:43:35] vVIrTuOZzz issued server command: /we cui
+[08:46:13] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[08:47:31] Myshk зашёл
+[08:47:32] [L] setNolik: &aЗашел &b[&6Myshk&b]
+[08:47:45] Myshk issued server command: /we cui
+[08:48:47] 7ov4 issued server command: /warp end
+[08:48:50] 7ov4 issued server command: /we cui
+[08:49:02] Myshk issued server command: /mpcaseshop
+[08:49:04] Myshk issued server command: /mpcaseview 10
+[08:49:05] Myshk issued server command: /rollcase 10
+[08:49:18] Myshk issued server command: /mpcaseview 10
+[08:49:19] Myshk issued server command: /rollcase 10
+[08:49:36] Myshk issued server command: /warp all
+[08:49:37] 7ov4 issued server command: /home
+[08:49:39] 7ov4 issued server command: /we cui
+[08:49:47] iceostick issued server command: /home
+[08:49:49] iceostick issued server command: /we cui
+[08:50:09] iceostick issued server command: /warp usa
+[08:50:20] Myshk issued server command: /home
+[08:50:48] iceostick issued server command: /home
+[08:51:27] vVIrTuOZzz issued server command: /home
+[08:51:30] vVIrTuOZzz issued server command: /we cui
+[08:51:34] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[08:52:35] [L] vVIrTuOZzz: 20
+[08:52:46] Myshk issued server command: /warp usa
+[08:52:56] [G] 7ov4: !куплю печати
+[08:53:14] Myshk issued server command: /home
+[08:56:21] [G] vVIrTuOZzz: !интересно, возможно ли реализовать аукционтоваров, как в мморпг
+[08:56:54] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[08:56:57] vVIrTuOZzz issued server command: /warp mining
+[08:56:59] vVIrTuOZzz issued server command: /we cui
+[08:57:04] vVIrTuOZzz issued server command: /rtp
+[09:00:04] pyryalin0503 зашёл
+[09:00:05] [L] setNolik: &aЗашел &b[&6pyryalin0503&b]
+[09:00:09] pyryalin0503 issued server command: /we cui
+[09:00:46] 7ov4 issued server command: /home
+[09:01:07] vVIrTuOZzz issued server command: /home
+[09:01:10] vVIrTuOZzz issued server command: /we cui
+[09:02:15] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[09:02:19] vVIrTuOZzz issued server command: /warp usa
+[09:02:36] pyryalin0503 issued server command: /home
+[09:03:28] pyryalin0503 issued server command: /warp top
+[09:04:32] vVIrTuOZzz вышел
+[09:05:16] Myshk issued server command: /home
+[09:06:23] Myshk issued server command: /home
+[09:06:33] Myshk issued server command: /home
+[09:06:51] Shon55 зашёл
+[09:06:51] [L] setNolik: &aЗашел &b[&6Shon55&b]
+[09:07:03] Myshk вышел
+[09:07:28] Shon55 issued server command: /we cui
+[09:07:28] Shon55 issued server command: /mpcaseshop
+[09:07:31] Shon55 issued server command: /mpcaseshop
+[09:07:34] Shon55 issued server command: /mpcaseview 13
+[09:07:35] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[09:07:52] Shon55 issued server command: /mpcaseshop
+[09:07:53] Shon55 issued server command: /mpcaseview 11
+[09:08:05] Shon55 issued server command: /mpcaseshop
+[09:08:07] Shon55 issued server command: /mpcaseview 13
+[09:08:37] Shon55 issued server command: /mpcaseshop
+[09:12:37] iceostick issued server command: /warp mining
+[09:12:39] iceostick issued server command: /we cui
+[09:12:41] iceostick issued server command: /rtp
+[09:12:41] 7ov4 issued server command: /warp all
+[09:12:56] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[09:12:58] iceostick issued server command: /rtp
+[09:13:16] iceostick issued server command: /rtp
+[09:13:43] iceostick issued server command: /rtp
+[09:16:00] 7ov4 issued server command: /home
+[09:18:16] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[09:20:32] nfan229 зашёл
+[09:20:33] [L] setNolik: &aЗашел &b[&6nfan229&b]
+[09:20:40] nfan229 issued server command: /we cui
+[09:20:45] iceostick issued server command: /warp usa
+[09:20:47] iceostick issued server command: /we cui
+[09:22:14] nfan229 issued server command: /home
+[09:22:52] 7ov4 issued server command: /rg i
+[09:23:00] iceostick issued server command: /home
+[09:23:13] [L] iceostick: .цфкз гыф
+[09:23:15] iceostick issued server command: /warp usa
+[09:23:36] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[09:25:20] iceostick issued server command: /home
+[09:25:22] pyryalin0503 issued server command: /home
+[09:25:31] 7ov4 issued server command: /home
+[09:26:04] iceostick issued server command: /warp mining
+[09:26:06] iceostick issued server command: /we cui
+[09:26:06] [L] iceostick: p
+[09:26:09] iceostick issued server command: /rtp
+[09:28:57] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[09:29:39] iceostick issued server command: /home
+[09:29:43] iceostick issued server command: /we cui
+[09:30:32] iceostick issued server command: /warp usa
+[09:31:19] iceostick issued server command: /warp list -p
+[09:31:23] iceostick issued server command: /warp top
+[09:31:58] 7ov4 вышел
+[09:33:50] Shon55 был кикнут
+[09:33:50] Shon55 вышел
+[09:34:09] XumeP зашёл
+[09:34:10] [L] setNolik: &aЗашел &b[&6XumeP&b]
+[09:34:17] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[09:34:18] XumeP issued server command: /we cui
+[09:34:36] XumeP issued server command: /warp usa
+[09:34:56] [L] iceostick: 1
+[09:35:04] [L] iceostick: 2
+[09:35:35] [L] iceostick: 3
+[09:35:38] iceostick issued server command: /home
+[09:37:12] XumeP вышел
+[09:37:44] 7ov4 зашёл
+[09:37:44] [L] setNolik: &aЗашел &b[&67ov4&b]
+[09:38:33] 7ov4 issued server command: /we cui
+[09:38:41] SoapBuble issued server command: /home
+[09:38:45] iceostick issued server command: /warp usa
+[09:39:14] setNolik был кикнут
+[09:39:14] setNolik вышел
+[09:39:14] iceostick был кикнут
+[09:39:14] iceostick вышел
+[09:39:14] titanpsih был кикнут
+[09:39:14] titanpsih вышел
+[09:39:14] Illidan2045 был кикнут
+[09:39:14] Illidan2045 вышел
+[09:39:14] Rizhok был кикнут
+[09:39:14] Rizhok вышел
+[09:39:14] SoapBuble был кикнут
+[09:39:14] SoapBuble вышел
+[09:39:14] JaestBrut был кикнут
+[09:39:14] JaestBrut вышел
+[09:39:14] pyryalin0503 был кикнут
+[09:39:14] pyryalin0503 вышел
+[09:39:14] nfan229 был кикнут
+[09:39:14] nfan229 вышел
+[09:39:14] 7ov4 был кикнут
+[09:39:14] 7ov4 вышел
+[09:39:22] Сервер выключился
+[09:40:11] Сервер включился
+[09:40:41] 7ov4 зашёл
+[09:40:42] 7ov4 issued server command: /we cui
+[09:40:46] setNolik зашёл
+[09:40:47] Shon55 зашёл
+[09:40:48] Shon55 issued server command: /we cui
+[09:40:50] setNolik issued server command: /we cui
+[09:40:50] setNolik issued server command: /god
+[09:40:53] nfan229 зашёл
+[09:40:57] nfan229 issued server command: /we cui
+[09:41:01] SoapBuble зашёл
+[09:41:03] SoapBuble issued server command: /we cui
+[09:41:39] titanpsih зашёл
+[09:41:39] [L] setNolik: &aЗашел &b[&6titanpsih&b]
+[09:41:43] titanpsih issued server command: /we cui
+[09:41:43] titanpsih issued server command: /vanish
+[09:42:09] JaestBrut зашёл
+[09:42:09] [L] setNolik: &aЗашел &b[&6JaestBrut&b]
+[09:42:10] JaestBrut issued server command: /we cui
+[09:42:15] JaestBrut issued server command: /vanish
+[09:42:18] JaestBrut issued server command: /fly
+[09:42:22] JaestBrut issued server command: /god
+[09:43:10] 7ov4 issued server command: /home
+[09:43:36] Shon55 issued server command: /mpcaseshop
+[09:43:39] Shon55 issued server command: /mpcaseview 11
+[09:43:45] JaestBrut issued server command: /warp mining
+[09:43:46] JaestBrut issued server command: /we cui
+[09:43:48] Shon55 issued server command: /rollcase 11
+[09:43:52] JaestBrut issued server command: /rtp
+[09:44:02] Shon55 issued server command: /mpcaseview 11
+[09:44:04] Shon55 issued server command: /rollcase 11
+[09:44:19] Shon55 issued server command: /mpcaseview 11
+[09:44:20] Shon55 issued server command: /rollcase 11
+[09:44:34] Shon55 issued server command: /mpcaseview 11
+[09:44:36] Shon55 issued server command: /mpcaseshop
+[09:44:38] Shon55 issued server command: /mpcaseview 13
+[09:44:47] Shon55 issued server command: /rollcase 13
+[09:44:58] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[09:45:02] Shon55 issued server command: /mpcaseview 13
+[09:45:04] Shon55 issued server command: /rollcase 13
+[09:45:18] Shon55 issued server command: /mpcaseview 13
+[09:45:22] Shon55 issued server command: /rollcase 13
+[09:45:35] Shon55 issued server command: /mpcaseview 13
+[09:45:38] Shon55 issued server command: /rollcase 13
+[09:45:52] Shon55 issued server command: /mpcaseview 13
+[09:46:02] Shon55 issued server command: /rollcase 13
+[09:46:15] Shon55 issued server command: /mpcaseview 13
+[09:46:19] Shon55 issued server command: /mpcaseshop
+[09:46:23] iceostick зашёл
+[09:46:23] [L] setNolik: &aЗашел &b[&6iceostick&b]
+[09:46:29] iceostick issued server command: /we cui
+[09:46:36] iceostick issued server command: /home
+[09:47:03] Shon55 issued server command: /FLY
+[09:50:19] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[09:50:19] iceostick issued server command: /warp top
+[09:52:28] [L] iceostick: 1
+[09:52:31] iceostick issued server command: /home
+[09:53:02] nfan229 issued server command: /spawn
+[09:53:05] nfan229 issued server command: /we cui
+[09:53:58] SoapBuble issued server command: /home
+[09:54:09] iceostick issued server command: /warp usa
+[09:54:51] iceostick issued server command: /home
+[09:55:39] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[09:56:46] iceostick issued server command: /warp usa
+[09:57:13] iceostick issued server command: /warp top
+[09:58:38] [L] iceostick: 1
+[09:58:41] iceostick issued server command: /money
+[10:00:21] iceostick issued server command: /warp usa
+[10:00:47] SoapBuble вышел
+[10:00:59] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[10:03:07] iceostick issued server command: /warp top
+[10:03:25] iceostick issued server command: /home
+[10:03:37] iceostick issued server command: /warp usa
+[10:04:05] iceostick issued server command: /home
+[10:04:10] iceostick issued server command: /warp usa
+[10:04:41] iceostick issued server command: /home
+[10:06:04] Shon55 issued server command: /FLY
+[10:06:13] iceostick issued server command: /warp mining
+[10:06:15] iceostick issued server command: /we cui
+[10:06:17] iceostick issued server command: /rtp
+[10:06:19] Shon55 issued server command: /WARP _
+[10:06:20] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[10:06:28] iceostick issued server command: /rtp
+[10:07:02] JaestBrut issued server command: /trash
+[10:07:25] Shon55 issued server command: /money
+[10:07:32] Shon55 issued server command: /home
+[10:07:39] Shon55 issued server command: /WARP all
+[10:09:01] iceostick issued server command: /rtp
+[10:09:33] iceostick issued server command: /rtp
+[10:09:50] iceostick issued server command: /rtp
+[10:10:14] Shon55 issued server command: /home
+[10:11:40] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[10:11:51] Shon55 issued server command: /home
+[10:13:10] Shon55 issued server command: /home
+[10:13:23] iceostick issued server command: /rtp
+[10:13:35] 7ov4 issued server command: /rtp
+[10:13:51] Shon55 issued server command: /home
+[10:14:21] Shon55 issued server command: /home
+[10:14:35] iceostick issued server command: /rtp
+[10:14:54] iceostick issued server command: /rtp
+[10:15:16] iceostick issued server command: /rtp
+[10:15:31] iceostick issued server command: /rtp
+[10:15:33] snejjylkin зашёл
+[10:15:33] [L] setNolik: &aЗашел &b[&6snejjylkin&b]
+[10:15:33] Shon55 issued server command: /home
+[10:15:33] iceostick issued server command: /rtp
+[10:15:44] snejjylkin issued server command: /we cui
+[10:16:07] nfan229 вышел
+[10:16:51] iceostick issued server command: /kit eat
+[10:17:01] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[10:17:38] iceostick issued server command: /rtp
+[10:18:11] iceostick issued server command: /rtp
+[10:18:27] iceostick issued server command: /rtp
+[10:18:58] 7ov4 issued server command: /warp mining
+[10:19:02] 7ov4 issued server command: /we cui
+[10:19:10] 7ov4 issued server command: /rtp
+[10:22:21] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[10:26:31] iceostick issued server command: /home
+[10:26:33] iceostick issued server command: /we cui
+[10:26:44] iceostick issued server command: /warp usa
+[10:27:37] iceostick issued server command: /home
+[10:27:56] setNolik вышел
+[10:27:59] setNolik зашёл
+[10:28:02] setNolik issued server command: /we cui
+[10:28:02] setNolik issued server command: /god
+[10:28:24] iceostick issued server command: /warp top
+[10:28:53] iceostick issued server command: /home
+[10:29:33] iceostick issued server command: /vote day
+[10:29:37] iceostick issued server command: /help
+[10:29:40] iceostick issued server command: /help 2
+[10:29:41] titanpsih issued server command: /enderchest
+[10:30:30] titanpsih issued server command: /home
+[10:30:41] Shon55 вышел
+[10:31:28] Shon55 зашёл
+[10:31:28] [L] setNolik: &aЗашел &b[&6Shon55&b]
+[10:31:29] Shon55 issued server command: /we cui
+[10:32:03] Shon55 issued server command: /kit eat
+[10:33:02] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[10:33:34] Chypakabrik зашёл
+[10:33:35] [L] setNolik: &aЗашел &b[&6Chypakabrik&b]
+[10:34:20] Chypakabrik issued server command: /we cui
+[10:35:30] iceostick issued server command: /warp usa
+[10:35:37] iceostick issued server command: /home
+[10:36:13] iceostick issued server command: /warp usa
+[10:36:30] iceostick issued server command: /home
+[10:37:20] JaestBrut issued server command: /home
+[10:37:22] JaestBrut issued server command: /we cui
+[10:38:22] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[10:39:05] iceostick issued server command: /warp usa
+[10:40:19] iceostick issued server command: /home
+[10:40:57] iceostick issued server command: /warp usa
+[10:41:10] iceostick issued server command: /home
+[10:41:47] iceostick issued server command: /warp usa
+[10:42:11] setNolik issued server command: /home
+[10:42:16] [L] iceostick: .цфкз ещз
+[10:42:20] iceostick issued server command: /warp top
+[10:42:57] iceostick issued server command: /warp list -p
+[10:43:00] iceostick issued server command: /warp all
+[10:43:45] iceostick issued server command: /home
+[10:43:47] setNolik issued server command: /playtimetop
+[10:44:05] setNolik issued server command: /feed
+[10:44:25] setNolik issued server command: /home
+[10:50:01] iceostick issued server command: /warp usa
+[10:50:10] snejjylkin issued server command: /kit start
+[10:51:16] iceostick issued server command: /home
+[10:52:09] Chypakabrik issued server command: /rtp
+[10:52:10] Shon55 был кикнут
+[10:52:10] Shon55 вышел
+[10:55:56] Chypakabrik issued server command: /rtp
+[10:57:21] iceostick issued server command: /warp usa
+[10:57:58] iceostick issued server command: /warp top
+[10:59:27] iceostick issued server command: /warp all
+[11:00:00] iceostick issued server command: /home
+[11:01:19] Shon55 зашёл
+[11:01:19] [L] setNolik: &aЗашел &b[&6Shon55&b]
+[11:01:20] Shon55 issued server command: /we cui
+[11:01:49] JaestBrut issued server command: /home
+[11:04:01] iceostick issued server command: /home
+[11:04:40] Agillity зашёл
+[11:04:40] [L] setNolik: &aЗашел &b[&6Agillity&b]
+[11:04:52] Agillity issued server command: /we cui
+[11:05:08] setNolik issued server command: /home
+[11:05:17] setNolik issued server command: /home
+[11:05:43] Agillity issued server command: /warp mining
+[11:05:45] Agillity issued server command: /we cui
+[11:05:50] iceostick issued server command: /warp top
+[11:05:55] Agillity issued server command: /rtp
+[11:06:22] [L] iceostick: 1
+[11:06:32] iceostick issued server command: /home
+[11:08:01] iceostick issued server command: /warp top
+[11:08:06] SHLEPOK зашёл
+[11:08:06] [L] setNolik: &aЗашел &b[&6SHLEPOK&b]
+[11:08:12] JaestBrut issued server command: /vanish
+[11:08:13] SHLEPOK issued server command: /we cui
+[11:08:18] iceostick issued server command: /warp uas
+[11:08:20] iceostick issued server command: /warp usa
+[11:08:40] SHLEPOK issued server command: /warp list
+[11:08:46] SHLEPOK issued server command: /warp 1
+[11:08:47] SHLEPOK issued server command: /we cui
+[11:08:58] SHLEPOK issued server command: /warp 0
+[11:08:59] iceostick issued server command: /home
+[11:09:18] snejjylkin issued server command: /home
+[11:09:20] snejjylkin issued server command: /we cui
+[11:09:27] JaestBrut issued server command: /home
+[11:09:54] snejjylkin вышел
+[11:10:08] iceostick issued server command: /warp usa
+[11:11:11] Rizhok зашёл
+[11:11:12] [L] setNolik: &aЗашел &b[&6Rizhok&b]
+[11:11:15] Rizhok issued server command: /we cui
+[11:12:58] Shon55 issued server command: /hat
+[11:13:04] JaestBrut issued server command: /home
+[11:13:16] iceostick issued server command: /home
+[11:14:00] SHLEPOK issued server command: /rtp
+[11:14:33] JaestBrut issued server command: /home
+[11:14:43] Shon55 issued server command: /warp _
+[11:14:56] Shon55 issued server command: /fly
+[11:15:05] Oxpannik_Detdoma зашёл
+[11:15:06] [L] setNolik: &aЗашел &b[&6Oxpannik_Detdoma&b]
+[11:15:09] Oxpannik_Detdoma issued server command: /we cui
+[11:15:40] JaestBrut issued server command: /warp mining
+[11:15:42] JaestBrut issued server command: /we cui
+[11:15:45] JaestBrut issued server command: /vanish
+[11:15:48] JaestBrut issued server command: /rtp
+[11:15:52] SHLEPOK issued server command: /rtp
+[11:17:19] SHLEPOK issued server command: /warp eat
+[11:17:23] SHLEPOK issued server command: /kit eat
+[11:21:58] tupi зашёл
+[11:21:59] [L] setNolik: &aЗашел &b[&6tupi&b]
+[11:22:04] iceostick issued server command: /warp usa
+[11:22:13] tupi issued server command: /we cui
+[11:22:25] iceostick issued server command: /home
+[11:23:07] iceostick issued server command: /warp mining
+[11:23:11] iceostick issued server command: /we cui
+[11:23:15] iceostick issued server command: /rtp
+[11:24:05] SHLEPOK issued server command: /rtp
+[11:24:08] tupi issued server command: /rtp
+[11:24:27] tupi issued server command: /warp world
+[11:24:29] tupi issued server command: /we cui
+[11:24:37] tupi issued server command: /rtp
+[11:25:52] SHLEPOK issued server command: /rtp
+[11:26:50] SHLEPOK issued server command: /rtp
+[11:28:09] SHLEPOK issued server command: /rtp
+[11:28:22] Agillity был кикнут
+[11:28:22] Agillity вышел
+[11:28:27] iceostick issued server command: /rtp
+[11:28:41] iceostick issued server command: /rtp
+[11:28:47] iceostick issued server command: /rtp
+[11:28:52] VIPersona зашёл
+[11:28:53] [L] setNolik: &aЗашел &b[&6VIPersona&b]
+[11:28:56] tupi issued server command: /eat
+[11:28:59] tupi issued server command: /kit eat
+[11:29:09] iceostick issued server command: /rtp
+[11:29:41] SHLEPOK issued server command: /tpa tupi
+[11:29:47] iceostick issued server command: /rtp
+[11:29:48] tupi issued server command: /tpaccept
+[11:29:57] VIPersona issued server command: /we cui
+[11:30:11] iceostick issued server command: /rtp
+[11:30:12] VIPersona issued server command: /god
+[11:30:29] VIPersona issued server command: /mem
+[11:30:47] iceostick issued server command: /rtp
+[11:31:00] iceostick issued server command: /rtp
+[11:31:27] iceostick issued server command: /rtp
+[11:31:46] iceostick issued server command: /rtp
+[11:32:13] iceostick issued server command: /rtp
+[11:32:23] Shon55 issued server command: /home
+[11:32:27] SHLEPOK issued server command: /kit eat
+[11:33:00] SHLEPOK issued server command: //zone
+[11:33:03] SHLEPOK issued server command: //chunk
+[11:33:03] SHLEPOK issued server command: //outset 16
+[11:33:03] SHLEPOK issued server command: /zone
+[11:33:20] SHLEPOK issued server command: //sel
+[11:33:22] VIPersona issued server command: /home
+[11:33:38] iceostick issued server command: /rtp
+[11:33:46] SHLEPOK issued server command: //chunk
+[11:33:46] SHLEPOK issued server command: //outset 16
+[11:33:46] SHLEPOK issued server command: /zone
+[11:33:59] iceostick issued server command: /rtp
+[11:34:03] VIPersona issued server command: /oi SHLEPOK
+[11:34:04] SHLEPOK issued server command: //sel
+[11:34:07] SHLEPOK issued server command: //chunk
+[11:34:07] SHLEPOK issued server command: //outset 16
+[11:34:07] SHLEPOK issued server command: /zone
+[11:34:09] iceostick issued server command: /rtp
+[11:34:18] SHLEPOK issued server command: //sel
+[11:34:20] iceostick issued server command: /rtp
+[11:34:21] SHLEPOK issued server command: //chunk
+[11:34:21] SHLEPOK issued server command: //outset 16
+[11:34:21] SHLEPOK issued server command: /zone
+[11:34:44] iceostick issued server command: /rtp
+[11:35:46] iceostick issued server command: /home
+[11:35:48] iceostick issued server command: /we cui
+[11:36:21] VIPersona issued server command: /home
+[11:36:24] SHLEPOK issued server command: /rg claim glebuss
+[11:36:42] SHLEPOK issued server command: /rg addmember tupi glebuss
+[11:36:49] SHLEPOK issued server command: /rg addmember glebuss tupi
+[11:37:54] VIPersona issued server command: /home
+[11:38:10] Shon55 issued server command: /warp _
+[11:38:15] SoulRedemption зашёл
+[11:38:15] [L] setNolik: &aЗашел &b[&6SoulRedemption&b]
+[11:38:28] VIPersona issued server command: /oi SoulRedemption
+[11:38:36] SoulRedemption issued server command: /we cui
+[11:38:50] Shon55 issued server command: /tppos 2182 17 -2416
+[11:39:01] [G] SoulRedemption: !&bмодернератор
+[11:39:09] [G] VIPersona: !это кто такой
+[11:39:09] iceostick issued server command: /warp usa
+[11:39:14] [G] SoulRedemption: !&bти
+[11:39:18] Shon55 issued server command: //sel
+[11:39:20] [G] VIPersona: !жесть
+[11:39:23] [G] VIPersona: !че надо
+[11:39:26] [G] SoulRedemption: !&bУ миня друг ушол из игры((
+[11:39:27] Shon55 issued server command: /home
+[11:39:35] [G] VIPersona: !найди нового =)
+[11:39:43] [G] SoulRedemption: !&bДа меня на первый серв не пускает блин
+[11:39:45] [L] Shon55: хахахах
+[11:39:45] [G] SoulRedemption: !&bКрашит
+[11:39:48] [G] VIPersona: !вххвхвхв
+[11:40:01] [G] SoulRedemption: !&bВыдал себе стак кондёров
+[11:40:18] iceostick issued server command: /home
+[11:40:19] Shon55 issued server command: //sel
+[11:40:20] Shon55 issued server command: //sel
+[11:40:22] [G] VIPersona: !а ты гений
+[11:40:31] SHLEPOK issued server command: //sel
+[11:40:35] Agillity зашёл
+[11:40:35] [L] setNolik: &aЗашел &b[&6Agillity&b]
+[11:40:37] Agillity issued server command: /we cui
+[11:40:40] SHLEPOK issued server command: /warp list
+[11:40:43] [L] Shon55: как включить мульти инструмент 7 на 7
+[11:40:44] SHLEPOK issued server command: /warp new
+[11:40:52] SHLEPOK issued server command: /warp new
+[11:41:14] SHLEPOK issued server command: /warp 322
+[11:41:20] Shon55 вышел
+[11:41:56] [G] VIPersona: ! SoulRedemption
+[11:42:01] [G] SoulRedemption: !&bа
+[11:42:13] [G] VIPersona: !а чё филигранно нет в проге на чек онлайна
+[11:42:22] Agillity issued server command: /feed
+[11:42:24] [G] VIPersona: !он помер ?
+[11:42:24] Shon55 зашёл
+[11:42:24] [G] SoulRedemption: !&bУшёл((
+[11:42:24] [L] setNolik: &aЗашел &b[&6Shon55&b]
+[11:42:26] Shon55 issued server command: /we cui
+[11:42:29] [G] VIPersona: !псж ?
+[11:42:58] [G] SoulRedemption: !&bДа
+[11:43:02] [G] SoulRedemption: !&bДо сентября вродь
+[11:43:07] [G] VIPersona: !а ну норм
+[11:43:21] [G] VIPersona: !меня терорист вообще прям в лютое рабство забрал
+[11:43:26] [G] VIPersona: !сказал не отпустит
+[11:43:29] [G] SoulRedemption: !&bxD
+[11:43:29] nfan229 зашёл
+[11:43:29] [L] setNolik: &aЗашел &b[&6nfan229&b]
+[11:43:43] SHLEPOK issued server command: /warp all
+[11:43:56] Shon55 был кикнут
+[11:43:56] Shon55 вышел
+[11:44:05] Shon55 зашёл
+[11:44:05] [L] setNolik: &aЗашел &b[&6Shon55&b]
+[11:44:06] Shon55 issued server command: /we cui
+[11:44:16] iceostick issued server command: /warp usa
+[11:44:23] VIPersona issued server command: /zw
+[11:44:24] SoulRedemption вышел
+[11:44:32] SoulRedemption зашёл
+[11:44:33] [L] setNolik: &aЗашел &b[&6SoulRedemption&b]
+[11:44:35] SoulRedemption issued server command: /we cui
+[11:44:39] iceostick issued server command: /home
+[11:44:40] nfan229 issued server command: /we cui
+[11:44:46] VIPersona issued server command: /zset 236
+[11:44:53] VIPersona issued server command: /zset 237
+[11:44:56] SoulRedemption вышел
+[11:44:58] VIPersona issued server command: /zset 237
+[11:45:04] VIPersona issued server command: /zset 237
+[11:45:06] SoulRedemption зашёл
+[11:45:06] [L] setNolik: &aЗашел &b[&6SoulRedemption&b]
+[11:45:08] SoulRedemption issued server command: /we cui
+[11:45:09] Shon55 issued server command: /kit eat
+[11:45:09] VIPersona issued server command: /zset 237
+[11:45:22] VIPersona issued server command: /zset 1505:9
+[11:45:24] Shon55 issued server command: /home
+[11:45:34] Shon55 issued server command: /fly
+[11:45:41] SHLEPOK issued server command: /tpa tupi
+[11:45:46] tupi issued server command: /tpaccept
+[11:46:05] iceostick issued server command: /warp usa
+[11:46:10] Agillity issued server command: /feed
+[11:46:17] VIPersona issued server command: /thru
+[11:46:25] SHLEPOK issued server command: /sethome
+[11:46:27] Shon55 issued server command: /warp mining
+[11:46:28] Shon55 issued server command: /we cui
+[11:46:31] Shon55 issued server command: /rtp
+[11:46:34] SoulRedemption вышел
+[11:46:37] tupi issued server command: /set home
+[11:46:42] tupi issued server command: /home
+[11:46:44] tupi issued server command: /we cui
+[11:47:05] tupi issued server command: /tpa SHLEPOK
+[11:47:14] VIPersona вышел
+[11:47:15] tupi issued server command: /tpa SHLEPOK
+[11:47:26] tupi issued server command: /tp SHLEPOK
+[11:47:34] tupi issued server command: /tpa SHLEPOK
+[11:47:39] tupi issued server command: /home
+[11:47:49] tupi issued server command: /warp world
+[11:47:51] tupi issued server command: /we cui
+[11:47:57] tupi issued server command: /tp SHLEPOK
+[11:48:04] tupi issued server command: /RTP
+[11:48:13] tupi issued server command: /tpa SHLEPOK
+[11:48:20] SHLEPOK issued server command: /tpaccept
+[11:48:24] Agillity issued server command: /feed
+[11:48:25] Shon55 issued server command: /home
+[11:48:26] Shon55 issued server command: /we cui
+[11:49:01] iceostick issued server command: /warp usa
+[11:49:07] Shon55 issued server command: /warp mining
+[11:49:08] Shon55 issued server command: /we cui
+[11:49:14] Shon55 issued server command: /rtp
+[11:49:50] SHLEPOK issued server command: /kit start
+[11:50:00] tupi issued server command: /kit start
+[11:50:34] Chypakabrik issued server command: /rtp
+[11:50:49] Agillity issued server command: /feed
+[11:50:55] iceostick issued server command: /warp top
+[11:51:14] SHLEPOK issued server command: /warp mining
+[11:51:15] SHLEPOK issued server command: /we cui
+[11:51:35] SHLEPOK issued server command: /warp world
+[11:51:37] SHLEPOK issued server command: /we cui
+[11:51:39] SHLEPOK issued server command: /warp mining
+[11:51:40] SHLEPOK issued server command: /we cui
+[11:51:43] [L] iceostick: 1
+[11:51:44] SHLEPOK issued server command: /rtp
+[11:51:48] [L] iceostick: 1
+[11:51:51] Chypakabrik issued server command: /home
+[11:51:58] setNolik issued server command: /tppos -2648 180 1283
+[11:52:07] 7ov4 issued server command: /rtp
+[11:52:08] [L] iceostick: 1
+[11:52:47] iceostick issued server command: /home
+[11:52:53] [G] Oxpannik_Detdoma: !всем ку
+[11:52:58] SoulRedemption зашёл
+[11:52:58] [L] setNolik: &aЗашел &b[&6SoulRedemption&b]
+[11:53:02] Agillity issued server command: /feed
+[11:53:09] SoulRedemption issued server command: /we cui
+[11:53:11] SoulRedemption issued server command: /ci
+[11:53:18] [G] Oxpannik_Detdoma: ! SoulRedemption какими судьбами?
+[11:53:27] [G] SoulRedemption: !&bКрашит Тита
+[11:53:28] [G] SoulRedemption: !&bн
+[11:53:52] SoulRedemption вышел
+[11:53:58] SoulRedemption зашёл
+[11:53:59] [L] setNolik: &aЗашел &b[&6SoulRedemption&b]
+[11:54:01] SoulRedemption issued server command: /we cui
+[11:54:08] SoulRedemption вышел
+[11:54:25] nfan229 issued server command: /home
+[11:54:26] nfan229 issued server command: /we cui
+[11:54:33] [G] Oxpannik_Detdoma: !&6Продам ДК Шмотки/Посохи, пробуд ядра.&4 Сердце дракона.&2 Крафты на заказ.&3 Продам плутоний
+[11:55:13] iceostick issued server command: /warp top
+[11:55:17] Agillity issued server command: /feed
+[11:55:17] Shon55 issued server command: /home
+[11:55:19] Shon55 issued server command: /we cui
+[11:55:27] Shon55 issued server command: /warp _
+[11:55:36] [L] iceostick: 1
+[11:55:39] iceostick issued server command: /home
+[11:55:53] Oxpannik_Detdoma issued server command: /ec
+[11:56:35] iceostick issued server command: /rtp
+[11:56:56] Shon55 issued server command: /home
+[11:56:59] Agillity issued server command: /feed
+[11:57:16] Oxpannik_Detdoma issued server command: /home
+[11:57:23] Shon55 issued server command: /home
+[11:57:30] iceostick issued server command: /warp top
+[11:57:34] Oxpannik_Detdoma issued server command: /ec
+[11:58:31] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[11:58:51] Agillity issued server command: /feed
+[11:59:03] Shon55 вышел
+[11:59:09] Shon55 зашёл
+[11:59:09] [L] setNolik: &aЗашел &b[&6Shon55&b]
+[11:59:10] Shon55 issued server command: /we cui
+[12:00:21] Shon55 issued server command: /fly
+[12:00:31] iceostick issued server command: /home
+[12:00:43] Agillity issued server command: /feed
+[12:02:24] Oxpannik_Detdoma issued server command: /ec
+[12:02:53] Agillity issued server command: /feed
+[12:03:33] iceostick умер (FALL)
+[12:03:36] iceostick issued server command: /we cui
+[12:03:39] iceostick issued server command: /home
+[12:03:42] iceostick issued server command: /we cui
+[12:03:51] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[12:03:52] iceostick issued server command: /moeny
+[12:03:55] iceostick issued server command: /money
+[12:04:05] tupi issued server command: /kit eat
+[12:04:26] Shon55 issued server command: /warp end
+[12:04:27] Shon55 issued server command: /we cui
+[12:04:33] iceostick issued server command: /warp usa
+[12:04:45] Agillity issued server command: /feed
+[12:06:17] iceostick issued server command: /home
+[12:07:01] Agillity issued server command: /feed
+[12:07:33] nfan229 issued server command: /spawn
+[12:07:35] nfan229 issued server command: /we cui
+[12:07:43] Shon55 issued server command: /home
+[12:07:44] Shon55 issued server command: /we cui
+[12:08:28] Oxpannik_Detdoma issued server command: /ec
+[12:08:47] Oxpannik_Detdoma issued server command: /ec
+[12:09:02] Agillity issued server command: /feed
+[12:09:12] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[12:09:50] iceostick умер (FALL)
+[12:09:52] iceostick issued server command: /we cui
+[12:09:54] iceostick issued server command: /home
+[12:09:57] iceostick issued server command: /we cui
+[12:09:58] [G] Oxpannik_Detdoma: !&6Продам ДК Шмотки/Посохи, пробуд ядра.&4 Сердце дракона.&2 Крафты на заказ.&3 Продам плутоний
+[12:10:17] Agillity issued server command: /home
+[12:10:18] Agillity issued server command: /we cui
+[12:11:10] Agillity issued server command: /warp all
+[12:11:32] Agillity issued server command: /home
+[12:11:38] Agillity issued server command: /home
+[12:11:39] Agillity issued server command: /feed
+[12:12:42] iceostick issued server command: /warp mining
+[12:12:44] iceostick issued server command: /we cui
+[12:12:53] iceostick issued server command: /rtp
+[12:13:02] Chypakabrik issued server command: /home
+[12:13:33] Shon55 issued server command: /warp shop
+[12:13:35] Shon55 issued server command: /we cui
+[12:14:32] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[12:15:47] Shon55 issued server command: /warp end
+[12:15:50] Shon55 issued server command: /we cui
+[12:16:13] iceostick issued server command: /home
+[12:16:16] iceostick issued server command: /we cui
+[12:16:27] iceostick issued server command: /warp usa
+[12:16:38] iceostick issued server command: /warp top
+[12:16:53] Oxpannik_Detdoma issued server command: /ec
+[12:17:01] Shon55 issued server command: /home
+[12:17:02] Shon55 issued server command: /we cui
+[12:17:04] Shon55 issued server command: /warp end
+[12:17:08] Shon55 issued server command: /we cui
+[12:17:14] SHLEPOK issued server command: /home
+[12:17:15] SHLEPOK issued server command: /we cui
+[12:18:20] Shon55 issued server command: /warp top
+[12:18:21] Shon55 issued server command: /we cui
+[12:19:41] Shon55 issued server command: /money
+[12:19:52] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[12:19:54] Shon55 issued server command: /warp shop
+[12:19:55] Shon55 issued server command: /we cui
+[12:19:57] iceostick issued server command: /home
+[12:20:21] SHLEPOK issued server command: /warp list
+[12:20:26] SHLEPOK issued server command: /warp by
+[12:20:26] iceostick issued server command: /warp usa
+[12:20:40] Shon55 issued server command: /warp top
+[12:20:41] Shon55 issued server command: /we cui
+[12:20:55] iceostick issued server command: /home
+[12:21:23] [G] Oxpannik_Detdoma: !&6Продам ДК Шмотки/Посохи, пробуд ядра.&4 Сердце дракона.&2 Крафты на заказ.&3 Продам плутоний
+[12:22:30] SHLEPOK issued server command: /home
+[12:22:35] Oxpannik_Detdoma issued server command: /ec
+[12:22:35] Shon55 issued server command: /warp _
+[12:22:40] SHLEPOK issued server command: /sethome
+[12:22:47] Oxpannik_Detdoma issued server command: /ec
+[12:22:54] Oxpannik_Detdoma issued server command: /ec
+[12:23:13] Shon55 issued server command: /home
+[12:23:20] Shon55 issued server command: /warp end
+[12:23:21] Shon55 issued server command: /we cui
+[12:24:00] [L] SHLEPOK: ./warp by
+[12:24:06] SHLEPOK issued server command: /warp by
+[12:24:25] Oxpannik_Detdoma вышел
+[12:24:33] Shon55 issued server command: /home
+[12:24:34] Shon55 issued server command: /we cui
+[12:24:53] tupi issued server command: /sethome
+[12:24:59] tupi issued server command: /warp by
+[12:25:12] Shon55 issued server command: /warp shop
+[12:25:13] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[12:25:15] Shon55 issued server command: /we cui
+[12:25:29] [L] SHLEPOK: ./warp 322
+[12:25:32] SHLEPOK issued server command: /warp list
+[12:25:37] SHLEPOK issued server command: /warp 322
+[12:25:52] Shon55 issued server command: /warp shop
+[12:25:53] Shon55 issued server command: /warp shop
+[12:25:53] tupi issued server command: /warp 322
+[12:25:54] Shon55 issued server command: /warp shop
+[12:25:55] Shon55 issued server command: /warp shop
+[12:25:56] Shon55 issued server command: /warp shop
+[12:26:04] Shon55 issued server command: /home
+[12:26:05] Shon55 issued server command: /we cui
+[12:26:07] nfan229 issued server command: /home
+[12:26:09] nfan229 issued server command: /we cui
+[12:26:09] Shon55 issued server command: /warp shop
+[12:26:12] Shon55 issued server command: /we cui
+[12:27:19] Chypakabrik issued server command: /warp usa
+[12:28:24] Oxpannik_Detdoma зашёл
+[12:28:24] [L] setNolik: &aЗашел &b[&6Oxpannik_Detdoma&b]
+[12:28:46] Oxpannik_Detdoma issued server command: /we cui
+[12:28:52] SHLEPOK issued server command: /home
+[12:29:26] tupi issued server command: /home
+[12:29:39] Shon55 issued server command: /home
+[12:29:41] Shon55 issued server command: /we cui
+[12:30:00] Chypakabrik issued server command: /home
+[12:30:33] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[12:30:36] SHLEPOK issued server command: /warp 322
+[12:31:07] Shon55 issued server command: /home
+[12:31:09] SHLEPOK issued server command: /home
+[12:31:14] Shon55 issued server command: /fly
+[12:31:31] SHLEPOK issued server command: /warp ben
+[12:31:36] SHLEPOK issued server command: /warp ban
+[12:32:19] SHLEPOK issued server command: /warp new
+[12:32:29] SHLEPOK issued server command: /warp _
+[12:32:44] SHLEPOK issued server command: /warp list 2
+[12:32:47] SHLEPOK issued server command: /warp agh
+[12:32:54] SHLEPOK issued server command: /warp casino
+[12:32:56] SHLEPOK issued server command: /we cui
+[12:33:02] SHLEPOK issued server command: /warp ez
+[12:33:02] SHLEPOK issued server command: /we cui
+[12:33:12] SHLEPOK issued server command: /warp ir
+[12:33:30] SHLEPOK issued server command: /warp jail
+[12:33:31] SHLEPOK issued server command: /we cui
+[12:33:40] SHLEPOK issued server command: /warp kill
+[12:33:41] SHLEPOK issued server command: /we cui
+[12:33:52] SHLEPOK issued server command: /warp magaz
+[12:34:00] SHLEPOK issued server command: /warp list 3
+[12:34:04] SHLEPOK issued server command: /warp neo
+[12:34:42] Chypakabrik issued server command: /rtp
+[12:35:05] Chypakabrik issued server command: /rtp
+[12:35:54] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[12:36:43] SHLEPOK issued server command: /warp qwe
+[12:37:44] Oxpannik_Detdoma issued server command: /ec
+[12:37:47] SHLEPOK issued server command: /warp shop
+[12:37:48] SHLEPOK issued server command: /we cui
+[12:37:53] SHLEPOK issued server command: /warp top
+[12:37:54] SHLEPOK issued server command: /we cui
+[12:38:08] JaestBrut issued server command: /home
+[12:38:10] JaestBrut issued server command: /we cui
+[12:38:16] Chypakabrik issued server command: /home
+[12:38:20] nfan229 issued server command: /spawn
+[12:38:23] nfan229 issued server command: /we cui
+[12:39:20] iceostick issued server command: /warp usa
+[12:40:21] 7ov4 был кикнут
+[12:40:21] 7ov4 вышел
+[12:40:21] titanpsih был кикнут
+[12:40:21] titanpsih вышел
+[12:40:21] JaestBrut был кикнут
+[12:40:21] JaestBrut вышел
+[12:40:21] setNolik был кикнут
+[12:40:21] setNolik вышел
+[12:40:21] Chypakabrik был кикнут
+[12:40:21] Chypakabrik вышел
+[12:40:21] SHLEPOK был кикнут
+[12:40:21] SHLEPOK вышел
+[12:40:21] Rizhok был кикнут
+[12:40:21] Rizhok вышел
+[12:40:21] tupi был кикнут
+[12:40:21] tupi вышел
+[12:40:21] Agillity был кикнут
+[12:40:21] Agillity вышел
+[12:40:21] nfan229 был кикнут
+[12:40:21] nfan229 вышел
+[12:40:21] Shon55 был кикнут
+[12:40:21] Shon55 вышел
+[12:40:21] iceostick был кикнут
+[12:40:21] iceostick вышел
+[12:40:21] Oxpannik_Detdoma был кикнут
+[12:40:21] Oxpannik_Detdoma вышел
+[12:40:29] Сервер выключился
+[12:41:19] Сервер включился
+[12:41:46] setNolik зашёл
+[12:41:49] setNolik issued server command: /we cui
+[12:41:49] iceostick зашёл
+[12:41:51] setNolik issued server command: /god
+[12:41:54] setNolik issued server command: /home
+[12:41:56] iceostick issued server command: /we cui
+[12:41:59] Oxpannik_Detdoma зашёл
+[12:42:04] Oxpannik_Detdoma issued server command: /we cui
+[12:42:09] JaestBrut зашёл
+[12:42:09] [L] setNolik: &aЗашел &b[&6JaestBrut&b]
+[12:42:10] iceostick issued server command: /home
+[12:42:11] JaestBrut issued server command: /we cui
+[12:42:33] Oxpannik_Detdoma issued server command: /ec
+[12:42:42] iceostick issued server command: /warp mining
+[12:42:42] Oxpannik_Detdoma issued server command: /ec
+[12:42:42] Oxpannik_Detdoma issued server command: /ec
+[12:42:44] iceostick issued server command: /we cui
+[12:42:45] titanpsih зашёл
+[12:42:45] [L] setNolik: &aЗашел &b[&6titanpsih&b]
+[12:42:49] titanpsih issued server command: /we cui
+[12:42:49] titanpsih issued server command: /vanish
+[12:42:51] iceostick issued server command: /rtp
+[12:42:55] Oxpannik_Detdoma issued server command: /we cui
+[12:42:58] Chypakabrik зашёл
+[12:42:59] [L] setNolik: &aЗашел &b[&6Chypakabrik&b]
+[12:43:00] Chypakabrik issued server command: /we cui
+[12:43:01] iceostick issued server command: /kit eat
+[12:43:13] iceostick issued server command: /kit eat
+[12:43:15] iceostick issued server command: /rtp
+[12:43:25] ATToLUM зашёл
+[12:43:25] [L] setNolik: &aЗашел &b[&6ATToLUM&b]
+[12:43:27] ATToLUM issued server command: /we cui
+[12:43:40] iceostick issued server command: /rtp
+[12:43:44] Oxpannik_Detdoma issued server command: /home
+[12:43:49] ATToLUM issued server command: /home
+[12:43:54] ATToLUM вышел
+[12:43:54] Oxpannik_Detdoma issued server command: /home
+[12:44:00] Oxpannik_Detdoma issued server command: /home
+[12:44:07] Oxpannik_Detdoma issued server command: /home
+[12:44:09] Oxpannik_Detdoma issued server command: /we cui
+[12:44:19] Shon55 зашёл
+[12:44:19] [L] setNolik: &aЗашел &b[&6Shon55&b]
+[12:44:23] Oxpannik_Detdoma issued server command: /ec
+[12:44:38] iceostick issued server command: /rtp
+[12:44:45] Oxpannik_Detdoma issued server command: /ec
+[12:44:50] Shon55 issued server command: /we cui
+[12:44:51] Oxpannik_Detdoma issued server command: /ec
+[12:45:37] Oxpannik_Detdoma issued server command: /ec
+[12:45:39] 7ov4 зашёл
+[12:45:39] [L] setNolik: &aЗашел &b[&67ov4&b]
+[12:45:41] 7ov4 issued server command: /we cui
+[12:45:56] SHLEPOK зашёл
+[12:45:56] [L] setNolik: &aЗашел &b[&6SHLEPOK&b]
+[12:45:58] SHLEPOK issued server command: /we cui
+[12:46:04] SHLEPOK issued server command: /warp world
+[12:46:08] SHLEPOK issued server command: /rtp
+[12:46:10] 7ov4 issued server command: /home
+[12:46:12] 7ov4 issued server command: /we cui
+[12:46:37] Agillity зашёл
+[12:46:38] [L] setNolik: &aЗашел &b[&6Agillity&b]
+[12:46:40] Agillity issued server command: /we cui
+[12:46:54] Shon55 issued server command: /fly\
+[12:46:57] Shon55 issued server command: /fly
+[12:47:00] Shon55 issued server command: //sel
+[12:47:46] JaestBrut issued server command: /god
+[12:47:51] JaestBrut issued server command: /fly
+[12:48:38] [G] Agillity: !Куплю квант грудак за блоки меди.
+[12:48:45] [G] Oxpannik_Detdoma: !тп
+[12:48:52] Agillity issued server command: /m Oxpannik_Detdoma Сколько блоков?
+[12:49:05] Oxpannik_Detdoma issued server command: /r по минималке
+[12:49:09] VIPersona зашёл
+[12:49:09] [L] setNolik: &aЗашел &b[&6VIPersona&b]
+[12:49:16] Agillity issued server command: /r 108?
+[12:49:23] Oxpannik_Detdoma issued server command: /r тебе гравик нужен или простая квантовая кирасса?
+[12:49:34] Agillity issued server command: /m Oxpannik_Detdoma А можешь гравик продать?
+[12:49:44] Oxpannik_Detdoma issued server command: /r конечно, могу и дк продать
+[12:49:48] VIPersona issued server command: /we cui
+[12:50:03] Agillity issued server command: /m Oxpannik_Detdoma ДК я не потяну, а вот гравик сколько?
+[12:50:11] Shon55 вышел
+[12:50:12] Oxpannik_Detdoma issued server command: /r гравик 1,5к жб\мб
+[12:50:25] VIPersona issued server command: /god
+[12:50:25] Shon55 зашёл
+[12:50:26] [L] setNolik: &aЗашел &b[&6Shon55&b]
+[12:50:27] Shon55 issued server command: /we cui
+[12:50:36] Oxpannik_Detdoma issued server command: /ec
+[12:50:40] Oxpannik_Detdoma issued server command: /home
+[12:50:44] Oxpannik_Detdoma issued server command: /ec
+[12:51:10] JaestBrut issued server command: /vanish
+[12:51:15] JaestBrut issued server command: /warp mining
+[12:51:15] setNolik issued server command: /home
+[12:51:17] JaestBrut issued server command: /we cui
+[12:51:21] JaestBrut issued server command: /rtp
+[12:51:24] VIPersona issued server command: /oi setNolik
+[12:51:30] setNolik issued server command: /home
+[12:51:32] Shon55 issued server command: /home
+[12:51:32] Shon55 issued server command: /home
+[12:51:32] Shon55 issued server command: /home
+[12:51:32] Shon55 issued server command: /home
+[12:51:32] Shon55 issued server command: /home
+[12:51:32] Shon55 issued server command: /home
+[12:51:32] Shon55 issued server command: /home
+[12:51:32] Shon55 issued server command: /home
+[12:51:32] Shon55 issued server command: /home
+[12:51:32] Shon55 issued server command: /home
+[12:51:32] Shon55 issued server command: /home
+[12:51:32] Shon55 был кикнут
+[12:51:32] Shon55 вышел
+[12:51:37] Agillity issued server command: /m Oxpannik_Detdoma 4816:3 и квант кирасу за 256 блоков меди?
+[12:51:38] VIPersona issued server command: /oe setNolik
+[12:51:42] Shon55 зашёл
+[12:51:42] [L] setNolik: &aЗашел &b[&6Shon55&b]
+[12:51:42] Oxpannik_Detdoma issued server command: /r просто обычная квант кирасса не летает и не заряжает
+[12:51:44] Shon55 issued server command: /we cui
+[12:52:09] Agillity issued server command: /m Oxpannik_Detdoma Я знаю, мне для гравика не хватает 4816:3 и квант кирасы :)
+[12:52:12] nfan229 зашёл
+[12:52:12] [L] setNolik: &aЗашел &b[&6nfan229&b]
+[12:52:15] nfan229 issued server command: /we cui
+[12:52:22] Agillity issued server command: /feed
+[12:52:27] Shon55 issued server command: /fly
+[12:52:34] Shon55 issued server command: /dog
+[12:52:43] Shon55 issued server command: /god
+[12:52:51] nfan229 issued server command: /home
+[12:52:52] nfan229 issued server command: /we cui
+[12:53:23] Oxpannik_Detdoma issued server command: /m Agillity там даже по минималке эти два компонента будут стоить 534 блока
+[12:53:42] Agillity issued server command: /m Oxpannik_Detdoma Давай тогда 550 блоков меди?
+[12:53:48] Oxpannik_Detdoma issued server command: /m Agillity окей
+[12:53:54] Shon55 вышел
+[12:54:14] Oxpannik_Detdoma issued server command: /tpahere Agillity
+[12:54:27] Agillity issued server command: /m Oxpannik_Detdoma Спасибо, дружище, секунду, блоки скрафтятся.
+[12:54:50] Oxpannik_Detdoma issued server command: /m Agillity у тебя есть порт ввода вывода?
+[12:55:04] VIPersona issued server command: /zset 240:2
+[12:55:08] Agillity issued server command: /m Oxpannik_Detdoma Нет, у тебя в рг нельзя шмотки подбирать?
+[12:55:27] VIPersona issued server command: /zset 240:2
+[12:55:29] Oxpannik_Detdoma issued server command: /tpa Agillity
+[12:55:37] Agillity issued server command: /tpaccept
+[12:55:45] VIPersona issued server command: /zset 240:2
+[12:55:52] VIPersona issued server command: /zset 240:2
+[12:56:09] VIPersona issued server command: /warp top
+[12:56:46] VIPersona issued server command: /home
+[12:57:13] [L] Oxpannik_Detdoma: лол первый раз вижу
+[12:57:20] [L] Oxpannik_Detdoma: чтоб реакторы над головой ставили
+[12:57:24] [L] Agillity: м?
+[12:57:24] [L] Oxpannik_Detdoma: ахуеть
+[12:57:28] [L] Oxpannik_Detdoma: не боишься?
+[12:57:38] [L] Agillity: нет, все равно вайп скоро
+[12:57:45] [L] Oxpannik_Detdoma: они ж если ебанут то все тебе разнесут
+[12:57:47] [L] Agillity: тут рядом у wwww так же стоит
+[12:57:58] [L] Agillity: показать?
+[12:58:27] VIPersona issued server command: /back
+[12:58:29] [L] Agillity: Источники красного сигнала же не дадут взорваться.
+[12:59:01] [L] Agillity: Источники красного сигнала же не дадут взорваться.
+[12:59:08] VIPersona issued server command: /thru
+[12:59:13] [L] Oxpannik_Detdoma: датчики температуры
+[12:59:15] sascha1982 зашёл
+[12:59:15] [L] setNolik: &aЗашел &b[&6sascha1982&b]
+[12:59:21] [L] Agillity: А 2 ирид пластины продать сможешь? :)
+[12:59:31] [L] Oxpannik_Detdoma: укрепленных или обычных?
+[12:59:38] [L] Agillity: укр
+[12:59:38] sascha1982 issued server command: /we cui
+[12:59:41] [L] Oxpannik_Detdoma: ща
+[12:59:43] Oxpannik_Detdoma issued server command: /home
+[12:59:53] VIPersona issued server command: /zsell
+[13:00:07] Oxpannik_Detdoma issued server command: /tpa Agillity
+[13:00:08] Agillity issued server command: /m Oxpannik_Detdoma Сколько блоков за 2?
+[13:00:10] Agillity issued server command: /tpaccept
+[13:00:14] [L] Oxpannik_Detdoma: 94
+[13:00:35] [L] Oxpannik_Detdoma: тебе кароче проще было так гравик купить)
+[13:00:40] [G] sascha1982: !когда вайп?
+[13:00:46] [L] Oxpannik_Detdoma: ты считай все основное купил
+[13:01:06] [G] VIPersona: !неизвестно
+[13:01:14] [G] Oxpannik_Detdoma: !как только так сразу
+[13:01:31] [L] Oxpannik_Detdoma: а еще 30 блоков ты не хочешь отдать?
+[13:01:37] [L] Oxpannik_Detdoma: о все
+[13:01:38] [L] Agillity: Ты их не подобрал
+[13:01:57] [L] Oxpannik_Detdoma: вот поэтому я и не люблю торговать с пола
+[13:01:58] SHLEPOK issued server command: /kit start
+[13:02:03] [L] Oxpannik_Detdoma: лучше через ячейки
+[13:02:18] [L] Oxpannik_Detdoma: ладно удачи
+[13:02:20] [L] Agillity: Ну я недели 2 играю, с переменным успехом
+[13:02:23] [L] Agillity: не имею опыта
+[13:02:29] [G] setNolik: !&eв течение мес
+[13:02:29] [L] Agillity: и тебе, спасибо.
+[13:02:33] [L] Oxpannik_Detdoma: нужно будет если еще что то пиши
+[13:02:40] SHLEPOK issued server command: /home
+[13:02:41] [G] VIPersona: !фига нолик живой
+[13:02:42] [L] Oxpannik_Detdoma: по инструментам че у тебя?
+[13:02:50] Agillity issued server command: /warp usa
+[13:02:56] [G] setNolik: !&e+
+[13:02:58] Oxpannik_Detdoma issued server command: /home
+[13:04:07] SHLEPOK issued server command: /warp 322
+[13:04:22] Agillity issued server command: /home
+[13:04:43] [G] Oxpannik_Detdoma: !&6Продам ДК Шмотки/Посохи, пробуд ядра. &4Cердце дракона. &2Крафты на заказ.&3 Продам плутоний.
+[13:04:51] iceostick issued server command: /warp usa
+[13:04:53] iceostick issued server command: /we cui
+[13:05:01] iceostick issued server command: /home
+[13:05:11] iceostick issued server command: /warp usa
+[13:05:43] Oxpannik_Detdoma issued server command: /ec
+[13:05:54] iceostick issued server command: /home
+[13:06:27] LeVaN_1 зашёл
+[13:06:27] [L] setNolik: &aЗашел &b[&6LeVaN_1&b]
+[13:06:55] LeVaN_1 issued server command: /we cui
+[13:07:07] LeVaN_1 issued server command: /home
+[13:07:24] [G] Oxpannik_Detdoma: !леван
+[13:07:34] [G] Oxpannik_Detdoma: !ку
+[13:07:40] Oxpannik_Detdoma issued server command: /warp mining
+[13:07:45] SHLEPOK issued server command: /home
+[13:07:46] Oxpannik_Detdoma issued server command: /we cui
+[13:07:55] Oxpannik_Detdoma issued server command: /rtp
+[13:08:07] VIPersona issued server command: /thru
+[13:08:08] VIPersona issued server command: /thru
+[13:08:16] VIPersona issued server command: /thru
+[13:08:18] VIPersona issued server command: /thru
+[13:08:28] SHLEPOK issued server command: /warp neo
+[13:08:41] iceostick issued server command: /home
+[13:08:44] iceostick issued server command: /warp mining
+[13:08:46] iceostick issued server command: /we cui
+[13:08:49] iceostick issued server command: /rtp
+[13:09:02] SHLEPOK issued server command: /home
+[13:09:04] iceostick issued server command: /rtp
+[13:09:08] [G] VIPersona: !пойдёт кто в дс ?
+[13:09:10] iceostick issued server command: /kit eat
+[13:09:16] iceostick issued server command: /rtp
+[13:09:22] iceostick issued server command: /buyflag
+[13:09:27] iceostick issued server command: /rtp
+[13:09:40] [G] Oxpannik_Detdoma: !можем обсудить дату моего становления на должность помошника
+[13:09:51] LeVaN_1 issued server command: /money
+[13:09:58] [G] VIPersona: !ну пошли обсудим
+[13:10:13] [G] LeVaN_1: !всем ку
+[13:10:17] [G] Oxpannik_Detdoma: !5 минут
+[13:10:25] [G] VIPersona: !ку
+[13:10:25] [G] LeVaN_1: !что прям такой я и герой)
+[13:10:26] [G] Oxpannik_Detdoma: !я чай и покурить принесу
+[13:10:43] [G] VIPersona: ! LeVaN_1 в дс пойдёшь ?
+[13:11:04] [G] LeVaN_1: !я бы за ну у меня сечас такие удобсвто что я сижу на полу и играю в ман ахха
+[13:11:20] SHLEPOK issued server command: /kit start
+[13:11:34] [G] LeVaN_1: ! я же переехал
+[13:11:43] [G] LeVaN_1: !пока обстроюсь и уже мона будет все()
+[13:12:18] [G] LeVaN_1: !ахха никита украл все мои вещи гонял с ними писюн хха
+[13:12:27] [G] VIPersona: !-_-
+[13:12:50] VIPersona issued server command: /thru
+[13:12:50] LeVaN_1 issued server command: /home
+[13:12:53] LeVaN_1 issued server command: /god а
+[13:13:03] VIPersona issued server command: /thru
+[13:13:03] [G] LeVaN_1: !вип а чем ты заниаешься?)
+[13:13:05] VIPersona issued server command: /thru
+[13:13:12] [G] VIPersona: !где именно
+[13:13:15] [G] LeVaN_1: !тута
+[13:13:28] [G] VIPersona: !тпнись посмотри
+[13:13:31] iceostick issued server command: /kit eat
+[13:13:35] LeVaN_1 issued server command: /tp VIPersona
+[13:13:46] [L] LeVaN_1: шо варп?
+[13:13:56] [L] VIPersona: ну я типо новый рг делал
+[13:14:00] [L] VIPersona: ща варп
+[13:14:03] Chypakabrik issued server command: /home
+[13:14:04] [L] VIPersona: думаю
+[13:14:08] [L] VIPersona: как на вайпе сделать
+[13:14:16] [L] LeVaN_1: ааа
+[13:14:35] VIPersona issued server command: /thru
+[13:14:37] VIPersona issued server command: /zsell
+[13:14:38] VIPersona issued server command: /thru
+[13:14:46] LeVaN_1 issued server command: /tppos 3016 130 -1817
+[13:14:52] VIPersona issued server command: /thru
+[13:15:00] [L] LeVaN_1: шо тип новая база?)
+[13:15:08] [L] VIPersona: я ж говорю
+[13:15:12] [L] VIPersona: на след вайп
+[13:15:15] [L] VIPersona: макет делал
+[13:15:20] [L] LeVaN_1: та я понял
+[13:15:25] [L] LeVaN_1: красиво смотриться)
+[13:15:31] VIPersona issued server command: /thru
+[13:15:33] [L] LeVaN_1: уютно так)
+[13:15:41] [L] VIPersona: мне просто
+[13:15:43] [L] VIPersona: надоело
+[13:15:44] [L] VIPersona: жить
+[13:15:46] [L] VIPersona: в коробке
+[13:15:46] [L] LeVaN_1: аххаха
+[13:15:47] [L] VIPersona: из мэ
+[13:16:01] [L] LeVaN_1: а это же то место где я тееб сетнул деревья
+[13:16:06] [L] VIPersona: да
+[13:16:17] [L] LeVaN_1: не плохое у тебя вооброжение)
+[13:16:33] VIPersona issued server command: /thru
+[13:16:35] [L] LeVaN_1: честно сначала подумал что это варп чисты оидн
+[13:16:49] [L] VIPersona: видел мехи ?
+[13:16:52] [L] LeVaN_1: не
+[13:17:05] [L] LeVaN_1: а я лифт не увидел аха
+[13:17:06] [L] VIPersona: тут чисто мольки
+[13:17:12] [L] LeVaN_1: вижу
+[13:17:19] [G] Oxpannik_Detdoma: !я в комнате ожидания
+[13:17:26] [L] LeVaN_1: еба
+[13:17:29] [L] LeVaN_1: понаставлял
+[13:17:33] [L] LeVaN_1: наверное скучно было
+[13:17:34] [L] VIPersona: вхвххв
+[13:17:44] sascha1982 issued server command: /feed
+[13:17:55] [L] LeVaN_1: ну тута красиво
+[13:17:55] sascha1982 issued server command: /kit eat
+[13:18:05] [L] LeVaN_1: тока а чего мэ у тебя на пол тута и на пол сверху
+[13:18:06] Oxpannik_Detdoma issued server command: /rtp
+[13:18:10] [L] LeVaN_1: что мода такая?аахха
+[13:18:13] [L] VIPersona: а так удобнее
+[13:18:22] [L] VIPersona: типо
+[13:18:24] [L] VIPersona: на варп кабеля
+[13:18:29] sascha1982 issued server command: /money
+[13:18:32] [L] VIPersona: а тут
+[13:18:34] sascha1982 issued server command: /rtp
+[13:18:34] [L] VIPersona: на низ кабеля
+[13:18:34] [L] LeVaN_1: а шо тута планируешь?)
+[13:18:35] [L] VIPersona: и тд
+[13:18:47] iceostick issued server command: /warp usa
+[13:18:48] [L] LeVaN_1: аа
+[13:18:50] iceostick issued server command: /we cui
+[13:19:11] iceostick issued server command: /home
+[13:19:15] [L] LeVaN_1: бял мне так скучно играть щас ьеиболее я сам пока
+[13:19:21] [L] LeVaN_1: никуита сказал зажет через два дня
+[13:19:26] [L] LeVaN_1: досихпор заходит ахха
+[13:19:29] [L] VIPersona: хвхвхв
+[13:19:30] [L] LeVaN_1: уже как неделю
+[13:19:31] [L] VIPersona: норм
+[13:19:41] [L] LeVaN_1: то мне с тобо норм находитьсся
+[13:19:45] VIPersona issued server command: /list
+[13:19:46] [L] LeVaN_1: я думаю ты не против же)
+[13:19:57] iceostick issued server command: /warp usa
+[13:20:01] [L] VIPersona: не против чего
+[13:20:07] sascha1982 issued server command: /rtp
+[13:20:12] [L] LeVaN_1: что тип я у тебя в базе буду лазить ахах
+[13:20:18] [L] VIPersona: лазь
+[13:20:18] sascha1982 issued server command: /rtp
+[13:20:21] iceostick issued server command: /home
+[13:20:21] sascha1982 issued server command: /rtp
+[13:20:23] sascha1982 issued server command: /rtp
+[13:20:32] [L] LeVaN_1: мм чувсвую себя бомжом ахха
+[13:20:36] sascha1982 issued server command: /warp energy
+[13:20:37] SHLEPOK вышел
+[13:20:40] sascha1982 issued server command: /warp list
+[13:20:44] sascha1982 issued server command: /warp all
+[13:21:02] [L] LeVaN_1: а шо делавют коровы
+[13:21:03] [L] LeVaN_1: эти
+[13:21:07] [L] LeVaN_1: я не помню
+[13:21:09] [L] LeVaN_1: грибы
+[13:21:10] [L] LeVaN_1: ?
+[13:21:15] [L] VIPersona: ну с них
+[13:21:15] Chypakabrik вышел
+[13:21:17] [L] VIPersona: грибной суп
+[13:21:21] [L] LeVaN_1: а суп
+[13:21:22] [L] VIPersona: а он на печать нужен
+[13:21:28] [L] LeVaN_1: на печать силы?
+[13:21:33] [L] VIPersona: +
+[13:21:38] [L] LeVaN_1: та в пизду эту печать хпахапха
+[13:21:43] [L] VIPersona: вххвхв
+[13:21:43] sascha1982 issued server command: /rtp
+[13:21:44] [L] VIPersona: по факту
+[13:21:46] [L] LeVaN_1: у нолика он автокрафт есть
+[13:21:49] [L] LeVaN_1: вообще пизданулся
+[13:21:56] [L] VIPersona: ой боже
+[13:21:59] [L] VIPersona: он такой корявый
+[13:22:01] [L] LeVaN_1: ххахахаа
+[13:22:02] [L] VIPersona: этот автокрафт
+[13:22:05] [L] LeVaN_1: да
+[13:22:07] [L] VIPersona: и тпс в 0 жрёт
+[13:22:40] sascha1982 issued server command: /mpcaseshop
+[13:22:53] [L] LeVaN_1: та она вообще не выгодная какаета
+[13:23:15] [L] LeVaN_1: пизда у меня даже не ту колонок в хесроне оставил
+[13:23:20] [L] LeVaN_1: сижу на звуке ноута
+[13:23:57] [L] LeVaN_1: кароче я заграницей ну как бомж сижу на полу ахха что бы в ман поиграть)
+[13:23:58] [L] VIPersona: фу колонки
+[13:24:03] [L] VIPersona: ххвхвхв
+[13:24:05] [L] VIPersona: хорош
+[13:24:19] sascha1982 issued server command: /rtp
+[13:24:23] [L] LeVaN_1: должен потом ехать в одессу забирать паспорт
+[13:24:27] [L] LeVaN_1: загран
+[13:24:33] [L] LeVaN_1: а потом обратьно сюда где щас
+[13:24:42] [L] LeVaN_1: дума. мння пропусття
+[13:25:02] sascha1982 issued server command: /home
+[13:25:15] [L] LeVaN_1: а шо ты тута фери будешь садить?)
+[13:25:36] [L] VIPersona: не
+[13:25:40] [L] LeVaN_1: а шо
+[13:25:46] [L] VIPersona: резина
+[13:25:48] [L] LeVaN_1: аа
+[13:25:48] [L] VIPersona: тростникъ
+[13:25:51] [L] VIPersona: пшеница
+[13:25:56] [L] LeVaN_1: а ты без ферия играешь ты чисто на ульях?)
+[13:26:01] [L] VIPersona: чисто копаю
+[13:26:03] [L] VIPersona: и материя
+[13:26:05] [L] LeVaN_1: аъъаа
+[13:26:12] [L] LeVaN_1: чисто по фану)
+[13:26:16] sascha1982 issued server command: /home
+[13:26:17] [L] VIPersona: не и так норм
+[13:26:21] [L] VIPersona: я шатал
+[13:26:27] [L] VIPersona: ставить 100500 ферм
+[13:26:30] [L] VIPersona: чтобы они тпс сажали
+[13:26:32] [L] VIPersona: и фпс
+[13:26:34] [L] LeVaN_1: ахха ну и правильно)
+[13:26:45] [L] LeVaN_1: та я в вахуе со своего ноута
+[13:26:45] sascha1982 issued server command: /warp list
+[13:26:49] sascha1982 issued server command: /warp list 2
+[13:26:55] [L] LeVaN_1: у меня должен он сгореть от базы
+[13:26:57] [L] LeVaN_1: там росика
+[13:26:59] sascha1982 issued server command: /warp magaz
+[13:27:09] [L] LeVaN_1: а фпс был где-то 40
+[13:27:12] [L] LeVaN_1: ну тип нормса
+[13:27:12] sascha1982 issued server command: /warp list 3
+[13:27:17] sascha1982 issued server command: /warp usa
+[13:27:30] [L] LeVaN_1: блять у тебя тута этаже 500 штук
+[13:27:33] [L] LeVaN_1: ахха
+[13:27:45] [L] VIPersona: хвхвх
+[13:27:47] [L] VIPersona: но удобно
+[13:27:52] [L] LeVaN_1: можнор и потеряться)
+[13:27:58] [L] LeVaN_1: ставь реакторы)
+[13:27:59] [L] VIPersona: та не всё
+[13:28:01] [L] VIPersona: подписано
+[13:28:30] iceostick issued server command: /warp uas
+[13:28:30] [L] LeVaN_1: блять мне интресно когда вайп
+[13:28:32] iceostick issued server command: /warp usa
+[13:28:35] [L] VIPersona: скоро
+[13:28:42] [L] LeVaN_1: примерно
+[13:28:45] [L] LeVaN_1: месяц гдето?
+[13:28:49] [L] VIPersona: та не
+[13:28:53] [L] VIPersona: меньше думаю
+[13:29:04] [L] LeVaN_1: гу тоже так ждмаю
+[13:29:07] Riggle_Mini зашёл
+[13:29:08] [L] setNolik: &aЗашел &b[&6Riggle_Mini&b]
+[13:29:12] Riggle_Mini issued server command: /we cui
+[13:29:13] sascha1982 issued server command: /warp top
+[13:29:16] [L] LeVaN_1: а я забылся вспомнил что вап вот был
+[13:29:18] [L] LeVaN_1: доп миров
+[13:29:37] [L] LeVaN_1: шо ты там уже усе спиздил?
+[13:29:44] sascha1982 issued server command: /home
+[13:29:46] [L] VIPersona: не
+[13:29:51] [L] VIPersona: я даже близко туда не ходил
+[13:29:54] [L] VIPersona: мне лень
+[13:29:58] [L] LeVaN_1: мне тоже
+[13:30:08] sascha1982 issued server command: /warp top
+[13:30:08] [L] LeVaN_1: мона он по фану танцкевать как я апрньше делал
+[13:30:09] Riggle_Mini вышел
+[13:30:15] [L] VIPersona: делай
+[13:30:17] VIPersona issued server command: /thru
+[13:30:46] nfan229 issued server command: /home
+[13:30:50] nfan229 issued server command: /spawn
+[13:30:52] nfan229 issued server command: /we cui
+[13:30:53] [L] LeVaN_1: а где твоя старая база была? тута же?
+[13:30:59] [L] VIPersona: нет
+[13:31:00] [L] LeVaN_1: ты просто обновил ее?
+[13:31:01] [L] VIPersona: она стоит
+[13:31:02] [L] VIPersona: где варп
+[13:31:09] LeVaN_1 issued server command: /warp top
+[13:31:50] VIPersona issued server command: /zset 237
+[13:31:54] iceostick issued server command: /home
+[13:31:59] VIPersona issued server command: /zset 237
+[13:31:59] LeVaN_1 issued server command: /m VIPersona чего себе скин поседон не сделаешь?)
+[13:32:09] VIPersona issued server command: /zset 237
+[13:32:12] VIPersona issued server command: /r не хочу
+[13:32:18] VIPersona issued server command: /r слишком много эффектов
+[13:32:21] VIPersona issued server command: /r и фпс сажает
+[13:32:29] iceostick issued server command: /warp usa
+[13:32:30] sascha1982 issued server command: /home
+[13:32:30] VIPersona issued server command: /zset 237
+[13:32:39] VIPersona issued server command: /zset 237
+[13:32:46] VIPersona issued server command: /zset 237
+[13:33:03] iceostick issued server command: /home
+[13:33:11] LeVaN_1 issued server command: /tppos 2346 205 -3
+[13:33:17] LeVaN_1 issued server command: /tppos 2346 208 -3
+[13:33:56] LeVaN_1 issued server command: /m VIPersona нуц это да,я помню возле меня летал артем,я ему говрю юлять задымел мне своим ебаным
+[13:33:56] LeVaN_1 issued server command: /m скином не хуя не вижу ахха
+[13:34:11] sascha1982 issued server command: /home
+[13:34:40] Agillity issued server command: /warp mining
+[13:34:42] Agillity issued server command: /we cui
+[13:34:43] LeVaN_1 issued server command: /m VIPersona бля вообще оннлайн упал(
+[13:34:51] sascha1982 issued server command: /warp mining
+[13:34:52] Agillity issued server command: /rtp
+[13:34:55] sascha1982 issued server command: /we cui
+[13:34:57] sascha1982 issued server command: /rtp
+[13:35:11] LeVaN_1 issued server command: /tppos 2328 110 -123
+[13:35:16] VIPersona issued server command: /r ага
+[13:35:25] LeVaN_1 issued server command: /back
+[13:35:38] LeVaN_1 issued server command: /tppos 2328 110 -13
+[13:36:38] LeVaN_1 issued server command: /m VIPersona бля еба у вас олово 400к с хваостами нахуя ахха
+[13:36:39] SHLEPOK зашёл
+[13:36:39] [L] setNolik: &aЗашел &b[&6SHLEPOK&b]
+[13:36:48] SHLEPOK issued server command: /we cui
+[13:36:53] VIPersona issued server command: /r та мы панели не делаем
+[13:36:57] iceostick issued server command: /warp usa
+[13:37:06] iceostick issued server command: /warp usa
+[13:37:18] LeVaN_1 issued server command: /tp VIPersona
+[13:37:21] [L] LeVaN_1: понял
+[13:37:29] Agillity issued server command: /home
+[13:37:30] Agillity issued server command: /we cui
+[13:37:36] [L] LeVaN_1: на потерял)
+[13:37:37] VIPersona issued server command: /mem
+[13:38:12] LeVaN_1 issued server command: /rg i
+[13:38:15] VIPersona issued server command: /zset 240:2
+[13:38:38] [G] Oxpannik_Detdoma: !леван а ты че вернулся то?
+[13:38:53] [G] LeVaN_1: !ахха заскучился за тобой
+[13:38:55] VIPersona issued server command: /zset 240
+[13:39:01] [G] Oxpannik_Detdoma: !тебе же скоро хату снесут
+[13:39:05] SHLEPOK issued server command: /warp 322
+[13:39:05] VIPersona issued server command: /zset 240:1
+[13:39:09] [G] LeVaN_1: !всм
+[13:39:13] [G] LeVaN_1: !какую)
+[13:39:17] [G] Oxpannik_Detdoma: !и хату и тебя
+[13:39:20] VIPersona issued server command: /zset 240:1
+[13:39:22] [G] LeVaN_1: !ааа ахаха
+[13:39:26] VIPersona issued server command: /zset 240:1
+[13:39:35] VIPersona issued server command: /zset 240:1
+[13:39:35] [G] Oxpannik_Detdoma: !вайпом
+[13:39:40] VIPersona issued server command: /zset 240:1
+[13:39:41] [G] LeVaN_1: ! ну это да
+[13:39:58] [G] LeVaN_1: !решил так сказать время провести с вами перед вайпом)
+[13:40:10] VIPersona issued server command: /zset 0
+[13:40:20] [L] LeVaN_1: ахха шо ты криво делаешь)
+[13:40:25] [L] VIPersona: ага
+[13:40:45] [L] LeVaN_1: я закину тебе в мэ тваой блок
+[13:40:50] SHLEPOK issued server command: /home
+[13:40:52] [L] LeVaN_1: колону кварца
+[13:40:53] VIPersona issued server command: /zset 240:2
+[13:41:04] VIPersona issued server command: /zset 240:2
+[13:41:19] LeVaN_1 issued server command: /tppos 3031 160 -157
+[13:41:30] LeVaN_1 issued server command: /back
+[13:41:59] sascha1982 issued server command: /hom
+[13:42:00] sascha1982 issued server command: /home
+[13:42:01] LeVaN_1 issued server command: /tppos 3031 160 -1815
+[13:42:03] sascha1982 issued server command: /we cui
+[13:42:13] VIPersona issued server command: /zset 240:2
+[13:42:25] sascha1982 issued server command: /warp alll
+[13:42:26] sascha1982 issued server command: /warp all
+[13:42:40] [G] Oxpannik_Detdoma: !&6Продам ДК Шмотки/Посохи, пробуд ядра. &4Cердце дракона. &2Крафты на заказ.&3 Продам плутоний.
+[13:42:45] VIPersona issued server command: /zset 240:2
+[13:42:46] LeVaN_1 issued server command: /tp VIPersona\
+[13:42:52] LeVaN_1 issued server command: /tp VIPersona
+[13:42:58] sascha1982 issued server command: /home
+[13:43:02] Oxpannik_Detdoma issued server command: /money
+[13:43:08] VIPersona issued server command: /zset 240:2
+[13:43:32] [L] LeVaN_1: подожди а у тебя все почти блоки бесконечные)
+[13:43:43] [L] VIPersona: многие
+[13:43:49] sascha1982 вышел
+[13:44:08] [L] LeVaN_1: жаль что мне нету камня небесного
+[13:44:12] VIPersona issued server command: /zset 240:2
+[13:44:35] iceostick issued server command: /warp mining
+[13:44:37] iceostick issued server command: /we cui
+[13:44:41] [L] LeVaN_1: ладно пойду я по афкашу
+[13:44:43] iceostick issued server command: /rtp
+[13:44:45] [L] VIPersona: ага
+[13:44:46] [L] LeVaN_1: потом если что подойду
+[13:44:49] [L] LeVaN_1: удачки)
+[13:44:51] LeVaN_1 issued server command: /home
+[13:44:58] LeVaN_1 issued server command: /tppos 1531 62 -243
+[13:45:03] [L] VIPersona: давай
+[13:45:20] Agillity issued server command: /feed
+[13:45:37] iceostick issued server command: /rtp
+[13:46:00] iceostick issued server command: /rtp
+[13:46:08] VIPersona issued server command: /zset 240:1
+[13:46:17] iceostick issued server command: /rtp
+[13:46:30] iceostick issued server command: /rtp
+[13:46:37] iceostick issued server command: /rtp
+[13:47:44] VIPersona issued server command: /zset 240:1
+[13:48:08] VIPersona issued server command: /zset 240:1
+[13:48:29] VIPersona issued server command: /zset 240:1
+[13:48:57] VIPersona issued server command: /zset 240:1
+[13:49:12] SHLEPOK issued server command: /warp 322
+[13:49:16] VIPersona issued server command: /zset 240:1
+[13:49:24] VIPersona issued server command: /zset 240:1
+[13:49:29] VIPersona issued server command: /zset 240:1
+[13:49:39] SHLEPOK issued server command: /home
+[13:49:48] kuzaval зашёл
+[13:49:49] [L] setNolik: &aЗашел &b[&6kuzaval&b]
+[13:49:56] kuzaval issued server command: /we cui
+[13:50:07] VIPersona issued server command: /zset 240:1
+[13:50:18] VIPersona issued server command: /zset 0
+[13:50:32] VIPersona issued server command: /zset 240:1
+[13:50:37] kuzaval issued server command: /kit eat
+[13:50:39] VIPersona issued server command: /zset 240:1
+[13:50:44] VIPersona issued server command: /zset 240:1
+[13:50:51] VIPersona issued server command: /zset 240:1
+[13:50:54] nfan229 был кикнут
+[13:50:54] nfan229 вышел
+[13:51:27] VIPersona issued server command: /zset 240:1
+[13:51:41] kuzaval issued server command: /warp top
+[13:51:42] LeVaN_1 issued server command: /playtime
+[13:51:43] LeVaN_1 issued server command: /playtimetop
+[13:51:45] VIPersona issued server command: /zset 240:1
+[13:51:49] LeVaN_1 issued server command: /playtimetop clear
+[13:51:52] LeVaN_1 вышел
+[13:51:53] VIPersona issued server command: /zset 240:1
+[13:52:37] kuzaval issued server command: /home
+[13:52:42] VIPersona issued server command: /zset 240:1
+[13:53:26] VIPersona issued server command: /zset 240:1
+[13:53:30] VIPersona issued server command: /thru
+[13:53:41] VIPersona issued server command: /zset 0
+[13:53:43] VIPersona issued server command: /thru
+[13:54:17] VIPersona issued server command: /zset 240:1
+[13:54:18] VIPersona issued server command: /thru
+[13:54:27] VIPersona issued server command: /zset 0
+[13:54:28] VIPersona issued server command: /thru
+[13:55:25] SHLEPOK issued server command: /warp neo
+[13:55:30] VIPersona issued server command: /zset 240:1
+[13:55:46] VIPersona issued server command: /zset 240:1
+[13:55:52] VIPersona issued server command: /zset 240:1
+[13:55:52] iceostick issued server command: /home
+[13:55:55] iceostick issued server command: /we cui
+[13:56:01] VIPersona issued server command: /zset 240:1
+[13:56:02] iceostick умер (FIRE_TICK)
+[13:56:06] iceostick issued server command: /we cui
+[13:56:08] iceostick issued server command: /home
+[13:56:11] iceostick issued server command: /we cui
+[13:56:24] VIPersona issued server command: /zset 240:1
+[13:56:28] Agillity issued server command: /warp mining
+[13:56:30] Agillity issued server command: /we cui
+[13:56:34] Agillity issued server command: /rtp
+[13:56:37] VIPersona issued server command: /zset 240:1
+[13:56:42] VIPersona issued server command: /zset 240:1
+[13:56:42] iceostick issued server command: /rtp
+[13:56:49] VIPersona issued server command: /zset 240:1
+[13:56:50] iceostick issued server command: /warp mining
+[13:56:52] iceostick issued server command: /we cui
+[13:56:55] iceostick issued server command: /rtp
+[13:57:05] iceostick issued server command: /rtp
+[13:57:08] [G] SHLEPOK: !бур можно зачаровать?
+[13:57:17] [G] VIPersona: !только улучшенный
+[13:57:41] VIPersona issued server command: /zset 240:1
+[13:57:52] SHLEPOK issued server command: /home
+[13:57:54] VIPersona issued server command: /zset 240:1
+[13:57:59] VIPersona issued server command: /zset 240:1
+[13:58:01] VIPersona issued server command: /zset 240:1
+[13:58:05] VIPersona issued server command: /zset 240:1
+[13:58:07] VIPersona issued server command: /zset 240:1
+[13:58:09] SHLEPOK вышел
+[13:58:30] VIPersona issued server command: /zset 240:1
+[13:58:41] VIPersona issued server command: /zset 240:1
+[13:58:46] VIPersona issued server command: /zset 240:1
+[13:58:53] VIPersona issued server command: /zset 240:1
+[13:59:34] VIPersona issued server command: /zset 240:1
+[13:59:54] VIPersona issued server command: /zset 240:1
+[14:00:00] VIPersona issued server command: /zset 240:1
+[14:00:32] VIPersona issued server command: /zset 240:1
+[14:01:00] VIPersona issued server command: /zset 240:1
+[14:01:16] VIPersona issued server command: /zset 240:1
+[14:01:21] VIPersona issued server command: /zset 240:1
+[14:01:33] VIPersona issued server command: /zset 240:1
+[14:02:11] VIPersona issued server command: /playtime
+[14:03:30] VIPersona issued server command: /zset 240:2
+[14:03:48] VIPersona issued server command: /zset 240:2
+[14:04:00] VIPersona issued server command: /zset 240:2
+[14:04:13] [G] Oxpannik_Detdoma: !нолик
+[14:04:14] VIPersona issued server command: /zset 240:2
+[14:04:25] [G] Oxpannik_Detdoma: !ок
+[14:05:07] VIPersona issued server command: /oi kuzaval
+[14:05:44] [G] Oxpannik_Detdoma: !&6Продам ДК Шмотки/Посохи, пробуд ядра. &4Cердце дракона. &2Крафты на заказ.&3 Продам плутоний.
+[14:06:36] VIPersona issued server command: /zset 240:1
+[14:06:39] Oxpannik_Detdoma issued server command: /feed
+[14:06:52] VIPersona issued server command: /zset 240:1
+[14:07:02] VIPersona issued server command: /zset 240:1
+[14:07:14] VIPersona issued server command: /zset 240:1
+[14:07:32] VIPersona issued server command: /zset 240:1
+[14:07:39] VIPersona issued server command: /zset 240:1
+[14:07:51] VIPersona issued server command: /zset 240:1
+[14:08:08] VIPersona issued server command: /zset 240:1
+[14:08:14] VIPersona issued server command: /zset 240:1
+[14:08:26] VIPersona issued server command: /zset 240:1
+[14:08:35] VIPersona issued server command: /zset 240:1
+[14:08:42] VIPersona issued server command: /zset 240:1
+[14:08:56] [G] Oxpannik_Detdoma: !&6Продам ДК Шмотки/Посохи, пробуд ядра. &4Cердце дракона. &2Крафты на заказ.&3 Продам плутоний.
+[14:09:25] [L] VIPersona: Oxpannik_Detdoma
+[14:09:56] VIPersona issued server command: /history Oxpannik_Detdoma
+[14:10:15] VIPersona issued server command: /warn oxpannik_detdoma 3.8
+[14:10:15] Oxpannik_Detdoma был кикнут
+[14:10:15] Oxpannik_Detdoma вышел
+[14:14:17] Oxpannik_Detdoma зашёл
+[14:14:17] [L] setNolik: &aЗашел &b[&6Oxpannik_Detdoma&b]
+[14:14:38] Oxpannik_Detdoma issued server command: /we cui
+[14:14:50] [G] Oxpannik_Detdoma: !так

@@ -4,17 +4,29 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>{{ title }}</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/base.css') }}">
+		<link rel="icon" href="{{ url_for('static', filename='css/images/OB1LAB.ico') }}">
+        {% block css %}{% endblock %}
     </head>
     <body>
-        {% with messages = get_flashed_messages() %}
-        {% if messages %}
-        <ul>
-            {% for message in messages %}
-            <li>{{ message }}</li>
+        <div class="navbar">
+            <div class="ob1lab_index"><a href="{{ route_data.url_path }}/index"><button class="navbar_button">OB1LAB</button></a></div>
+            {% if current_user.is_authenticated %}
+                {% for url in route_data.private_routes %}
+                    {% if current_user.have_permission(route_data.private_routes[url]['perm']) %}
+                        <a href="{{ route_data.url_path }}/{{ url }}/"><button class="navbar_button">{{ route_data.private_routes[url]['name'] }}</button></a>
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+            {% for url in route_data.public_routes %}
+                <a href="{{ route_data.url_path }}/{{ url }}/"><button class="navbar_button">{{ route_data.public_routes[url] }}</button></a>
             {% endfor %}
-        </ul>
-        {% endif %}
-        {% endwith %}
+            {% if current_user.is_authenticated %}
+                <a href="{{ route_data.url_path }}/profile/{{ current_user.login }}"><button class="navbar_button">{{ current_user.login }}</button></a>
+            {% else %}
+                <a href="{{ route_data.url_path }}/login/"><button class="navbar_button">Авторизоваться</button></a>
+            {% endif %}
+        </div>
         {% block content %}{% endblock %}
     </body>
 </html>

@@ -1,0 +1,32 @@
+.authorization {
+	height: 75vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+    align-items: center;
+    color: #DEDEDE;
+}
+
+.authorization input, .authorization button {
+	margin-top: 5px;
+    border: 1px solid #999;
+    line-height: 48px;
+    height: 48px;
+    padding: 0px 16px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    background: #FFFFFF10;
+    color: #DEDEDE;
+    outline: none;
+    font-size: 20px;
+}
+
+.authorization input:hover, .authorization button:hover {
+	border: 1px solid white;
+}
+
+.authorization button:hover {
+	background: #FFFFFF20;
+	cursor: pointer;
+}

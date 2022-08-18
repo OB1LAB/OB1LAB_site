@@ -1,0 +1,12 @@
+.index_text {
+    display: flex;
+    height: 70vh;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.index_text p {
+    width: 1000px;
+    color: #DEDEDE;
+}

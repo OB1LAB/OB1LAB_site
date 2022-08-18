@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block css %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/error.css') }}">
+{% endblock %}
+
+{% block content %}
+    <hr>
+    <div class="error_text">
+        <img src="{{ url_for('static', filename='css/images/5.jpg') }}">
+        <div style="height: 50px"></div>
+        <p>{{ title }}<br>{{text}}</p>
+    </div>
+{% endblock %}

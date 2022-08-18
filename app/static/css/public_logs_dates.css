@@ -1,0 +1,19 @@
+h1 {
+	color: white;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+.log_dates {
+	overflow-y: auto;
+	height: calc(100vh - 101px);
+}
+
+.log_date a {
+	font-size: 15px;
+	margin-left: 5px;
+}
+
+.log_date a:hover {
+	color: white;
+}

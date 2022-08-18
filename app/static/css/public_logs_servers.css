@@ -1,0 +1,15 @@
+.select_server_menu {
+	height: 65vh;
+	display: flex;
+	justify-content: center;
+    align-items: center;
+}
+
+.server_list {
+	color: white;
+	text-align: center;
+}
+
+.servers {
+	margin-top: 15px;
+}

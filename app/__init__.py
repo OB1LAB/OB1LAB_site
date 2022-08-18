@@ -3,11 +3,15 @@ from config import Config
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
 from flask_login import LoginManager
+from app.logs_public_downloader import start_thread_logs_download
 
 app = Flask(__name__)
+app.url_map.strict_slashes = False
 app.config.from_object(Config)
 db = SQLAlchemy(app)
 migrate = Migrate(app, db)
 login = LoginManager(app)
+login.login_view = 'login'
+# start_thread_logs_download()
 
 from app import routes, models

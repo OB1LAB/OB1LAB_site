@@ -1,0 +1,10 @@
+span {
+	color: #555
+}
+
+.logs {
+	height: calc(100vh - 54px);
+	margin-left: 5px;
+	overflow-y: auto;
+	overflow-x: hidden;
+}

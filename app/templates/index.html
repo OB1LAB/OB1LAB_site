@@ -1,5 +1,17 @@
 {% extends "base.html" %}
 
+{% block css %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
+{% endblock %}
+
 {% block content %}
-    <h1>Hi, {{ user.username }}!</h1>
+    <hr>
+    <div class="index_text">
+        <p>
+            Добро пожаловать на сайт лаборатории OB1LAB.
+            В данный момент он выполняет функции хранения логов/Подсчёт игровой активности/Поиск
+            нформации в приватных логах/Авторизацию для UltimaTech. За идеями по улучшению/Баг репортам/Вопросам
+            к <a target="_blank" href="https://vk.com/ob1cham">OB1CHAM#7049</a>
+        </p>
+    </div>
 {% endblock %}
