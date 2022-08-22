@@ -1,18 +1,17 @@
-const servers = document.querySelector(".select_server")
-const date_1 = document.querySelector(".date_1")
-const date_2 = document.querySelector(".date_2")
-const memeber_players = document.querySelector(".player_list")
-const btn_select_server = document.querySelector(".server_list")
-const activity_players = document.querySelector(".activity_list")
-let server = ''
-let member_list = ''
-let player_in_activity = []
+servers = document.querySelector(".select_server")
+date_1 = document.querySelector(".date_1")
+date_2 = document.querySelector(".date_2")
+memeber_players = document.querySelector(".player_list")
+btn_select_server = document.querySelector(".server_list")
+activity_players = document.querySelector(".activity_list")
+server = ''
+member_list = ''
+player_in_activity = []
 
 
-const get_players = () => {
+function get_players() {
 	if (typeof players === 'undefined') {
-	    const players = JSON.parse(http_get('http://127.0.0.1:5000/api/get_activity_data'))
-	    return players
+	    return JSON.parse(http_get('http://127.0.0.1:5000/api/get_activity_data'))
 	}
 	return players
 }
@@ -39,7 +38,7 @@ function http_post(url, data) {
 }
 
 
-const update_activity_data = (local_data) => {
+function update_activity_data(local_data) {
 	if (local_data) {
 		activity_players.innerHTML = get_player_activity(player_in_activity, local_data)
 	} else {
@@ -53,7 +52,7 @@ const update_activity_data = (local_data) => {
 }
 
 
-const get_player_activity = function(player_list, local_data) {
+function get_player_activity(player_list, local_data) {
 	data = {...local_data}
 	activity = ''
 	for (check_player in player_list) {
@@ -106,7 +105,7 @@ const get_player_activity = function(player_list, local_data) {
 }
 
 
-const distribution_players = function(player_list) {
+function distribution_players(player_list) {
 	member_list = ''
 	server = btn_select_server.textContent
 	activity_players.innerHTML = get_player_activity(player_list, {})
@@ -131,19 +130,19 @@ const distribution_players = function(player_list) {
 }
 
 
-const add_player = function(player) {
+function add_player(player) {
 	player_in_activity.push(player)
 	distribution_players(player_in_activity)
 }
 
 
-const delete_player = function(player) {
+function delete_player(player) {
 	player_in_activity.splice(player_in_activity.indexOf(player), 1)
 	distribution_players(player_in_activity)
 }
 
 
-const select_server = function(server) {
+function select_server(server) {
 	servers.innerHTML = ''
 	servers.id = 'hidden'
 	btn_select_server.innerHTML = server

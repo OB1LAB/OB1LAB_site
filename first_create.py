@@ -5,7 +5,7 @@ from app.models import User, Role, Permission
 from app.config import permissions, public_logs_servers_list, private_logs_servers_list
 
 
-role = Role(name='Создатели', color='red', lvl=999, checker_view=False)
+role = Role(name="*", color='red', lvl=999, checker_view=False)
 for perm in permissions:
     if perm != 'UltimaTech Staff':
         add_perm = Permission(name=perm, description=permissions[perm])

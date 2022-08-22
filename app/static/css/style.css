@@ -8,6 +8,10 @@ html {
     background: #151515;
 }
 
+.title {
+    display: none;
+}
+
 .activity_check p {
 	height: 40px;
 	font-size: 28px;

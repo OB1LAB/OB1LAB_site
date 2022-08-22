@@ -1,17 +1,30 @@
-{% extends "base.html" %}
+{% if request.method == "GET" %}
+    {% extends "base.html" %}
 
-{% block css %}
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/public_logs_dates.css') }}">
-{% endblock %}
-
-{% block content %}
-    <h1>{{ server }}/Публичные логи</h1>
-    <hr>
-    <div class="log_dates">
-        <div class="log_date"><a href="{{ route_data.url_path }}/public_logs">Назад</a></div>
-        {% for date in dates %}
-            <div class="log_date"><a href="{{ route_data.url_path }}/public_logs/{{ server }}/{{ date }}">{{ date }}</a></div>
-        {% endfor %}
+    {% block content %}
+        <div class="public_logs_dates">
+            <h1>{{ server }}/Публичные логи</h1>
+            <hr>
+            <div class="log_dates">
+                <div class="log_date"><a href="{{ route_data.url_path }}/public_logs">Назад</a></div>
+                {% for date in dates %}
+                    <div class="log_date"><a href="{{ route_data.url_path }}/public_logs/{{ server }}/{{ date }}">{{ date }}</a></div>
+                {% endfor %}
+            </div>
+            <hr>
+        </div>
+    {% endblock %}
+{% else %}
+    <div class="title">{{ title }}</div>
+    <div class="public_logs_dates">
+        <h1>{{ server }}/Публичные логи</h1>
+        <hr>
+        <div class="log_dates">
+            <div class="log_date"><a href="{{ route_data.url_path }}/public_logs">Назад</a></div>
+            {% for date in dates %}
+                <div class="log_date"><a href="{{ route_data.url_path }}/public_logs/{{ server }}/{{ date }}">{{ date }}</a></div>
+            {% endfor %}
+        </div>
+        <hr>
     </div>
-    <hr>
-{% endblock %}
+{% endif %}

@@ -3,19 +3,19 @@
     {% block content %}
         <div class="private_logs">
             <hr>
-            <div class="logs">
-                <pre style="word-wrap: break-word; white-space: pre-wrap;">{% for line in logs %}<b><span>{{line|safe}}</span></b>
-        {% endfor %}</pre>
+            <div class="logs"><pre style="word-wrap: break-word; white-space: pre-wrap;">{% for line in logs %}<b><span>{{line|safe}}</span></b>
+{% endfor %}</pre>
             </div>
             <hr>
         </div>
     {% endblock %}
 {% else %}
+    <div class="title">{{ title }}</div>
     <div class="private_logs">
         <hr>
         <div class="logs">
             <pre style="word-wrap: break-word; white-space: pre-wrap;">{% for line in logs %}<b><span>{{line|safe}}</span></b>
-    {% endfor %}</pre>
+{% endfor %}</pre>
         </div>
         <hr>
     </div>

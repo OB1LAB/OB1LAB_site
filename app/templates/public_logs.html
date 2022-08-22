@@ -1,13 +1,22 @@
-{% extends "base.html" %}
+{% if request.method == "GET" %}
+    {% extends "base.html" %}
 
-{% block css %}
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/public_logs.css') }}">
-{% endblock %}
-
-{% block content %}
+    {% block content %}
+        <hr>
+        <div class="public_logs">
+            <div class="logs">
+                <pre style="word-wrap: break-word; white-space: pre-wrap;">{{ logs }}</pre>
+            </div>
+            <hr>
+        </div>
+    {% endblock %}
+{% else %}
+    <div class="title">{{ title }}</div>
     <hr>
-    <div class="logs">
-        <pre style="word-wrap: break-word; white-space: pre-wrap;">{{ logs }}</pre>
+    <div class="public_logs">
+        <div class="logs">
+            <pre style="word-wrap: break-word; white-space: pre-wrap;">{{ logs }}</pre>
+        </div>
+        <hr>
     </div>
-    <hr>
-{% endblock %}
+{% endif %}

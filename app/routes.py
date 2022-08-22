@@ -7,8 +7,8 @@ from flask import render_template, redirect, url_for, request
 from app.config import private_routes, public_logs_servers_list, colors_codes, route_data, api_list
 
 
-@app.route('/')
-@app.route('/index')
+@app.route('/', methods=['GET', 'POST'])
+@app.route('/index', methods=['GET', 'POST'])
 def index():
     return render_template('index.html', title="OB1LAB", route_data=route_data)
 
@@ -40,20 +40,20 @@ def login():
     return render_template('login.html', title='Авторизация', form=form, route_data=route_data)
 
 
-@app.route('/logout')
+@app.route('/logout', methods=['GET', 'POST'])
 def logout():
     if current_user.is_authenticated:
         logout_user()
     return redirect(url_for('index'))
 
 
-@app.route('/public_logs')
+@app.route('/public_logs', methods=['GET', 'POST'])
 def public_logs_servers():
     return render_template('public_logs_servers.html', title="Публичные логи", servers=public_logs_servers_list,
                            route_data=route_data)
 
 
-@app.route('/public_logs/<server>')
+@app.route('/public_logs/<server>', methods=['GET', 'POST'])
 def public_logs_dates(server):
     if server not in public_logs_servers_list:
         return render_template('error.html', text=f'{server} не найден в списке серверов', title='Error 404',
@@ -62,7 +62,7 @@ def public_logs_dates(server):
                            dates=date_sort(os.listdir(f'logs/public/{server}')), route_data=route_data)
 
 
-@app.route('/public_logs/<server>/<date>')
+@app.route('/public_logs/<server>/<date>', methods=['GET', 'POST'])
 def public_logs(server, date):
     if server not in public_logs_servers_list or date not in os.listdir(f'logs/public/{server}'):
         return render_template('error.html', text=f'{server} не надйен в списке серверов, либо {date} нет в списке дат',
