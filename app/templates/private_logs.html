@@ -1,14 +1,22 @@
-{% extends "base.html" %}
-
-{% block css %}
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/private_logs.css') }}">
-{% endblock %}
-
-{% block content %}
-    <hr>
-    <div class="logs">
-        <pre style="word-wrap: break-word; white-space: pre-wrap;">{% for line in logs %}<b><span>{{line|safe}}</span></b>
-{% endfor %}</pre>
+{% if request.method == "GET" %}
+    {% extends "base.html" %}
+    {% block content %}
+        <div class="private_logs">
+            <hr>
+            <div class="logs">
+                <pre style="word-wrap: break-word; white-space: pre-wrap;">{% for line in logs %}<b><span>{{line|safe}}</span></b>
+        {% endfor %}</pre>
+            </div>
+            <hr>
+        </div>
+    {% endblock %}
+{% else %}
+    <div class="private_logs">
+        <hr>
+        <div class="logs">
+            <pre style="word-wrap: break-word; white-space: pre-wrap;">{% for line in logs %}<b><span>{{line|safe}}</span></b>
+    {% endfor %}</pre>
+        </div>
+        <hr>
     </div>
-    <hr>
-{% endblock %}
+{% endif %}

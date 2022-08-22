@@ -1,39 +1,74 @@
-{% extends "base.html" %}
-
-{% block css %}
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/activity_check.css') }}">
-{% endblock %}
-
-{% block content %}
-    <hr>
-    <div class="activity_check">
-        <div class="left_side">
-            <p>MEMBERS LIST</p>
-            <div class="player_list">
+{% if request.method == "GET" %}
+    {% extends "base.html" %}
+    {% block content %}
+        <div class="activity_check">
+            <hr>
+            <div class="activity_window">
+                <div class="left_side">
+                    <p>MEMBERS LIST</p>
+                    <div class="player_list">
+                    </div>
+                </div>
+                <div class="right_side">
+                    <p>STATISTIC LIST</p>
+                    <div class="statistic">
+                        <div class="servers">
+                            <button class="server_list"></button>
+                            <div class="select_server"></div>
+                        </div>
+                        <input class="date_1" type="date">
+                        <input class="date_2" type="date">
+                        <div class="local">[L]</div>
+                        <div class="global">[G]</div>
+                        <div class="pm">[PM]</div>
+                        <div class="warn">Warns</div>
+                        <div class="mute">Mutes</div>
+                        <div class="kick">Kicks</div>
+                        <div class="ban">Bans</div>
+                        <div class="avg">AVG</div>
+                        <div class="total">Total</div>
+                    </div>
+                    <div class="activity_list">
+                    </div>
+                </div>
             </div>
         </div>
-        <div class="right_side">
-            <p>STATISTIC LIST</p>
-            <div class="statistic">
-                <div class="servers">
-                    <button class="server_list"></button>
-                    <div class="select_server"></div>
+        <script type="text/javascript" src="{{ url_for('static', filename='js/activity_check.js') }}"></script>
+    {% endblock %}
+{% else %}
+    <div class="activity_check">
+        <hr>
+        <div class="activity_window">
+            <div class="left_side">
+                <p>MEMBERS LIST</p>
+                <div class="player_list">
                 </div>
-                <input class="date_1" type="date">
-                <input class="date_2" type="date">
-                <div class="local">[L]</div>
-                <div class="global">[G]</div>
-                <div class="pm">[PM]</div>
-                <div class="warn">Warns</div>
-                <div class="mute">Mutes</div>
-                <div class="kick">Kicks</div>
-                <div class="ban">Bans</div>
-                <div class="avg">AVG</div>
-                <div class="total">Total</div>
             </div>
-            <div class="activity_list">
+            <div class="right_side">
+                <p>STATISTIC LIST</p>
+                <div class="statistic">
+                    <div class="servers">
+                        <button class="server_list"></button>
+                        <div class="select_server"></div>
+                    </div>
+                    <input class="date_1" type="date">
+                    <input class="date_2" type="date">
+                    <div class="local">[L]</div>
+                    <div class="global">[G]</div>
+                    <div class="pm">[PM]</div>
+                    <div class="warn">Warns</div>
+                    <div class="mute">Mutes</div>
+                    <div class="kick">Kicks</div>
+                    <div class="ban">Bans</div>
+                    <div class="avg">AVG</div>
+                    <div class="total">Total</div>
+                </div>
+                <div class="activity_list">
+                </div>
             </div>
         </div>
     </div>
-    <script type="text/javascript" src="{{ url_for('static', filename='js/activity_check.js') }}"></script>
-{% endblock %}
+    <div class="jsScript">
+        <script src="{{ url_for('static', filename='js/activity_check.js') }}"></script>
+    </div>
+{% endif %}

@@ -1,0 +1,246 @@
+[00:00:01] Twinsaid issued server command: /rg claim twin
+[00:00:02] _RoSiK_ issued server command: /zset 20
+[00:00:08] _RoSiK_ issued server command: /zset 20
+[00:01:49] NoNameBUST issued server command: /zset 0
+[00:02:14] kuzaval issued server command: /home
+[00:02:24] _RoSiK_ issued server command: /rg i
+[00:02:29] _RoSiK_ issued server command: /rg i
+[00:02:32] NoNameBUST issued server command: /zset 35:11
+[00:02:40] NoNameBUST issued server command: /zset 35:11
+[00:02:46] _RoSiK_ issued server command: /co i
+[00:02:51] _RoSiK_ issued server command: /co i
+[00:02:56] NoNameBUST issued server command: /zset 35:11
+[00:03:05] NoNameBUST issued server command: /zset 35:11
+[00:03:16] _RoSiK_ issued server command: /thru
+[00:03:41] Twinsaid issued server command: //sei
+[00:03:43] NoNameBUST issued server command: /zset 35:4
+[00:03:45] Twinsaid issued server command: //sel
+[00:04:04] NoNameBUST issued server command: /home
+[00:04:14] _RoSiK_ issued server command: /s NoNameBUST
+[00:04:16] abobus6979 зашёл
+[00:04:24] abobus6979 issued server command: /we cui
+[00:04:42] _RoSiK_ issued server command: /zset 20
+[00:04:48] kuzaval issued server command: /warp top
+[00:04:53] abobus6979 issued server command: /buyflag list
+[00:04:53] NoNameBUST issued server command: /zset 35
+[00:04:54] _RoSiK_ issued server command: /zset 20
+[00:04:59] _RoSiK_ issued server command: /zset 20
+[00:05:01] _RoSiK_ issued server command: /zset 20
+[00:05:06] _RoSiK_ issued server command: /zset 20
+[00:05:06] abobus6979 issued server command: /byflag pvp
+[00:05:09] _RoSiK_ issued server command: /zset 20
+[00:05:11] NoNameBUST issued server command: /zset 35:14
+[00:05:16] _RoSiK_ issued server command: /zset 20
+[00:05:18] kuzaval issued server command: /home
+[00:05:27] abobus6979 issued server command: /buyflag
+[00:05:28] _RoSiK_ issued server command: /home
+[00:05:34] abobus6979 issued server command: /mpcaseshop
+[00:05:41] abobus6979 issued server command: /mpcaseview 11
+[00:05:52] abobus6979 issued server command: /mpcaseshop
+[00:05:53] NoNameBUST issued server command: /zset 20
+[00:05:54] abobus6979 issued server command: /mpcaseview 10
+[00:05:55] abobus6979 issued server command: /rollcase 10
+[00:06:04] NoNameBUST issued server command: /zset 20
+[00:06:08] abobus6979 issued server command: /mpcaseview 10
+[00:06:09] abobus6979 issued server command: /rollcase 10
+[00:06:12] NoNameBUST issued server command: /zset 20
+[00:06:23] abobus6979 issued server command: /mpcaseview 10
+[00:06:24] abobus6979 issued server command: /mpcaseshop
+[00:06:29] kuzaval issued server command: /warp top
+[00:06:32] NoNameBUST issued server command: /zset 20
+[00:06:41] NoNameBUST issued server command: /zset 20
+[00:06:51] kuzaval issued server command: /home
+[00:06:53] NoNameBUST issued server command: /zset 20
+[00:07:02] NoNameBUST issued server command: /zset 20
+[00:07:20] _RoSiK_ issued server command: /zset 0
+[00:07:23] _RoSiK_ issued server command: /home
+[00:07:28] Twinsaid issued server command: /shop
+[00:07:50] NoNameBUST issued server command: /zset 35:15
+[00:08:05] NoNameBUST issued server command: /home
+[00:08:09] kuzaval issued server command: /home
+[00:08:11] kuzaval issued server command: /warp top
+[00:08:14] kuzaval issued server command: /home
+[00:08:22] Twinsaid issued server command: /sethome
+[00:08:27] Twinsaid issued server command: /kill
+[00:08:37] Twinsaid issued server command: /suiside
+[00:08:49] kuzaval issued server command: /warp top
+[00:09:10] kuzaval issued server command: /home
+[00:09:10] Twinsaid умер (DROWNING)
+[00:09:13] abobus6979 issued server command: /kit eat
+[00:09:15] Twinsaid issued server command: /we cui
+[00:09:42] Twinsaid issued server command: /kit top
+[00:09:46] _RoSiK_ issued server command: /thru
+[00:09:50] NoNameBUST issued server command: /warp nether
+[00:09:55] NoNameBUST issued server command: /we cui
+[00:10:08] _RoSiK_ issued server command: /warp nether
+[00:10:10] _RoSiK_ issued server command: /we cui
+[00:10:39] abobus6979 issued server command: /rtp
+[00:10:59] Twinsaid issued server command: /home
+[00:11:02] Twinsaid issued server command: /we cui
+[00:11:26] _RoSiK_ issued server command: /home
+[00:11:31] kuzaval issued server command: /warp top
+[00:11:49] kuzaval issued server command: /home
+[00:11:57] _RoSiK_ вышел
+[00:11:57] NoNameBUST issued server command: /home
+[00:12:02] NoNameBUST issued server command: /we cui
+[00:13:56] abobus6979 issued server command: /rtp
+[00:14:42] abobus6979 issued server command: /rtp
+[00:14:55] kuzaval issued server command: /warp top
+[00:15:09] NoNameBUST вышел
+[00:15:22] kuzaval issued server command: /home
+[00:17:02] fealka issued server command: /warp all
+[00:17:11] fealka issued server command: /home
+[00:17:23] fealka issued server command: /warp all
+[00:17:26] kuzaval issued server command: /warp top
+[00:17:41] kuzaval issued server command: /home
+[00:18:09] abobus6979 issued server command: /rtp
+[00:18:18] fealka issued server command: /warp usa
+[00:18:24] _RoSiK_ зашёл
+[00:18:24] fealka issued server command: /warp top
+[00:18:37] _RoSiK_ issued server command: /we cui
+[00:18:41] _RoSiK_ issued server command: /god
+[00:18:43] kuzaval issued server command: /warp top
+[00:19:11] kuzaval issued server command: /home
+[00:19:14] fealka issued server command: /home
+[00:19:40] _RoSiK_ вышел
+[00:20:15] fealka issued server command: /warp top
+[00:20:17] abobus6979 issued server command: /rtp
+[00:21:08] fealka issued server command: /home
+[00:21:53] fealka issued server command: /warp top
+[00:22:15] abobus6979 issued server command: /home 1
+[00:22:21] fealka issued server command: /home
+[00:23:16] kuzaval issued server command: /warp top
+[00:23:35] kuzaval issued server command: /home
+[00:27:14] kuzaval issued server command: /рщьу
+[00:27:16] kuzaval issued server command: /home
+[00:28:08] kuzaval issued server command: /цфкз ещз
+[00:28:10] kuzaval issued server command: /warp top
+[00:28:31] kuzaval issued server command: /home
+[00:30:28] FrIkOvSki issued server command: /home
+[00:31:33] fealka вышел
+[00:31:51] kuzaval issued server command: /warp top
+[00:32:07] kuzaval issued server command: /home
+[00:32:45] kuzaval issued server command: /warp top
+[00:32:59] kuzaval issued server command: /home
+[00:35:04] Salo39 зашёл
+[00:35:10] Salo39 issued server command: /we cui
+[00:35:19] Salo39 issued server command: /home
+[00:37:26] Salo39 issued server command: /warp top
+[00:37:57] kuzaval issued server command: /home
+[00:40:11] Twinsaid issued server command: /warp shop
+[00:40:14] Twinsaid issued server command: /we cui
+[00:42:34] Salo39 issued server command: /home
+[00:43:52] kuzaval issued server command: /warp top
+[00:43:53] abobus6979 был кикнут
+[00:43:53] abobus6979 вышел
+[00:44:03] kuzaval issued server command: /рщьу
+[00:44:05] kuzaval issued server command: /home
+[00:44:36] Twinsaid issued server command: /we cui
+[00:44:43] Twinsaid issued server command: /rtp
+[00:45:33] Twinsaid вышел
+[00:46:17] Vlad_1987 зашёл
+[00:46:24] Kopatel_Offfline зашёл
+[00:46:24] Raad зашёл
+[00:46:26] Raad issued server command: /we cui
+[00:46:27] SweatierUnicorn зашёл
+[00:46:28] Kopatel_Offfline issued server command: /we cui
+[00:46:30] SweatierUnicorn issued server command: /we cui
+[00:46:30] SweatierUnicorn вышел
+[00:47:19] Vlad_1987 issued server command: /we cui
+[00:48:06] ArtemSilakov зашёл
+[00:48:06] Raad вышел
+[00:48:16] ArtemSilakov issued server command: /vanish
+[00:48:34] Vlad_1987 issued server command: /money
+[00:48:36] Vlad_1987 issued server command: /mpcaseshop
+[00:48:37] Vlad_1987 issued server command: /mpcaseview 10
+[00:48:39] Vlad_1987 issued server command: /rollcase 10
+[00:49:28] Kopatel_Offfline вышел
+[00:52:09] kuzaval issued server command: /home
+[00:55:25] Vlad_1987 issued server command: /warp u
+[00:55:27] Vlad_1987 issued server command: /warp q
+[00:56:21] Vlad_1987 issued server command: /warp f
+[00:56:23] Vlad_1987 issued server command: /warp h
+[00:56:27] Vlad_1987 issued server command: /warp j
+[00:56:33] Vlad_1987 issued server command: /we cui
+[00:56:36] Vlad_1987 вышел
+[00:57:04] Vlad_1987 зашёл
+[00:57:06] kuzaval issued server command: /warp top
+[00:57:13] Salo39 issued server command: /home
+[00:57:21] Vlad_1987 issued server command: /we cui
+[00:57:26] kuzaval issued server command: /home
+[00:58:06] Salo39 issued server command: /home
+[00:58:21] JaestBrut issued server command: /home
+[00:58:23] JaestBrut issued server command: /we cui
+[00:59:05] Vlad_1987 issued server command: /warp g
+[00:59:09] Vlad_1987 issued server command: /warp 1
+[00:59:15] Vlad_1987 issued server command: /we cui
+[00:59:27] Vlad_1987 issued server command: /warp 2
+[00:59:34] Vlad_1987 умер (VOID)
+[00:59:34] Vlad_1987 issued server command: /warp 1
+[00:59:43] Vlad_1987 вышел
+[01:00:09] Vlad_1987 зашёл
+[01:00:15] Vlad_1987 вышел
+[01:00:47] Vlad_1987 зашёл
+[01:00:59] Vlad_1987 issued server command: /we cui
+[01:01:20] Vlad_1987 issued server command: /home
+[01:01:26] Vlad_1987 issued server command: /we cui
+[01:01:49] Vlad_1987 вышел
+[01:02:35] abobus6979 зашёл
+[01:02:37] abobus6979 issued server command: /we cui
+[01:05:26] ArtemSilakov вышел
+[01:05:29] Salo39 вышел
+[01:08:48] kuzaval issued server command: /warp top
+[01:09:06] kuzaval issued server command: /home
+[01:09:17] Disrupt зашёл
+[01:09:28] Disrupt issued server command: /we cui
+[01:09:36] kuzaval issued server command: /warp top
+[01:09:46] Disrupt вышел
+[01:09:53] Disrupt зашёл
+[01:09:56] Disrupt issued server command: /we cui
+[01:10:16] kuzaval issued server command: /home
+[01:10:31] Disrupt issued server command: /home
+[01:11:51] Disrupt issued server command: /home
+[01:12:44] Disrupt issued server command: /home
+[01:13:19] Disrupt issued server command: /playtime
+[01:13:26] Disrupt issued server command: /money
+[01:13:35] Disrupt issued server command: /warp top
+[01:14:20] Disrupt issued server command: /home
+[01:15:36] kuzaval issued server command: /warp top
+[01:16:03] Disrupt issued server command: /home
+[01:16:07] kuzaval issued server command: /home
+[01:16:27] kuzaval issued server command: /warp top
+[01:16:37] kuzaval issued server command: /home
+[01:16:46] Disrupt вышел
+[01:19:52] titanpsih был кикнут
+[01:19:52] titanpsih вышел
+[01:19:52] kuzaval был кикнут
+[01:19:52] kuzaval вышел
+[01:19:52] FrIkOvSki был кикнут
+[01:19:52] FrIkOvSki вышел
+[01:19:52] JaestBrut был кикнут
+[01:19:52] JaestBrut вышел
+[01:19:52] CrazyDadyShisha был кикнут
+[01:19:52] CrazyDadyShisha вышел
+[01:19:52] abobus6979 был кикнут
+[01:19:52] abobus6979 вышел
+[01:19:59] Сервер выключился
+[01:20:46] Сервер включился
+[01:21:11] kuzaval зашёл
+[01:21:12] kuzaval issued server command: /we cui
+[01:22:16] titanpsih зашёл
+[01:22:21] titanpsih issued server command: /we cui
+[01:22:21] titanpsih issued server command: /vanish
+[01:22:33] JaestBrut зашёл
+[01:22:35] JaestBrut issued server command: /we cui
+[01:22:48] JaestBrut issued server command: /god
+[01:22:52] JaestBrut issued server command: /vanish
+[01:25:13] kuzaval issued server command: /warp top
+[01:25:31] kuzaval issued server command: /home
+[01:29:15] kuzaval вышел
+[01:32:36] FrIkOvSki зашёл
+[01:32:39] FrIkOvSki issued server command: /we cui
+[01:33:23] abobus6979 зашёл
+[01:33:24] abobus6979 issued server command: /we cui
+[01:40:30] JaestBrut issued server command: /vanish
+[01:45:18] abobus6979 вышел
+[01:51:02] JaestBrut вышел

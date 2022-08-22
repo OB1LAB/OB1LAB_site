@@ -1,407 +1,411 @@
 * {
 	margin: 0;
 	padding: 0;
+	font-family: sans-serif;
 }
 
-#techadmin {
-	color: #00CCFF;
+html {
+    background: #151515;
 }
 
-#admin {
-	color: red;
-}
-
-#curator {
-	color: red;
-}
-
-#gm {
-	color: #0183D7;
-}
-
-#stmoder {
-	color: #446CB3;
-}
-
-#moder {
-	color: #9400d3
-}
-
-#helper2 {
-	color: #26a65b;
-}
-
-#helper1 {
-	color: #51cf89
-}
-
-.close_output_data {
-	width: 30px;
-	height: 30px;
-	background-color: transparent;
-	color: white;
-	border: 1px solid black;
-	font-size: 25px;
-	text-align: center;
-	vertical-align: middle;
-}
-
-.activity_table {
-	height: 30px;
-	display: flex;
-	width: 100%;
-	margin-bottom: -1px;
-	background-color: #202020;
-}
-
-.activity_table div {
-	color: white;
-	border: 1px solid black;
-	border-right: 0;
-	width: 100%;
-	text-align: center;
-	font-size: 22px;
-}
-
-.output_data {
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	position: fixed;
-	z-index: 101;
-}
-
-.view_result {
-	height: 27px;
-	width: 252px;
-	background-color: transparent;
-	color: white;
-	border: 1px solid #00CCFF;
-	outline: none;
-}
-
-.output_data table {
-	color: white;
-	background-color: #202020;
-	border-collapse: collapse; 
-	border: 1px solid black;
-	text-align: center;
-}
-
-.output_data table td {
-	border: 1px solid black;
-	white-space: nowrap;
-	min-width: 50px;
+.activity_check p {
 	height: 40px;
-	padding-left: 7px;
-	padding-right: 7px;
+	font-size: 28px;
+	text-align: center;
 }
 
-
-.dates {
-	margin-top: 5px;
-	width: 252px;
-	display: flex;
-	justify-content: space-between;
-}
-
-.dates .separator {
-	color: white;
-	font-size: 25px;
-}
-
-.dates input {
+.activity_check input {
 	height: 25px;
 	padding-left: 5px;
-	background-color: transparent;
-	-webkit-text-fill-color: white;
-	border: 1px solid #00CCFF;
+	background-color: #303030;
+	-webkit-text-fill-color: #D0D0D0;
+	border: 0;
+	margin-left: 15px;
 	outline: 0;
-	width: 100px;
+	width: 93px;
+	padding-right: 3px;
 }
 
-::-webkit-input-placeholder {
-   text-align: center;
-   color: white;
+.activity_check #hidden {
+	display: none;
 }
 
-::-webkit-scrollbar {
+.activity_check .server {
+	cursor: pointer;
+}
+
+.activity_check .server:hover {
+	color: #E5E5E5;
+	background: #505050;
+}
+
+.activity_check .select_server {
+	display: none;
+	flex-direction: column-reverse;
+	position: fixed;
+	margin-top: -100px;
+}
+
+.activity_check .servers:hover .select_server {
+	display: flex;
+}
+
+.activity_check .player_button {
+	display: flex;
+	align-items: center;
+	background: transparent;
+	border: 0;
+	cursor: pointer;
+}
+
+.activity_check .server_list, .server {
+	width: 140px;
+	height: 25px;
+	color: #D0D0D0;
+	background: #303030;
+	border: 0;
+}
+
+.activity_check .activity_window {
+	height: calc(95vh - 52px);
+	display: flex;
+	color: #DEDEDE;
+	justify-content: center;
+    align-items: center;
+}
+
+.activity_check .left_side {
+	height: 681px;
+	width: 342px;
+}
+
+.activity_check .right_side {
+	height: 681px;
+	width: 1000px;
+	margin-left: 50px;
+}
+
+.activity_check .statistic {
+	height: 40px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+}
+
+.activity_check .player_list {
+	height: 639px;
+}
+
+.activity_check .activity_list {
+	height: 599px;
+	padding-top: 0px;
+}
+
+.activity_check .player_list, .activity_list {
+	border: 1px solid #888;
+	overflow-y: auto;
+}
+
+.activity_check .activity_player {
+	border-top: 1px solid #888;
+	text-align: center;
+}
+
+.activity_check .player, .activity_player {
+	display: flex;
+	align-items: center;
+}
+
+.activity_check .player {
+	width: 320px;
+	margin: 5px;
+	margin-left: 6px;
+}
+
+.activity_check .player_list .player_button {
+	margin-top: 5px;
+}
+
+.activity_check .player img {
+	height: 64px;
+	width: 64px;
+}
+
+.activity_check .player .name {
+	margin-left: 10px;
+	font-size: 25px;
+}
+
+.activity_check .arrow {
+	display: none;
+	color: #BBB;
+	font-size: 25px;
+	margin-left: auto;
+	margin-right: 10px;
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+.activity_check .player_button:hover .arrow {
+	display: block;
+}
+
+.activity_check .player_button:hover {
+	background: #292929;
+}
+
+.activity_check .total {
+	width: 80px;
+}
+
+.activity_check .activity_player .total {
+	width: 79px;
+}
+
+.activity_check .avg {
+	width: 50px;
+}
+
+.activity_check .ban {
+	width: 70px;
+}
+
+.activity_check .kick {
+	width: 70px;
+}
+
+.activity_check .mute {
+	width: 70px;
+}
+
+.activity_check .warn {
+	width: 70px;
+}
+
+.activity_check .pm {
+	width: 70px;
+}
+
+.activity_check .global {
+	width: 70px;
+}
+
+.activity_check .local {
+	width: 70px;
+	margin-left: auto;
+}
+
+.base a {
+    text-decoration: none;
+    color: #DEDEDE;
+}
+
+.base .navbar {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+    height: 50px;
+    background: #2A2A2A;
+}
+
+.base .navbar_button {
+	height: 30px;
+	width: fit-content;
+	color: #BBBBBB;
+	font-size: 15px;
+	margin-right: 50px;
+	margin-left: 5px;
+	background: transparent;
+	border: 0;
+}
+
+.base .navbar_button:hover {
+	color: white;
+	cursor: pointer;
+}
+
+.base .ob1lab_index {
+	margin-right: auto;
+	margin-left: 30px;
+}
+
+.base .ob1lab_index .navbar_button {
+	color: white;
+	font-size: 20px;
+}
+
+.base ::-webkit-scrollbar {
 	width: 5px;
 }
 
-::-webkit-scrollbar-thumb {
-	background: #00CCFF;
+.base ::-webkit-scrollbar-thumb {
+	background: #BBBBBB;
 }
 
-::-webkit-scrollbar-thumb:hover {
-	background: #009C9C;
+.base ::-webkit-scrollbar-thumb:hover {
+	background: white;
 	cursor: pointer;
 }
 
-::-webkit-scrollbar-thumb:active {
-	background: #018D8D;
+.base ::-webkit-scrollbar-track {
+    background-color: #151515;
 }
 
-::-webkit-scrollbar-track {
-    background-color: #003B3B;
+.error .error_text {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 80vh;
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+    justify-content: center;
+    align-items: center;
 }
 
-::-webkit-calendar-picker-indicator {
-	color-scheme: dark;
-	margin-top: 3px;
-	padding-right: 5px;
-	cursor: pointer;
+.error .index_text p {
+    width: 1000px;
+    margin-top: 30px;
 }
 
-.autocom_box {
+.index .index_text {
+    display: flex;
+    height: 70vh;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.index .index_text p {
+    width: 1000px;
+    color: #DEDEDE;
+}
+
+.login .authorization {
+	height: 75vh;
 	display: flex;
 	flex-direction: column;
-	max-height: 175px;
-	overflow-y: auto;
-	background-color: #202020;
-	width: 250px;
-	border: 1px solid #00CCFF;
-	border-top: none;
-	border-bottom-left-radius: 3px;
-	border-bottom-right-radius: 3px;
-	padding-bottom: 5px;
-	z-index: 100;
-	position: fixed;
-	border-radius: 0;
-}
-
-.server_list {
-	display: flex;
-	flex-direction: column;
-	max-height: 175px;
-	background-color: #202020;
-	width: 250px;
-	border: 1px solid #00CCFF;
-	border-top: none;
-	border-bottom-left-radius: 3px;
-	border-bottom-right-radius: 3px;
-	z-index: 100;
-	position: fixed;
-	border-radius: 0;
-}
-
-#deactive {
-	opacity: 0;
-	pointer-events: none;
-}
-
-#active {
-	opacity: 1;
-	pointer-events: auto;
-}
-
-.activity_box {
-	height: 100vh;
-	display: flex;
 	justify-content: center;
-	align-items: center;
+    align-items: center;
+    color: #DEDEDE;
 }
 
-.activity_box .window {
-	width: fit-content;
-	height: 500px;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-}
-
-.search_list {
-	width: 252px;
-}
-
-.activity_box .search_input {
+.login .authorization input, .authorization button {
 	margin-top: 5px;
-	height: 25px;
-	width: 250px;
-	background-color: transparent;
-	border: 1px solid #00CCFF;
-	color: white;
-	text-align: center
+    border: 1px solid #999;
+    line-height: 48px;
+    height: 48px;
+    padding: 0px 16px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    background: #FFFFFF10;
+    color: #DEDEDE;
+    outline: none;
+    font-size: 20px;
 }
 
-.activity_box .search_input:focus {
-	outline: none;
-	placeholder: none;
+.login .authorization input:hover, .authorization button:hover {
+	border: 1px solid white;
 }
 
-.activity_box .search_input:focus::placeholder {
-	opacity: 0;
+.login .authorization button:hover {
+	background: #FFFFFF20;
+	cursor: pointer;
 }
 
-.get_players {
-	width: 250px;
-	height: 208px;
-	border: 1px solid #00CCFF;
+.private_logs span {
+	color: #555
+}
+
+.private_logs .logs {
+	height: calc(100vh - 54px);
+	margin-left: 5px;
 	overflow-y: auto;
+	overflow-x: hidden;
 }
 
-.get_players .player {
-	margin-left: 10px;
-	margin-top: 10px;
-	margin-bottom: 8px;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-}
-
-.autocom_box .player {
-	display: flex;
-	align-items: center;
-	border: 0;
-	min-height: 30px;
-	background-color: transparent;
-}
-
-.autocom_box .player .avatar {
-	background-size: cover;
-	margin-left: 3px;
-    width: 25px;
-    height: 25px;
-}
-
-.autocom_box button {
-	margin-left: 5px;
-	margin-right: 5px;
-	margin-top: 5px;
-	height: 30px;
-}
-
-.server_selected {
-	margin-top: 5px;
-	width: 252px;
-	height: 27px;
-	background-color: transparent;
-	color: white;
-	border: 1px solid #00CCFF;
-}
-
-.server_list .server {
-	height: 40px;
-	display: flex;
-	align-items: center;
-	background-color: transparent;
-	color: white;
-	border-bottom: 0;
-	outline: 0;
-	border: 0;
-}
-
-.server_list .avatar {
-	background-size: cover;
-	height: 30px;
-	width: 30px;
-	margin-left: 5px;
-}
-
-.server_list .name {
-	margin-top: 2px;
-	font-size: 16px;
-	padding-left: 10px;
-}
-
-.server:hover {
-	background-color: rgba(255, 255, 255, 0.14);
-	cursor: pointer;
-}
-
-.server:active {
-	background-color: rgba(255, 255, 255, 0.17);
-}
-
-.server_selected:hover {
-	background-color: rgba(255, 255, 255, 0.14);
-	cursor: pointer;
-}
-
-.server_selected:active {
-	background-color: rgba(255, 255, 255, 0.17);
-}
-
-.autocom_box button:hover {
-	background-color: rgba(255, 255, 255, 0.25);
-	cursor: pointer;
-}
-
-.autocom_box .player .name {
-	margin-left: 5px;
-	font-size: 20px;
-}
-
-.get_players .player .avatar {
-	background-size: cover;
-    width: 30px;
-    height: 30px;
-}
-
-.get_players .player .name {
-	margin-left: 5px;
-	font-size: 20px;
-}
-
-.get_players .player button {
-	width: 25px;
-	height: 25px;
-	margin-left: auto;
-	margin-right: 10px;
-	background-color: transparent;
-	color: white;
-	border: 0;
-	font-size: 24px;
-}
-
-.get_players .player button:hover{
-	background-color: #7B0000;
-	cursor: pointer;
-}
-
-.start_button {
-	width: 252px;
-	margin-top: 5px;
-	border: 1px solid #00CCFF;
-	background-color: transparent;
-	color: white;
-	height: 30px;
-	outline: none;
-}
-
-.start_button:hover {
-	background-color: rgba(255, 255, 255, 0.14);
-	cursor: pointer;
-}
-
-.start_button:active {
-	background-color: rgba(255, 255, 255, 0.17);
-}
-
-.view_result:hover {
-	background-color: rgba(255, 255, 255, 0.14);
-	cursor: pointer;
-}
-
-.view_result:active {
-	background-color: rgba(255, 255, 255, 0.17);
-}
-
-.close_output_data:hover {
-	background-color: rgba(255, 255, 255, 0.14);
-	cursor: pointer;
-}
-
-.close_output_data:active {
-	background-color: rgba(255, 255, 255, 0.17);
-}
-
-body {
-	background-color: #202020;
-	background-image: url(images/4.jpg);
+.profile img {
+	width: 128px;
+	height: 128px;
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
-	height: 100vh;
+}
+
+.profile div {
+	color: white;
+}
+
+.profile .profile {
+	display: flex;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.profile .statistic {
+	display: flex;
+	flex-direction: column;
+	margin-left: 15px;
+	font-size: 14px;
+}
+
+.profile .name {
+	font-size: 30px;
+}
+
+.profile .rank {
+	margin-top: 10px;
+	font-size: 20px;
+	margin-bottom: auto;
+}
+
+.profile .register {
+	color: #BBB;
+	justify-content: end;
+}
+
+.public_logs .logs {
+	height: calc(100vh - 54px);
+	color: #BBB;
+	margin-left: 5px;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+.public_logs_dates h1 {
+	color: white;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+.log_dates {
+	overflow-y: auto;
+	height: calc(100vh - 101px);
+}
+
+.log_date a {
+	font-size: 15px;
+	margin-left: 5px;
+}
+
+.log_date a:hover {
+	color: white;
+}
+
+.public_logs_servers .select_server_menu {
+	height: 65vh;
+	display: flex;
+	justify-content: center;
+    align-items: center;
+}
+
+.public_logs_servers .server_list {
+	color: white;
+	text-align: center;
+}
+
+.public_logs_servers .servers {
+	margin-top: 15px;
 }

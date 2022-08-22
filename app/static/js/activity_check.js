@@ -1,28 +1,36 @@
-const players = JSON.parse(http_get('http://127.0.0.1:5000/api/get_activity_data'));
-const servers = document.querySelector(".select_server");
-const date_1 = document.querySelector(".date_1");
-const date_2 = document.querySelector(".date_2");
-const memeber_players = document.querySelector(".player_list");
-const btn_select_server = document.querySelector(".server_list");
-const activity_players = document.querySelector(".activity_list");
+const servers = document.querySelector(".select_server")
+const date_1 = document.querySelector(".date_1")
+const date_2 = document.querySelector(".date_2")
+const memeber_players = document.querySelector(".player_list")
+const btn_select_server = document.querySelector(".server_list")
+const activity_players = document.querySelector(".activity_list")
 let server = ''
 let member_list = ''
 let player_in_activity = []
 
 
+const get_players = () => {
+	if (typeof players === 'undefined') {
+	    const players = JSON.parse(http_get('http://127.0.0.1:5000/api/get_activity_data'))
+	    return players
+	}
+	return players
+}
+
+
 function http_get(url) {
-	var xmlHttp = new XMLHttpRequest();
-	xmlHttp.open("GET", url, false);
-	xmlHttp.send(null);
-	return xmlHttp.responseText;
+	var xmlHttp = new XMLHttpRequest()
+	xmlHttp.open("GET", url, false)
+	xmlHttp.send(null)
+	return xmlHttp.responseText
 }
 
 
 function http_post(url, data) {
-	var xmlHttp = new XMLHttpRequest();
-	xmlHttp.open("POST", url, true);
-	xmlHttp.setRequestHeader("Content-Type", "application/json");
-	xmlHttp.send(JSON.stringify(data));
+	var xmlHttp = new XMLHttpRequest()
+	xmlHttp.open("POST", url, true)
+	xmlHttp.setRequestHeader("Content-Type", "application/json")
+	xmlHttp.send(JSON.stringify(data))
 	xmlHttp.onreadystatechange = function () {
 	    if (xmlHttp.readyState === 4 && xmlHttp.status === 200) {
 	    	update_activity_data(JSON.parse(xmlHttp.responseText))
@@ -94,7 +102,7 @@ const get_player_activity = function(player_list, local_data) {
 		</div>
 		`
 	}
-	return activity;
+	return activity
 }
 
 
@@ -119,17 +127,18 @@ const distribution_players = function(player_list) {
 		}
 	}
 	memeber_players.innerHTML = member_list
+	update_activity_data()
 }
 
 
 const add_player = function(player) {
-	player_in_activity.push(player);
+	player_in_activity.push(player)
 	distribution_players(player_in_activity)
 }
 
 
 const delete_player = function(player) {
-	player_in_activity.splice(player_in_activity.indexOf(player), 1);
+	player_in_activity.splice(player_in_activity.indexOf(player), 1)
 	distribution_players(player_in_activity)
 }
 
@@ -150,18 +159,24 @@ const select_server = function(server) {
 			player_in_activity.push(players['servers'][server]['staff'][player])
 		}
 	}
-	distribution_players(player_in_activity)
 	for (server in players['servers']) {
 		if (server != btn_select_server.innerHTML) {
 			servers.innerHTML += `<button class="server" onclick="select_server('${server}')">${server}</button>`
 		}
 	}
-	setTimeout(() => servers.id = '', 1);
+	setTimeout(() => servers.id = '', 1)
+	distribution_players(player_in_activity)
 }
 
 
+players = get_players()
 for (server in players['servers']) {
 	servers.innerHTML += `<button class="server" onclick="select_server('${server}')">${server}</button>`
 }
-select_server('HitechCraft_Titan');
-setInterval((update_activity_data), 5000, null);
+select_server('HitechCraft_Titan')
+document.querySelector(".date_1").addEventListener('change', (event) => {
+  distribution_players(player_in_activity)
+})
+document.querySelector(".date_2").addEventListener('change', (event) => {
+  distribution_players(player_in_activity)
+})

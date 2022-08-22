@@ -1,0 +1,348 @@
+[00:00:02] Salo39 issued server command: /home
+[00:00:19] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:00:50] Salo39 issued server command: /warp top
+[00:02:29] Salo39 issued server command: /home
+[00:03:02] Salo39 issued server command: /home
+[00:03:25] VadimArukov умер (LAVA)
+[00:03:35] VadimArukov issued server command: /we cui
+[00:03:51] VadimArukov issued server command: /kit start
+[00:03:53] VadimArukov issued server command: /kit eat
+[00:04:00] VadimArukov issued server command: /warp shop
+[00:04:07] VadimArukov issued server command: /mpcaseshop
+[00:04:11] VadimArukov issued server command: /mpcaseview 10
+[00:04:14] VadimArukov issued server command: /mpcaseshop
+[00:04:17] VadimArukov issued server command: /mpcaseview 10
+[00:04:18] VadimArukov issued server command: /buycase 10
+[00:04:36] Salo39 issued server command: /home
+[00:05:39] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:06:39] kuzaval issued server command: /warp mining
+[00:06:40] kuzaval issued server command: /we cui
+[00:06:42] kuzaval issued server command: /rtp
+[00:06:54] VadimArukov issued server command: /buycase 10
+[00:06:55] VadimArukov issued server command: /mpcaseshop
+[00:07:26] VadimArukov issued server command: /mpcaseshop
+[00:07:28] VadimArukov issued server command: /mpcaseview 11
+[00:07:31] VadimArukov issued server command: /buycase 11
+[00:07:50] VadimArukov issued server command: /mpcaseshop
+[00:07:58] VadimArukov issued server command: /money
+[00:08:02] VadimArukov issued server command: /warp shop
+[00:11:00] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:11:35] VadimArukov issued server command: /mpcaseshop
+[00:11:39] VadimArukov вышел
+[00:11:49] Salo39 issued server command: /rtp
+[00:11:53] VadimArukov зашёл
+[00:11:53] [L] setNolik: &aЗашел &b[&6VadimArukov&b]
+[00:11:58] VadimArukov issued server command: /we cui
+[00:12:30] VadimArukov issued server command: /mpcaseshop
+[00:12:33] VadimArukov issued server command: /mpcaseview 10
+[00:12:35] VadimArukov issued server command: /rollcase 10
+[00:12:49] VadimArukov issued server command: /mpcaseview 10
+[00:12:51] VadimArukov issued server command: /mpcaseshop
+[00:12:52] VadimArukov issued server command: /mpcaseview 11
+[00:12:54] VadimArukov issued server command: /mpcaseshop
+[00:12:55] VadimArukov issued server command: /mpcaseview 13
+[00:12:58] VadimArukov issued server command: /mpcaseshop
+[00:12:58] Salo39 issued server command: /rtp
+[00:13:06] VadimArukov issued server command: /kit start
+[00:13:20] VadimArukov issued server command: /warp world
+[00:13:22] VadimArukov issued server command: /we cui
+[00:13:25] VadimArukov issued server command: /rtp
+[00:15:16] [G] Oxpannik_Detdoma: !кто тебя отпинал?
+[00:15:18] VadimArukov issued server command: /rtp
+[00:16:04] [G] CrazyDadyShisha: !та охрана
+[00:16:08] VadimArukov issued server command: /rtp
+[00:16:12] [G] Oxpannik_Detdoma: !какая охрана?
+[00:16:20] [G] Oxpannik_Detdoma: !у тебя есть охрана чтоли?
+[00:16:20] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:16:27] [G] CrazyDadyShisha: !та которая за беспризорниками смотрит
+[00:16:34] [G] CrazyDadyShisha: !пришла в дом и дала по шапке
+[00:17:05] VadimArukov issued server command: /rtp
+[00:17:26] Salo39 issued server command: /home
+[00:17:36] VadimArukov issued server command: /rtp
+[00:17:50] [L] Oxpannik_Detdoma: фига у тебя
+[00:17:54] [L] CrazyDadyShisha: взял за помощь плату?)
+[00:18:00] [L] Oxpannik_Detdoma: ага
+[00:18:03] [L] CrazyDadyShisha: ))))0
+[00:18:04] VadimArukov issued server command: /rtp
+[00:18:10] [L] CrazyDadyShisha: правильно
+[00:18:20] [L] CrazyDadyShisha: а то я и привыкнуть могу)))))
+[00:18:22] VadimArukov issued server command: /rtp
+[00:18:46] VadimArukov issued server command: /rtp
+[00:19:15] Oxpannik_Detdoma issued server command: /ec
+[00:19:31] [L] Oxpannik_Detdoma: а че у тебя с фармом
+[00:19:44] [L] CrazyDadyShisha: я пока на крафте стоял, некому грузить чанки
+[00:19:45] [L] Oxpannik_Detdoma: ты ж вроде как в состоянии качатся как положено
+[00:19:57] [L] Oxpannik_Detdoma: вив кирка
+[00:19:59] VadimArukov issued server command: /warp mining
+[00:20:01] VadimArukov issued server command: /we cui
+[00:20:03] [L] Oxpannik_Detdoma: откуда ты ее взял)
+[00:20:05] VadimArukov issued server command: /rtp
+[00:20:13] [L] CrazyDadyShisha: ну да, собственоручно скрафтил
+[00:20:24] [L] CrazyDadyShisha: перед тем как у меня появился тиммейт
+[00:20:25] [L] CrazyDadyShisha: ))
+[00:20:32] [L] Oxpannik_Detdoma: интересно зачем она тебе\
+[00:20:50] Oxpannik_Detdoma issued server command: /ec
+[00:21:01] [L] CrazyDadyShisha: уже не за чем, но я ее скрафтил до того как познакомился с прекрасным человеком
+[00:21:11] [L] Oxpannik_Detdoma: я понял
+[00:21:13] [L] CrazyDadyShisha: висит глаза радует))
+[00:21:23] [L] Oxpannik_Detdoma: бля скоро вайп походу дело
+[00:21:27] [L] Oxpannik_Detdoma: или пиздят
+[00:21:30] [L] Oxpannik_Detdoma: я не знаю
+[00:21:33] [L] CrazyDadyShisha: в сентябре обычно
+[00:21:40] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:22:03] Oxpannik_Detdoma issued server command: /home
+[00:22:31] Oxpannik_Detdoma issued server command: /ec
+[00:22:54] Oxpannik_Detdoma issued server command: /home
+[00:23:42] Salo39 issued server command: /warp all
+[00:23:46] [L] Oxpannik_Detdoma: фокус покус
+[00:24:06] [L] CrazyDadyShisha: рождение
+[00:24:10] [L] CrazyDadyShisha: чудорождение
+[00:24:15] [L] CrazyDadyShisha: непорочное зачатие
+[00:24:19] [L] CrazyDadyShisha: а потом чудо рождение
+[00:24:20] [L] Oxpannik_Detdoma: оно само
+[00:24:30] [L] Oxpannik_Detdoma: оно живое
+[00:24:39] [L] Oxpannik_Detdoma: ты у меня на хате был вообще?
+[00:24:46] [L] CrazyDadyShisha: один раз
+[00:25:06] Salo39 issued server command: /warp usa
+[00:25:16] [L] CrazyDadyShisha: страшно даже смотреть что атм у тебя
+[00:25:20] Oxpannik_Detdoma issued server command: /home
+[00:25:34] Salo39 issued server command: /warp all
+[00:25:38] Oxpannik_Detdoma issued server command: /tpahere CrazyDadyShisha
+[00:25:45] CrazyDadyShisha issued server command: /tpaccept
+[00:25:53] [L] Oxpannik_Detdoma: немного ферм
+[00:25:59] [L] CrazyDadyShisha: я ебу алибабу
+[00:26:08] Salo39 issued server command: /home
+[00:26:10] [L] Oxpannik_Detdoma: это мой огород
+[00:26:13] [L] Oxpannik_Detdoma: мое детище
+[00:26:34] Oxpannik_Detdoma issued server command: /home
+[00:26:39] Oxpannik_Detdoma issued server command: /tpahere CrazyDadyShisha
+[00:26:54] CrazyDadyShisha issued server command: /tpaccept
+[00:26:54] [L] Oxpannik_Detdoma: а вот тут панельки
+[00:26:59] [L] Oxpannik_Detdoma: тоже немного
+[00:27:01] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:27:03] [L] Oxpannik_Detdoma: и за стеной еще
+[00:27:15] Salo39 issued server command: /warp all
+[00:27:30] [L] CrazyDadyShisha: как назвать это цнезурными словами
+[00:27:35] [L] Oxpannik_Detdoma: никак
+[00:27:38] [L] Oxpannik_Detdoma: )
+[00:27:46] [L] CrazyDadyShisha: а радиоизотопный генератор как работает?
+[00:27:55] [L] Oxpannik_Detdoma: как квг
+[00:28:00] [L] Oxpannik_Detdoma: там внутри пеллеты
+[00:28:24] [L] CrazyDadyShisha: он сам по себе не дорогой
+[00:28:31] Salo39 issued server command: /home
+[00:28:31] [L] CrazyDadyShisha: но палеты я так понимаю очень дорогие
+[00:28:32] [L] Oxpannik_Detdoma: да пеллеты дорогие
+[00:28:43] [L] Oxpannik_Detdoma: в каждом по 6 пеллет
+[00:28:58] [L] Oxpannik_Detdoma: пчел видел?
+[00:29:06] [L] CrazyDadyShisha: я в них не шарю
+[00:29:18] Oxpannik_Detdoma issued server command: /tpahere CrazyDadyShisha
+[00:29:29] [L] Oxpannik_Detdoma: немнго пчел
+[00:29:34] [L] CrazyDadyShisha: пиздец
+[00:29:37] [L] Oxpannik_Detdoma: это карчое первая тера
+[00:29:40] [L] CrazyDadyShisha: какой с них выход?
+[00:29:41] [L] Oxpannik_Detdoma: есть еще одна
+[00:29:46] [L] Oxpannik_Detdoma: та не очень
+[00:29:54] [L] Oxpannik_Detdoma: просто с материи и то больше
+[00:30:21] [L] CrazyDadyShisha: ну эта херовниа не потребляет энергию)
+[00:30:26] [L] CrazyDadyShisha: а материя ее жрут
+[00:30:27] Salo39 issued server command: /warp all
+[00:30:30] [L] Oxpannik_Detdoma: чекни ферму мою
+[00:30:31] [L] CrazyDadyShisha: жрет как мразь
+[00:30:44] Oxpannik_Detdoma issued server command: /tpahere CrazyDadyShisha
+[00:30:46] CrazyDadyShisha issued server command: /tpaccept
+[00:30:54] [L] Oxpannik_Detdoma: тут тоже немного ферм
+[00:30:58] [L] Oxpannik_Detdoma: и внизу скелеты
+[00:31:15] [L] CrazyDadyShisha: железные растения?
+[00:31:19] [L] Oxpannik_Detdoma: ага
+[00:31:26] [L] Oxpannik_Detdoma: ну не много дает навреное
+[00:31:32] [L] Oxpannik_Detdoma: слиток в секунду
+[00:31:34] [L] CrazyDadyShisha: по всем статьям выход пиздец
+[00:31:43] [L] CrazyDadyShisha: а ты еще копаешь
+[00:31:44] [L] Oxpannik_Detdoma: ниже сюда иди
+[00:31:52] [L] Oxpannik_Detdoma: где ме
+[00:31:54] [L] Oxpannik_Detdoma: на лифт
+[00:31:59] Salo39 issued server command: /home
+[00:32:14] [L] Oxpannik_Detdoma: такая хуйня
+[00:32:21] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:32:43] [L] Oxpannik_Detdoma: ну и тут тоже реакторы
+[00:32:44] [L] CrazyDadyShisha: ты перфекционист ))
+[00:32:47] [L] Oxpannik_Detdoma: чисто по класскике
+[00:32:55] [L] Oxpannik_Detdoma: чтоб плутоний фармить
+[00:32:59] [L] CrazyDadyShisha: я его жизньв идел
+[00:33:31] [L] CrazyDadyShisha: один взрываеться и пиздей территории
+[00:33:34] [L] Oxpannik_Detdoma: не
+[00:33:38] [L] Oxpannik_Detdoma: не взорвется уже
+[00:33:43] [L] Oxpannik_Detdoma: стоит уже давно атк
+[00:33:55] [L] Oxpannik_Detdoma: и оно ж в укрепе стоит
+[00:34:04] [L] CrazyDadyShisha: а наверх?
+[00:34:15] [L] Oxpannik_Detdoma: а наверх до ме не достанет
+[00:34:25] [L] Oxpannik_Detdoma: та тут ниче и нет в ме по сути
+[00:34:33] [L] Oxpannik_Detdoma: все автоматически на ту теру утекает
+[00:34:37] [L] Oxpannik_Detdoma: через вай фай
+[00:34:50] [L] Oxpannik_Detdoma: модуль вай фая на верху
+[00:34:51] [L] Oxpannik_Detdoma: на ме
+[00:35:03] [L] CrazyDadyShisha: как много времени на это ушла..)
+[00:35:05] [L] CrazyDadyShisha: круто
+[00:35:12] [L] Oxpannik_Detdoma: вот вай фай
+[00:35:15] [L] Oxpannik_Detdoma: времени
+[00:35:19] [L] Oxpannik_Detdoma: та не особо
+[00:35:20] [L] CrazyDadyShisha: у меня в пол раза меньше было в прошлом году
+[00:35:39] [L] CrazyDadyShisha: но и команда из 4 тел была
+[00:35:41] VadimArukov вышел
+[00:35:44] [L] Oxpannik_Detdoma: время тратил тогда когда шахта заебывала
+[00:35:48] [L] Oxpannik_Detdoma: ну мы вот вдвоем
+[00:36:11] Kopatel_Offfline зашёл
+[00:36:12] [L] setNolik: &aЗашел &b[&6Kopatel_Offfline&b]
+[00:36:15] Kopatel_Offfline issued server command: /we cui
+[00:36:47] [L] CrazyDadyShisha: я каждый день по 2-3 часа стабильно закапываюсь
+[00:36:59] [L] Oxpannik_Detdoma: сколько у тебя железной руды
+[00:37:03] [L] Oxpannik_Detdoma: в стате?
+[00:37:09] [L] CrazyDadyShisha: а как глянуть?
+[00:37:27] [L] Oxpannik_Detdoma: ESC - статистика - добыто
+[00:37:34] CrazyDadyShisha issued server command: /playtimetop
+[00:37:42] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:37:42] CrazyDadyShisha issued server command: /playtimetop clear
+[00:37:55] Kopatel_Offfline вышел
+[00:38:19] [L] CrazyDadyShisha: 222к
+[00:38:23] [L] CrazyDadyShisha: железо
+[00:38:28] [L] Oxpannik_Detdoma: норм
+[00:38:40] [L] Oxpannik_Detdoma: у меня вчера лямчик стукнул
+[00:38:51] [L] Oxpannik_Detdoma: ну я сейчас практически не копаю
+[00:38:59] [L] Oxpannik_Detdoma: потому что чанки грузить некому
+[00:39:00] [L] CrazyDadyShisha: кайфово))
+[00:39:07] [L] Oxpannik_Detdoma: делаю пару заходов в день
+[00:39:12] [L] Oxpannik_Detdoma: и аля улю
+[00:39:18] [L] Oxpannik_Detdoma: в афк
+[00:39:26] [L] CrazyDadyShisha: я такая же херня_))))
+[00:39:30] [L] CrazyDadyShisha: но не до конца
+[00:39:33] [L] CrazyDadyShisha: время не то
+[00:39:43] VadimArukov зашёл
+[00:39:43] [L] setNolik: &aЗашел &b[&6VadimArukov&b]
+[00:39:47] [L] CrazyDadyShisha: сегодня пол дня в убежище сидел
+[00:39:47] [L] Oxpannik_Detdoma: до какого конца?
+[00:39:50] [L] Oxpannik_Detdoma: ааа
+[00:40:01] [L] CrazyDadyShisha: 4 сука твевоги за день)
+[00:40:14] [L] Oxpannik_Detdoma: а ты ж с херсонской?
+[00:40:14] VadimArukov issued server command: /we cui
+[00:40:19] VadimArukov вышел
+[00:40:41] [L] CrazyDadyShisha: Да, только выехал
+[00:40:53] [L] Oxpannik_Detdoma: блин, ну че я тебе могу скзаать
+[00:40:57] [L] Oxpannik_Detdoma: крепись друже
+[00:41:08] [L] CrazyDadyShisha: та а куда я денусь
+[00:41:15] [L] CrazyDadyShisha: надесь это все по быстрее закончиться
+[00:41:20] [L] Oxpannik_Detdoma: та я тоже
+[00:41:21] [L] CrazyDadyShisha: я и так потерял практически все)
+[00:41:38] [L] Oxpannik_Detdoma: ну ты же понимаешь что этов се длится так долго потому что так надо
+[00:41:45] [L] Oxpannik_Detdoma: кому то выгодно это все тянуть
+[00:41:56] [L] CrazyDadyShisha: может и так
+[00:42:00] [L] CrazyDadyShisha: посмотрим как оно будет
+[00:42:11] [L] CrazyDadyShisha: много мыслей
+[00:42:19] [L] Oxpannik_Detdoma: это конечно печально, но мой прогноз минимум месяца 4-5
+[00:42:34] [L] Oxpannik_Detdoma: если это не перерастет во что то большее
+[00:42:35] [L] CrazyDadyShisha: это минимум
+[00:43:00] [L] Oxpannik_Detdoma: если ща наши дадут приказ покинуть территорию
+[00:43:02] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:43:03] [L] Oxpannik_Detdoma: то
+[00:43:08] [L] CrazyDadyShisha: то слава богу
+[00:43:17] [L] Oxpannik_Detdoma: всу полюбому пойдут в атаку на границу с нами
+[00:43:22] [L] Oxpannik_Detdoma: и все по новой будет
+[00:43:26] [L] CrazyDadyShisha: вряд ли
+[00:43:36] [L] CrazyDadyShisha: если уйдут со всех территорий украины
+[00:43:37] VadimArukov зашёл
+[00:43:38] [L] setNolik: &aЗашел &b[&6VadimArukov&b]
+[00:43:43] [L] CrazyDadyShisha: то думаю никто не будет нападать
+[00:43:47] [L] CrazyDadyShisha: это не выгодно
+[00:43:54] [L] Oxpannik_Detdoma: ну тут же видишь в чем прикол
+[00:43:56] VadimArukov issued server command: /we cui
+[00:44:01] [L] Oxpannik_Detdoma: это ж не так просто как мы думаем
+[00:44:10] [L] Oxpannik_Detdoma: это невозможно
+[00:44:16] [L] CrazyDadyShisha: естественно, у всех свои цели и мысли
+[00:44:19] [L] Oxpannik_Detdoma: не дадут просто так спокойно уйти
+[00:44:26] [L] Oxpannik_Detdoma: полюбому
+[00:44:28] [L] CrazyDadyShisha: а может никто и не уйдет спокойно
+[00:44:35] [L] CrazyDadyShisha: я под обстрелами побывал
+[00:44:46] [L] CrazyDadyShisha: и в городах котоыре каждый день херачат был
+[00:44:55] [L] CrazyDadyShisha: такое вряд ли быстро закончиться
+[00:45:06] VadimArukov issued server command: /warp world
+[00:45:08] VadimArukov issued server command: /we cui
+[00:45:10] VadimArukov issued server command: /rtp
+[00:45:11] [L] CrazyDadyShisha: и забудеться тем более
+[00:45:23] [L] CrazyDadyShisha: тут уже ненависть на уровне наций
+[00:45:30] [L] CrazyDadyShisha: при том я очень нейтрален
+[00:45:36] VadimArukov issued server command: /rtp
+[00:45:44] [L] Oxpannik_Detdoma: ну мы это уже обсуждали
+[00:45:47] [L] CrazyDadyShisha: а тех кто разжигает все это и у вас и у нас много
+[00:45:50] [L] CrazyDadyShisha: это да
+[00:45:52] [L] Oxpannik_Detdoma: воюет то не народ
+[00:45:59] [L] Oxpannik_Detdoma: а политики в первую очередь
+[00:46:06] [L] CrazyDadyShisha: ладно, не та тема которую хочеться обсуждать)
+[00:46:13] [L] Oxpannik_Detdoma: воюют пацаны не за идею, а потому что им призак дают
+[00:46:20] [L] Oxpannik_Detdoma: да это точно не та тема
+[00:46:37] VadimArukov issued server command: //chunk
+[00:46:37] VadimArukov issued server command: //outset 16
+[00:46:37] VadimArukov issued server command: /zone
+[00:46:52] [L] CrazyDadyShisha: интересно за месяц я хотя бы 1 лям энергии сделаю в тик
+[00:46:58] VadimArukov issued server command: /rg claim VadimAr
+[00:47:01] [L] Oxpannik_Detdoma: конечно
+[00:47:04] VadimArukov issued server command: //sel
+[00:47:08] [L] Oxpannik_Detdoma: и 1,5 сделаешь
+[00:47:08] VadimArukov issued server command: /buyflag
+[00:47:13] [L] Oxpannik_Detdoma: если захочешь
+[00:47:23] [L] Oxpannik_Detdoma: + у тебя все для этого есть
+[00:47:26] [L] CrazyDadyShisha: ну да, это вопрос желания и свободного времнеи
+[00:47:30] [L] Oxpannik_Detdoma: главное не трать время на реакторы
+[00:47:45] [L] Oxpannik_Detdoma: ставь панели просто
+[00:47:47] [L] CrazyDadyShisha: я их ненавижу)))
+[00:47:54] Salo39 issued server command: /home
+[00:48:05] [L] CrazyDadyShisha: а с пчелами лень разбираться
+[00:48:09] [L] Oxpannik_Detdoma: я вот думаю
+[00:48:19] [L] Oxpannik_Detdoma: чи пойти фильмец глянуть чи в доту залететь
+[00:48:23] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:48:29] [L] Oxpannik_Detdoma: ни фильма не могу найти толкового
+[00:48:32] [L] CrazyDadyShisha: я доту удалил еще в марте))
+[00:48:39] [L] CrazyDadyShisha: сейчас усик будет драться
+[00:48:42] [L] CrazyDadyShisha: буду смотреть
+[00:48:45] [L] CrazyDadyShisha: 10 минут осталось
+[00:48:48] Salo39 issued server command: /home
+[00:48:49] [L] Oxpannik_Detdoma: и в доту нет кайфа возвращатся тем более на свою аверагу
+[00:49:04] [L] Oxpannik_Detdoma: если только на 4к зайти
+[00:49:08] [L] Oxpannik_Detdoma: ботов попинать
+[00:49:12] [L] CrazyDadyShisha: ахахах
+[00:49:17] [L] CrazyDadyShisha: я на 2-3 к играл
+[00:49:24] [L] CrazyDadyShisha: дальше никогда не залетал
+[00:49:29] [L] CrazyDadyShisha: хотя в доте с 13 года
+[00:49:36] [L] CrazyDadyShisha: кс больше вкатывал
+[00:49:41] [L] Oxpannik_Detdoma: я когда учился в универе, подрабатывал бустером
+[00:49:48] [L] Oxpannik_Detdoma: на AnyLVL
+[00:50:06] [L] CrazyDadyShisha: я всю школу до глобалов поднимал))
+[00:50:17] [L] Oxpannik_Detdoma: бустил в основном до 6000 - 6500
+[00:50:17] [L] CrazyDadyShisha: а пол года назад был всего лишь беркутом(
+[00:50:50] [L] Oxpannik_Detdoma: я глобала так и не апнул, я на калашах долго сидел
+[00:50:54] [L] Oxpannik_Detdoma: потом суприма
+[00:50:59] [L] Oxpannik_Detdoma: и работа потом погла
+[00:51:02] [L] Oxpannik_Detdoma: не было времени
+[00:51:10] [L] CrazyDadyShisha: а сейчас на ноуте нет кайфа играть
+[00:51:16] [L] Oxpannik_Detdoma: а в доте у меня мейн 7340 сейчас
+[00:51:24] [L] Oxpannik_Detdoma: на данный момент
+[00:51:27] [L] CrazyDadyShisha: хоть и 340мгц экран
+[00:51:33] [L] CrazyDadyShisha: это очень много
+[00:52:03] [L] CrazyDadyShisha: ладно, пойду смотреть
+[00:52:04] kuzaval issued server command: /home
+[00:52:05] kuzaval issued server command: /we cui
+[00:52:06] [L] CrazyDadyShisha: доброй ночи)
+[00:52:11] [L] Oxpannik_Detdoma: да давай и тебе
+[00:52:13] CrazyDadyShisha issued server command: /home
+[00:52:26] Oxpannik_Detdoma issued server command: /home
+[00:52:36] kuzaval issued server command: /warp top
+[00:53:12] VadimArukov issued server command: /kit start
+[00:53:14] Salo39 issued server command: /warp qwe
+[00:53:43] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:54:23] Oxpannik_Detdoma вышел
+[00:55:03] VadimArukov issued server command: /sethome
+[00:57:50] kuzaval issued server command: /homw
+[00:57:52] kuzaval issued server command: /home
+[00:58:09] kuzaval issued server command: /warp top
+[00:58:26] Salo39 issued server command: /home
+[00:59:03] [G] setNolik: !&b/warp &4usa &9[&aЗарядка RF, EU, &cTermal\Ic2\Ae2. &dУдача &4V&6, Бесконечный опыт&9] &3[отошёл]
+[00:59:26] kuzaval issued server command: /home
+[00:59:44] kuzaval issued server command: /warp top

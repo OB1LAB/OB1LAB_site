@@ -1,0 +1,322 @@
+[00:00:02] Montana1232 issued server command: /homew
+[00:00:04] Montana1232 issued server command: /homee
+[00:00:05] Montana1232 issued server command: /home
+[00:00:23] heece issued server command: /rtp
+[00:00:39] 1inko1 issued server command: /mpcaseshop
+[00:00:40] 1inko1 issued server command: /mpcaseview 10
+[00:00:41] 1inko1 issued server command: /rollcase 10
+[00:00:49] heece issued server command: /rtp
+[00:00:56] 1inko1 issued server command: /mpcaseshop
+[00:01:18] 1inko1 issued server command: /call CEPEJILEHbKA
+[00:01:24] CEPEJILEHbKA issued server command: /home
+[00:01:26] CEPEJILEHbKA issued server command: /tpaccept
+[00:01:43] 1inko1 issued server command: /warp shop
+[00:01:45] 1inko1 issued server command: /we cui
+[00:02:02] heece issued server command: /rtp
+[00:02:11] heece issued server command: /home
+[00:02:16] heece issued server command: /warp m4
+[00:03:14] heece issued server command: /warp shop
+[00:03:14] 1inko1 issued server command: /warp m4
+[00:03:16] heece issued server command: /we cui
+[00:03:16] 1inko1 issued server command: /we cui
+[00:04:38] 1inko1 issued server command: /warp m4
+[00:04:49] 1inko1 issued server command: /warp 25
+[00:04:58] heece issued server command: /home
+[00:04:59] heece issued server command: /we cui
+[00:05:43] 1inko1 issued server command: /warp m4
+[00:06:07] heece issued server command: /rtp
+[00:06:18] [L] 1inko1: 5
+[00:06:26] heece issued server command: /rtp
+[00:07:49] Montana1232 issued server command: /warp 32
+[00:08:03] heece issued server command: /rtp
+[00:08:13] [L] Montana1232: 4
+[00:08:19] heece issued server command: /home
+[00:08:28] Montana1232 issued server command: /home
+[00:08:30] 1inko1 issued server command: /kit
+[00:08:32] 1inko1 issued server command: /kit top
+[00:09:47] CEPEJILEHbKA issued server command: /kit top
+[00:09:58] heece issued server command: /warp m4
+[00:10:51] 1inko1 issued server command: /warp m4
+[00:10:57] CEPEJILEHbKA issued server command: /warp m4
+[00:11:28] [L] 1inko1: 1
+[00:11:35] heece issued server command: /warp m4
+[00:11:39] [L] 1inko1: 1
+[00:12:06] [L] 1inko1: 20
+[00:12:09] CEPEJILEHbKA issued server command: /home
+[00:12:12] heece issued server command: /spawn
+[00:12:13] heece issued server command: /we cui
+[00:12:22] heece issued server command: /kit top
+[00:13:25] Montana1232 issued server command: /home
+[00:14:07] heece issued server command: /home
+[00:14:08] heece issued server command: /we cui
+[00:14:33] heece issued server command: /warp m4
+[00:15:27] heece issued server command: /home
+[00:16:37] heece issued server command: /warp m4
+[00:16:38] Smogrr зашёл
+[00:16:45] Smogrr issued server command: /we cui
+[00:16:55] Smogrr issued server command: /rtp
+[00:17:00] Smogrr issued server command: /warp world
+[00:17:00] Smogrr issued server command: /we cui
+[00:17:03] Smogrr issued server command: /rtp
+[00:18:23] normuk вышел
+[00:18:25] heece issued server command: /home
+[00:18:27] Smogrr issued server command: /rtp
+[00:19:40] Smogrr issued server command: /rtp
+[00:19:50] Smogrr issued server command: /rtp
+[00:19:58] Smogrr issued server command: /rtp
+[00:20:23] Smogrr issued server command: /rtp
+[00:21:09] Montana1232 issued server command: /warp mining
+[00:21:13] Montana1232 issued server command: /we cui
+[00:21:13] Smogrr issued server command: /rtp
+[00:21:19] Montana1232 issued server command: /rtp
+[00:21:27] Montana1232 issued server command: /home
+[00:21:30] Montana1232 issued server command: /we cui
+[00:21:39] Smogrr issued server command: //chunk
+[00:21:39] Smogrr issued server command: //outset 16
+[00:21:39] Smogrr issued server command: /zone
+[00:21:48] Smogrr issued server command: //sel
+[00:21:58] Smogrr issued server command: /rtp
+[00:22:02] Montana1232 issued server command: /warp mining
+[00:22:05] Montana1232 issued server command: /we cui
+[00:22:07] Montana1232 issued server command: /rtp
+[00:22:20] Montana1232 issued server command: /rtp
+[00:22:22] Smogrr issued server command: /rtp
+[00:22:24] Montana1232 issued server command: /rtp
+[00:22:40] Smogrr issued server command: /rtp
+[00:23:12] Montana1232 issued server command: /home
+[00:23:13] Smogrr issued server command: /rtp
+[00:23:14] Montana1232 issued server command: /we cui
+[00:23:23] Smogrr issued server command: /rtp
+[00:23:27] Montana1232 issued server command: /warp mining
+[00:23:28] Smogrr issued server command: /rtp
+[00:23:32] Montana1232 issued server command: /we cui
+[00:23:34] Montana1232 issued server command: /rtp
+[00:24:06] Smogrr issued server command: //chunk
+[00:24:06] Smogrr issued server command: //outset 16
+[00:24:06] Smogrr issued server command: /zone
+[00:25:01] ebubratika зашёл
+[00:25:07] ebubratika issued server command: /we cui
+[00:26:29] ebubratika вышел
+[00:26:34] Smogrr issued server command: /rg claim Smogrr
+[00:27:06] Montana1232 issued server command: /rtp
+[00:27:14] Smogrr issued server command: /sethome
+[00:27:33] Smogrr issued server command: //sel
+[00:28:10] Montana1232 issued server command: /rtp
+[00:28:21] ebubratika зашёл
+[00:28:25] Smogrr issued server command: /tpa Smogrr
+[00:28:29] ebubratika issued server command: /we cui
+[00:28:36] Montana1232 issued server command: /rtp
+[00:28:40] Smogrr issued server command: /kit eat
+[00:28:59] Montana1232 issued server command: /rtp
+[00:29:11] Montana1232 issued server command: /rtp
+[00:29:17] Montana1232 issued server command: /rtp
+[00:29:22] ebubratika вышел
+[00:29:54] CEPEJILEHbKA issued server command: /mpcaseshop
+[00:29:55] CEPEJILEHbKA issued server command: /mpcaseview 10
+[00:29:57] CEPEJILEHbKA issued server command: /buycase 10
+[00:30:53] Smogrr issued server command: /warp mining
+[00:30:54] Smogrr issued server command: /we cui
+[00:30:59] Smogrr issued server command: /rtp
+[00:31:28] heece issued server command: /rtp
+[00:31:44] ebubratika зашёл
+[00:31:46] 1inko1 issued server command: /warp m4
+[00:31:51] heece issued server command: /rtp
+[00:31:52] ebubratika issued server command: /we cui
+[00:32:23] heece issued server command: /rtp
+[00:32:59] Montana1232 issued server command: /home
+[00:33:02] Montana1232 issued server command: /we cui
+[00:33:16] FoxTVCraft зашёл
+[00:33:22] ebubratika вышел
+[00:33:24] heece issued server command: /rtp
+[00:33:24] FoxTVCraft issued server command: /we cui
+[00:33:34] FoxTVCraft вышел
+[00:33:52] heece issued server command: /rtp
+[00:34:16] CEPEJILEHbKA issued server command: /money
+[00:34:27] CEPEJILEHbKA issued server command: /mpcaseshop
+[00:34:30] CEPEJILEHbKA issued server command: /mpcaseview 10
+[00:34:30] heece issued server command: /rtp
+[00:34:32] CEPEJILEHbKA issued server command: /rollcase 10
+[00:34:42] 1inko1 issued server command: /call CEPEJILEHbKA
+[00:34:43] CEPEJILEHbKA issued server command: /mpcaseview 10
+[00:34:47] CEPEJILEHbKA issued server command: /tpaccept
+[00:35:07] heece issued server command: /rtp
+[00:35:23] [G] Montana1232: !Кому пчелы нужны?
+[00:35:25] FoxTVCraft зашёл
+[00:35:29] heece issued server command: /rtp
+[00:35:35] FoxTVCraft issued server command: /we cui
+[00:35:42] FoxTVCraft вышел
+[00:35:51] Montana1232 issued server command: /warp 25
+[00:35:55] heece issued server command: /rtp
+[00:36:08] heece issued server command: /home
+[00:36:27] heece вышел
+[00:36:37] Montana1232 issued server command: /home
+[00:36:49] devochkanyasha зашёл
+[00:36:49] Montana1232 issued server command: /home
+[00:36:51] Montana1232 issued server command: /warp 25
+[00:36:55] devochkanyasha issued server command: /we cui
+[00:37:16] Montana1232 issued server command: /home
+[00:37:21] devochkanyasha вышел
+[00:37:59] FoxTVCraft зашёл
+[00:38:09] FoxTVCraft issued server command: /we cui
+[00:38:12] Smogrr issued server command: /home
+[00:38:13] Smogrr issued server command: /we cui
+[00:38:16] FoxTVCraft вышел
+[00:38:42] Montana1232 issued server command: /kit start
+[00:40:43] 1inko1 issued server command: /warp m4
+[00:41:33] 1inko1 issued server command: /call CEPEJILEHbKA
+[00:41:53] 1inko1 issued server command: /call CEPEJILEHbKA
+[00:42:12] CEPEJILEHbKA issued server command: /tpaccept
+[00:42:42] 1inko1 issued server command: /warp 25
+[00:42:45] kolik2 вышел
+[00:43:13] 1inko1 issued server command: /warp m4
+[00:43:29] [L] 1inko1: 15
+[00:43:55] 1inko1 issued server command: /warp 25
+[00:45:45] BuLBuLKarasiKi зашёл
+[00:45:54] BuLBuLKarasiKi issued server command: /we cui
+[00:46:44] devochkanyasha зашёл
+[00:46:45] 1inko1 issued server command: /home
+[00:46:52] devochkanyasha issued server command: /we cui
+[00:46:55] BuLBuLKarasiKi issued server command: /kit start
+[00:47:03] BuLBuLKarasiKi issued server command: /kit bonus
+[00:47:08] BuLBuLKarasiKi issued server command: /kit
+[00:47:13] BuLBuLKarasiKi issued server command: /kit eat
+[00:47:22] FoxTVCraft зашёл
+[00:47:24] BuLBuLKarasiKi issued server command: /kit hunter
+[00:47:27] FoxTVCraft issued server command: /we cui
+[00:47:30] BuLBuLKarasiKi issued server command: /kit top
+[00:47:30] Leana зашёл
+[00:47:33] Leana issued server command: /we cui
+[00:47:35] FoxTVCraft вышел
+[00:47:41] devochkanyasha вышел
+[00:47:46] Leana вышел
+[00:47:48] BuLBuLKarasiKi issued server command: /rtp
+[00:47:59] 1inko1 issued server command: /call CEPEJILEHbKA
+[00:48:04] CEPEJILEHbKA issued server command: /tpaccept
+[00:48:10] 1inko1 issued server command: /sethome
+[00:48:37] 1inko1 issued server command: /warp m4
+[00:49:00] BuLBuLKarasiKi issued server command: /we cui
+[00:49:05] BuLBuLKarasiKi issued server command: /rtp
+[00:49:14] CEPEJILEHbKA issued server command: /mpcaseshop
+[00:49:19] CEPEJILEHbKA issued server command: /mpcaseview 11
+[00:49:25] CEPEJILEHbKA issued server command: /buycase 11
+[00:50:05] Montana1232 issued server command: /money
+[00:50:35] BuLBuLKarasiKi issued server command: /rtp
+[00:50:53] BuLBuLKarasiKi вышел
+[00:51:05] 1inko1 issued server command: /home
+[00:51:08] Montana1232 вышел
+[00:53:46] devochkanyasha зашёл
+[00:53:50] devochkanyasha issued server command: /we cui
+[00:53:56] devochkanyasha вышел
+[00:55:56] devochkanyasha зашёл
+[00:56:05] devochkanyasha issued server command: /we cui
+[00:56:10] devochkanyasha вышел
+[00:56:23] Smogrr вышел
+[00:57:36] 1inko1 issued server command: /warp 24
+[00:57:37] 1inko1 issued server command: /warp 25
+[00:58:06] 1inko1 issued server command: /warp m4
+[00:58:18] 1inko1 issued server command: /home
+[01:00:35] devochkanyasha зашёл
+[01:00:44] devochkanyasha issued server command: /we cui
+[01:00:49] devochkanyasha вышел
+[01:02:04] CEPEJILEHbKA issued server command: /warp shop
+[01:02:10] CEPEJILEHbKA issued server command: /we cui
+[01:03:29] 1inko1 issued server command: /sethome
+[01:04:36] CEPEJILEHbKA issued server command: /warp shop
+[01:04:41] 1inko1 issued server command: /warp m4
+[01:04:49] CEPEJILEHbKA issued server command: /warp m4
+[01:04:55] CEPEJILEHbKA issued server command: /we cui
+[01:05:51] [L] CEPEJILEHbKA: 1
+[01:05:56] CEPEJILEHbKA issued server command: /home
+[01:05:57] 1inko1 issued server command: /home
+[01:06:13] CEPEJILEHbKA issued server command: /call 1inko1
+[01:06:16] 1inko1 issued server command: /tpaccept
+[01:06:59] 1inko1 issued server command: /sethome
+[01:07:30] CEPEJILEHbKA issued server command: /homer
+[01:07:30] 1inko1 убил CEPEJILEHbKA (AIR)
+[01:07:34] CEPEJILEHbKA issued server command: /we cui
+[01:07:40] CEPEJILEHbKA issued server command: /home
+[01:07:43] CEPEJILEHbKA issued server command: /we cui
+[01:09:47] CEPEJILEHbKA issued server command: /warp m4
+[01:11:10] 1inko1 issued server command: /home
+[01:11:18] 1inko1 issued server command: /home
+[01:11:44] [L] CEPEJILEHbKA: 1
+[01:11:49] CEPEJILEHbKA issued server command: /home
+[01:13:01] 1inko1 issued server command: /sethome
+[01:14:14] CEPEJILEHbKA issued server command: /money
+[01:17:28] CEPEJILEHbKA issued server command: /warp m4
+[01:18:14] 1inko1 issued server command: /warp 25
+[01:18:18] 1inko1 issued server command: /home
+[01:18:38] 1inko1 issued server command: /warp m4
+[01:20:24] CEPEJILEHbKA issued server command: /warp list
+[01:20:28] CEPEJILEHbKA issued server command: /warp list -p
+[01:20:43] CEPEJILEHbKA issued server command: /home
+[01:20:51] 1inko1 issued server command: /warp m4
+[01:21:16] 1inko1 issued server command: /home
+[01:22:08] 1inko1 issued server command: /warp m4
+[01:22:21] 1inko1 issued server command: /home
+[01:23:10] CEPEJILEHbKA issued server command: /buyflag
+[01:23:19] 1inko1 issued server command: /buyflag
+[01:23:28] 1inko1 issued server command: /buyflag list
+[01:24:03] 1inko1 issued server command: /warp m4
+[01:25:33] 1inko1 был кикнут
+[01:25:33] 1inko1 вышел
+[01:25:33] SpacebarMyAlly был кикнут
+[01:25:33] SpacebarMyAlly вышел
+[01:25:33] CEPEJILEHbKA был кикнут
+[01:25:33] CEPEJILEHbKA вышел
+[01:25:41] Сервер выключился
+[01:26:34] Сервер включился
+[01:27:19] CEPEJILEHbKA зашёл
+[01:27:24] CEPEJILEHbKA issued server command: /we cui
+[01:28:02] 1inko1 зашёл
+[01:28:05] 1inko1 issued server command: /we cui
+[01:28:11] SpacebarMyAlly зашёл
+[01:28:15] SpacebarMyAlly issued server command: /we cui
+[01:28:16] 1inko1 issued server command: /home
+[01:28:24] SpacebarMyAlly issued server command: /god
+[01:28:26] SpacebarMyAlly issued server command: /vanish
+[01:28:58] 1inko1 issued server command: /warp m4
+[01:29:14] CEPEJILEHbKA issued server command: /warp m4
+[01:29:20] 1inko1 issued server command: /warp mining
+[01:29:21] 1inko1 issued server command: /we cui
+[01:29:23] 1inko1 issued server command: /rtp
+[01:30:03] [L] CEPEJILEHbKA: 1
+[01:30:18] CEPEJILEHbKA issued server command: /home
+[01:42:14] CEPEJILEHbKA issued server command: /warp m4
+[01:43:20] [L] CEPEJILEHbKA: 1
+[01:43:25] [L] CEPEJILEHbKA: 1
+[01:43:32] CEPEJILEHbKA issued server command: /home
+[01:44:43] CEPEJILEHbKA issued server command: /warp m4
+[01:45:12] CEPEJILEHbKA issued server command: /home
+[01:46:18] violaez зашёл
+[01:46:31] violaez issued server command: /we cui
+[01:47:30] CEPEJILEHbKA issued server command: /warp m4
+[01:47:34] 1inko1 issued server command: /sethome
+[01:47:39] 1inko1 issued server command: /warp m4
+[01:47:42] 1inko1 issued server command: /we cui
+[01:47:53] violaez issued server command: /warp dark
+[01:47:55] CEPEJILEHbKA issued server command: /home
+[01:48:04] CEPEJILEHbKA issued server command: /warp m4
+[01:48:21] violaez issued server command: /rtp
+[01:49:36] CEPEJILEHbKA issued server command: /kit eat
+[01:49:56] CEPEJILEHbKA issued server command: /home
+[01:49:59] 1inko1 issued server command: /call ce
+[01:49:59] CEPEJILEHbKA issued server command: /tpaccept
+[01:50:42] 1inko1 issued server command: /home
+[01:50:44] 1inko1 issued server command: /we cui
+[01:51:40] CEPEJILEHbKA issued server command: /warp m4
+[01:52:38] maf56 зашёл
+[01:52:57] maf56 issued server command: /we cui
+[01:53:45] maf56 issued server command: /kit eat
+[01:53:46] 1inko1 issued server command: /warp m4
+[01:53:48] 1inko1 issued server command: /we cui
+[01:54:14] 1inko1 issued server command: /call CEPEJILEHbKA
+[01:54:31] 1inko1 issued server command: /call CEPEJILEHbKA
+[01:54:32] 1inko1 issued server command: /call CEPEJILEHbKA
+[01:54:32] 1inko1 issued server command: /call CEPEJILEHbKA
+[01:54:33] 1inko1 issued server command: /call CEPEJILEHbKA
+[01:54:33] 1inko1 issued server command: /call CEPEJILEHbKA
+[01:54:34] 1inko1 issued server command: /call CEPEJILEHbKA
+[01:54:40] CEPEJILEHbKA issued server command: /home
+[01:54:43] CEPEJILEHbKA issued server command: /tpaccept
+[01:55:11] CEPEJILEHbKA issued server command: /warp m4

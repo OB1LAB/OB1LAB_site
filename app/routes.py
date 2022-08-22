@@ -71,14 +71,14 @@ def public_logs(server, date):
                            logs=''.join(open(f'logs/public/{server}/{date}', 'r', encoding='utf-8').readlines()))
 
 
-@app.route('/private_logs')
+@app.route('/private_logs', methods=['GET', 'POST'])
 @login_required
 def private_logs():
     return render_template('private_logs_dates.html', title="UltimaTech", server='UltimaTech', route_data=route_data,
                            dates=date_sort(os.listdir('logs/private/UltimaTech')))
 
 
-@app.route('/private_logs/<date>')
+@app.route('/private_logs/<date>', methods=['GET', 'POST'])
 @login_required
 def private_logs_date(date):
     if date not in os.listdir(f'logs/private/UltimaTech'):
@@ -91,7 +91,7 @@ def private_logs_date(date):
     return render_template('private_logs.html', title="UltimaTech", logs=logs, route_data=route_data)
 
 
-@app.route('/profile/<username>')
+@app.route('/profile/<username>', methods=['GET', 'POST'])
 @login_required
 def profile(username):
     user = User.query.filter_by(login=username).first_or_404()
@@ -104,16 +104,9 @@ def profile(username):
                            color=role['color'], register_time=user.get_register(), path_image=path_image)
 
 
-@app.route('/activity_check')
+@app.route('/activity_check', methods=['GET', 'POST'])
 def activity_check():
-    user = User.query.filter_by(login='OB1CHAM').first_or_404()
-    role = user.get_max_role()
-    if user.avatar:
-        path_image = url_for('static', filename=f'css/images/users/OB1CHAM/avatar.png')
-    else:
-        path_image = f'https://skins.mcskill.net/?name=OB1CHAM&mode=5&fx=64&fy=64'
-    return render_template('activity_check.html', title='Игровая активность', route_data=route_data,
-                           path_image=path_image, color=role['color'])
+    return render_template('activity_check.html', title='Игровая активность', route_data=route_data)
 
 
 @app.errorhandler(404)

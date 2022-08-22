@@ -1,0 +1,627 @@
+[00:00:07] [L] NEKTAR23: бл мне уходить нужно
+[00:00:11] [L] NEKTAR23: и все
+[00:00:16] 0o_U_o0 issued server command: /M rafael05 Это двигаться надо другом, то есть мне если у тебя сообщает про меня
+[00:00:19] [L] LA_Phantom: 12
+[00:00:24] [L] LA_Phantom: rfr b [jntk
+[00:00:24] [L] NEKTAR23: я думал 120 иридия
+[00:00:33] [L] LA_Phantom: у меня только 12
+[00:00:43] [L] NEKTAR23: сколько нжно
+[00:00:49] ArcYellow issued server command: /warp mining
+[00:00:49] [L] LA_Phantom: 120 жб
+[00:00:55] ArcYellow issued server command: /we cui
+[00:00:57] [L] LA_Phantom: в ячейку
+[00:01:00] rafael05 issued server command: /tell 0o_U_o0 аааа
+[00:01:05] 0o_U_o0 issued server command: /M rafael05 Давай тп ко мне в гости, я не буду отаковать.
+[00:01:06] [L] NEKTAR23: ща
+[00:01:10] kolik2 issued server command: /warp end
+[00:01:11] kolik2 issued server command: /we cui
+[00:01:17] 0o_U_o0 issued server command: /tpahere rafael05
+[00:01:22] rafael05 issued server command: /tpaccept
+[00:01:23] ArcYellow issued server command: /rtp
+[00:01:33] [L] NEKTAR23: все
+[00:01:35] 0o_U_o0 issued server command: /sethome
+[00:01:36] [L] NEKTAR23: проверяй
+[00:01:37] 0o_U_o0 issued server command: /home
+[00:01:41] [L] LA_Phantom: ячейка
+[00:01:42] [G] ArcYellow: !а в коп.мире нет метеоритов?
+[00:01:51] [L] NEKTAR23: все спс
+[00:01:56] [G] kolik2: !нет
+[00:01:58] [L] LA_Phantom: давай
+[00:02:01] NEKTAR23 вышел
+[00:02:04] ArcYellow issued server command: /warp world
+[00:02:07] ArcYellow issued server command: /we cui
+[00:02:11] ArcYellow issued server command: /rtp
+[00:02:20] [L] rafael05: а почему не сделаешь мэ систему?
+[00:02:36] kolik2 issued server command: /feed
+[00:02:39] [L] rafael05: самую начальную
+[00:02:41] [L] LA_Phantom: давай
+[00:02:53] LA_Phantom issued server command: /enderchest
+[00:02:53] 0o_U_o0 issued server command: /M rafael05 Только начал, давно не делал, запамятовал, потихонбку вспоминаю что как
+[00:03:00] [L] rafael05: ааа
+[00:03:05] [L] rafael05: у меня тоже самое
+[00:03:15] 0o_U_o0 issued server command: /M rafael05 Диски делаю
+[00:03:23] [L] rafael05: ячейки хранения?
+[00:03:49] 0o_U_o0 issued server command: /M rafael05 Я тебя сейчас добавлю, без палева, посмотришь что у еня есть по сборке
+[00:03:57] [L] rafael05: ок
+[00:04:03] [L] rafael05: ток щя я еду возьму и тп сделаю
+[00:04:04] rafael05 issued server command: /home
+[00:04:20] rafael05 issued server command: /tpa 0o_U_o0
+[00:04:21] kolik2 issued server command: /feed
+[00:04:23] ArcYellow issued server command: /home
+[00:05:09] rafael05 issued server command: /tpa 0o_U_o0
+[00:05:13] kolik2 issued server command: /feed
+[00:05:17] kolik2 issued server command: /feed
+[00:05:20] 0o_U_o0 issued server command: /region addmember 0o_U_o0 rafael05
+[00:05:24] kolik2 issued server command: /feed
+[00:05:35] 0o_U_o0 issued server command: /tpaccept
+[00:05:41] kolik2 issued server command: /home
+[00:05:42] kolik2 issued server command: /we cui
+[00:06:12] Slavik3545 issued server command: /m LA_Phantom ?
+[00:06:14] ArcYellow issued server command: /warp legend
+[00:06:21] [L] rafael05: это все предметы для ae2
+[00:06:51] LA_Phantom issued server command: /tpa Slavik3545
+[00:06:53] ArcYellow issued server command: /home
+[00:06:56] Slavik3545 issued server command: /tpaccept
+[00:07:05] [L] rafael05: вещи неплохие
+[00:07:07] [L] rafael05: но места мало
+[00:07:09] [L] LA_Phantom: накопался )
+[00:07:19] 0o_U_o0 issued server command: /M rafael05 не шипко пологаю
+[00:07:20] [L] Slavik3545: переработать надо
+[00:07:23] [L] rafael05: надо хотя бы начальную сделаю
+[00:07:25] [L] rafael05: мэ
+[00:07:28] [L] LA_Phantom: на варп )
+[00:07:32] [L] rafael05: ага
+[00:07:34] Slavik3545 issued server command: /warp m4
+[00:07:51] LA_Phantom issued server command: /home
+[00:07:55] [L] rafael05: где будешь делатть мэ?
+[00:08:11] kolik2 issued server command: /warp 25
+[00:08:12] Slavik3545 issued server command: /home
+[00:08:21] 0o_U_o0 issued server command: /M rafael05 Будешь желанным гостем тут. Будь как дома.
+[00:08:22] kolik2 issued server command: /home
+[00:08:28] Slavik3545 issued server command: /tpa LA_Phantom
+[00:08:30] [L] rafael05: ахахх
+[00:08:31] LA_Phantom issued server command: /tpaccept
+[00:08:32] [L] rafael05: спасибо)
+[00:08:41] [L] rafael05: а где будет мэ система
+[00:08:44] [L] Slavik3545: у меня ток 535жб
+[00:08:57] [L] LA_Phantom: ну давай 500 на те забей ))
+[00:09:01] [L] rafael05: харомы
+[00:09:06] [L] Slavik3545: смл серьезна
+[00:09:17] [L] LA_Phantom: пока добры й ))
+[00:09:19] [L] rafael05: извини
+[00:09:37] [L] Slavik3545: спасибо ля че ты такой добрый
+[00:09:59] [L] rafael05: могу с мэ системой помочь тебе
+[00:10:03] [L] Slavik3545: спасибо
+[00:10:05] [L] LA_Phantom: не за что
+[00:10:08] 0o_U_o0 issued server command: /M rafael05 Я сломал нечаянно. Я тут сделал стол зачарований, хотел бур зачарить на шолковое касание
+[00:10:16] [L] rafael05: ааа
+[00:10:23] 0o_U_o0 issued server command: /M rafael05 Буду рад.
+[00:10:25] [L] rafael05: это я если что сломал извини
+[00:10:33] kolik2 issued server command: /warp 25
+[00:10:34] kolik2 issued server command: /feed
+[00:10:35] [L] rafael05: а куда ты хочешь поставить мэ систему
+[00:10:37] kolik2 issued server command: /home
+[00:10:52] [L] Slavik3545: кста я тебе задовал вопрос не хочешь жить вместе?
+[00:10:54] 0o_U_o0 issued server command: /M rafael05 У меня бур стоял три на три лом
+[00:11:01] [L] Slavik3545: ты просто тогда не ответил
+[00:11:04] [L] rafael05: у мегя тоже кирка три на три
+[00:11:08] dudoser149 зашёл
+[00:11:10] [L] rafael05: это я сломал по ошибке
+[00:11:20] 0o_U_o0 issued server command: /M rafael05 Я ее начал собирать временно на третем этаже
+[00:11:38] [L] rafael05: что на третьем этаже?
+[00:11:39] dudoser149 issued server command: /we cui
+[00:11:44] [L] rafael05: зачаровалку?
+[00:11:44] [L] Slavik3545: опять мочанка
+[00:11:52] [L] Slavik3545: так и скажи нет
+[00:11:55] [L] LA_Phantom: а, не мы с другом 2 только он не любит еще с кемто играть )) сори. а если че надо пиши ))
+[00:12:05] [L] rafael05: где хчоешь чтобы стояла мэ система
+[00:12:12] dudoser149 вышел
+[00:12:12] [L] Slavik3545: а пон
+[00:12:13] [L] rafael05: чтобы там были все твои вещи
+[00:12:20] kolik2 issued server command: /warp 25
+[00:12:25] [L] Slavik3545: а какой у него ник
+[00:12:47] 0o_U_o0 issued server command: /M rafael05 Я МЭ систему начал собирать временно на третем этаже
+[00:12:49] [L] rafael05: сори
+[00:12:53] [L] LA_Phantom: ATGdoc
+[00:12:53] [L] Slavik3545: у него ник того кого мы загрифилири
+[00:12:57] [L] rafael05: а почему ты не уберешь пвп
+[00:13:00] [L] LA_Phantom: lf
+[00:13:02] [L] LA_Phantom: да
+[00:13:04] [L] rafael05: чтобы тебя не могли были убить в привате
+[00:13:06] [L] Slavik3545: бля сори
+[00:13:19] 0o_U_o0 issued server command: /M rafael05 А как убрать пвп с региона?
+[00:13:20] rafael05 issued server command: /afk
+[00:13:24] [L] LA_Phantom: так нельзя делать ))
+[00:13:27] [L] rafael05: у тебя есть 100 эмов?
+[00:13:31] kolik2 issued server command: /home
+[00:13:34] kolik2 issued server command: /warp mining
+[00:13:34] [L] Slavik3545: и он после этого не захотел играть
+[00:13:36] ArcYellow issued server command: /rtp
+[00:13:36] kolik2 issued server command: /we cui
+[00:13:38] kolik2 issued server command: /rtp
+[00:13:40] [L] rafael05: если что эмы это /money
+[00:13:43] 0o_U_o0 issued server command: /M rafael05 Сто алмазов?
+[00:13:49] [L] rafael05: не
+[00:13:54] [L] LA_Phantom: да не ))) просто занят чет не заходит
+[00:13:56] 0o_U_o0 issued server command: /M rafael05 понял
+[00:14:00] [L] rafael05: это 1 эм
+[00:14:01] [L] rafael05: деньги
+[00:14:02] [L] LA_Phantom: нам по 23 работа все дела
+[00:14:07] [L] Slavik3545: все ровно сори мужик
+[00:14:11] [L] rafael05: когда голосуешь на сайте тебе даются эмы
+[00:14:14] 0o_U_o0 issued server command: /M rafael05 Были, потратил на ресы.
+[00:14:14] [L] LA_Phantom: да ладно
+[00:14:15] [L] rafael05: деньги в крации
+[00:14:17] [L] rafael05: ааа
+[00:14:20] [L] LA_Phantom: но больше так не делай
+[00:14:24] 0o_U_o0 issued server command: /M rafael05 ПОстоянно голосую
+[00:14:25] [L] LA_Phantom: это тупо
+[00:14:27] [L] rafael05: надо 100 эмов чтоыб тебя не могли были бить в привате
+[00:14:31] [L] rafael05: круто
+[00:14:41] [L] rafael05: накопи 100 эмов и убери пвп
+[00:14:43] [L] LA_Phantom: вы еще типа убили, я ходил ему потом ресы довал
+[00:14:56] [L] rafael05: и тогда ты не будешь умирать когда тебя постоянно будут бить в твоем же привате
+[00:14:57] [L] LA_Phantom: он в чат матерился на вас ))
+[00:15:01] 0o_U_o0 issued server command: /M rafael05 А где и как убирать то
+[00:15:03] [L] LA_Phantom: монтана вроде
+[00:15:05] [L] rafael05: командой
+[00:15:09] rafael05 issued server command: /pvptoggle
+[00:15:09] rafael05 issued server command: /pvp
+[00:15:14] rafael05 issued server command: /buyflag
+[00:15:19] [L] rafael05: щя
+[00:15:22] [L] Slavik3545: да нас просто дохуя гриф и мы такие надо хоть тоже когото за гриф и вот он первый или 2 не помню
+[00:15:40] [L] LA_Phantom: понятно
+[00:15:42] [L] Slavik3545: мы 2 года нормально не могли рзвится нас всегда гриф
+[00:15:45] [L] LA_Phantom: ну это не выход
+[00:15:49] 0o_U_o0 issued server command: /M rafael05 Слушай , давай что ли по дискорду или еще как созвонимся, что бы удобнее общаться, ое?
+[00:15:50] rafael05 issued server command: /buyflag (имя региона) (имя флага) (значение флага)
+[00:15:59] [L] Slavik3545: да бля мы тупые 13 лет
+[00:16:01] [L] rafael05: вот /buyflag (имя региона) (имя флага) (значение флага)
+[00:16:06] [L] Slavik3545: че хотел
+[00:16:07] [L] LA_Phantom: ахахахах _)))
+[00:16:11] [L] rafael05: сори но я не могу разглашать свой дс
+[00:16:19] [L] LA_Phantom: но у тебя шансы еще есть ))
+[00:16:24] kolik2 issued server command: /home
+[00:16:25] kolik2 issued server command: /we cui
+[00:16:44] kolik2 вышел
+[00:16:52] 0o_U_o0 issued server command: /M rafael05 МОжно же временный зделать
+[00:16:58] [L] rafael05: дс?
+[00:17:12] 0o_U_o0 issued server command: /M rafael05 А что такое ДС
+[00:17:21] [L] rafael05: ну дискорд
+[00:17:24] [L] rafael05: сокращенно
+[00:18:01] [L] rafael05: а что это
+[00:18:18] 0o_U_o0 issued server command: /M rafael05 понял. Я имею в виду что можно сделать запасной , дискорд доже.
+[00:18:24] [L] rafael05: ааа
+[00:18:25] [L] rafael05: не
+[00:18:38] [L] rafael05: там вроде номер нужен для отдельного
+[00:18:45] [L] rafael05: а я не хочу это делать
+[00:18:50] [L] 0o_U_o0: А здесь же тоже можно по микрафону говорить в игре вроди.
+[00:18:50] Shootologist issued server command: /warp mining
+[00:18:51] Shootologist issued server command: /we cui
+[00:18:53] Shootologist issued server command: /rtp
+[00:18:56] [L] rafael05: да
+[00:19:00] [L] rafael05: ток я не помню как
+[00:19:53] 0o_U_o0 issued server command: /M rafael05 Я в сундука крафты разлажил
+[00:19:58] [L] rafael05: я видел
+[00:20:07] [L] rafael05: неплохо придумано
+[00:20:15] [L] rafael05: но все таки лучше мэ систему сделать
+[00:20:24] Shootologist issued server command: /rtp
+[00:20:26] [L] rafael05: чтобы ты мог освободится от сундуков и все вещи клал в мэ
+[00:20:28] 0o_U_o0 issued server command: /M rafael05 Да, мэ надо
+[00:20:35] Shootologist issued server command: /rtp
+[00:20:38] [L] rafael05: а есть предметы для мэ?
+[00:20:41] Shootologist issued server command: /rtp
+[00:20:44] ArcYellow issued server command: /rtp
+[00:20:52] [L] rafael05: ну мэ накопитель мэ терминал
+[00:21:00] [L] Slavik3545: кста
+[00:21:04] Shootologist issued server command: /rtp
+[00:21:05] [L] Slavik3545: я пришел
+[00:21:06] Slavik3545 issued server command: /playtime
+[00:21:08] 0o_U_o0 issued server command: /M rafael05 тлько видимо то что установил в верху , на третем этаже
+[00:21:26] [L] Slavik3545: осталось до 100часов мин
+[00:21:36] [L] rafael05: да вижу
+[00:21:43] [L] rafael05: можно купить ячейки
+[00:21:50] [L] rafael05: в варпах
+[00:22:11] [L] rafael05: бро
+[00:22:21] [L] rafael05: трансформаторы не работают на этом сервере
+[00:22:28] [L] rafael05: проще будет убрать их
+[00:22:28] 0o_U_o0 issued server command: /M rafael05 Я хотел максимальную начать собирать и начал щитать сколько ресов уйдет
+[00:22:43] [L] rafael05: это много ресов будет
+[00:22:49] [L] rafael05: 64к стоит где то 30 жб
+[00:23:08] 0o_U_o0 issued server command: /M rafael05 Трансформаторы не работают?
+[00:23:11] [L] rafael05: да
+[00:23:16] [L] rafael05: так проще сделали
+[00:23:29] [L] rafael05: у тебя не взорвутся механизмы
+[00:23:46] 0o_U_o0 issued server command: /M rafael05 Не стоит
+[00:23:54] [L] rafael05: ?
+[00:23:57] Slavik3545 issued server command: /playtime
+[00:23:57] [L] rafael05: что не стоит?
+[00:24:14] 0o_U_o0 issued server command: /M rafael05 Я же запитал специально через трансформаторы что бы не рвануло
+[00:24:26] [L] rafael05: у тебя не взорвутся они
+[00:24:35] [L] rafael05: в этом серверы механизмы не взрываются
+[00:25:02] [L] rafael05: есть железо?
+[00:25:43] [L] rafael05: у тебя неиу железа
+[00:25:43] ArcYellow issued server command: /warp shop
+[00:25:48] ArcYellow issued server command: /we cui
+[00:25:50] 0o_U_o0 issued server command: /M rafael05 Надо копать идти.
+[00:25:54] [L] rafael05: ааа
+[00:25:56] [L] rafael05: слушай
+[00:26:06] [L] rafael05: тебе нужен аппатит?
+[00:26:28] 0o_U_o0 issued server command: /M rafael05 Апатит
+[00:26:31] [L] rafael05: да
+[00:26:34] [L] rafael05: он тебе нужен?
+[00:27:14] 0o_U_o0 issued server command: /M rafael05 А на что он идет? Тебе на что?
+[00:27:20] ArcYellow issued server command: /home
+[00:27:22] [L] rafael05: мне просто для декора
+[00:27:24] ArcYellow issued server command: /we cui
+[00:27:27] 0o_U_o0 issued server command: /M rafael05 Бери, я еще накопаю
+[00:27:27] [L] rafael05: пол к примеру поставить
+[00:27:39] 0o_U_o0 issued server command: /M rafael05 Бери, я еще накопаю
+[00:27:39] [L] rafael05: я могу купить у тебя их за....
+[00:27:52] 0o_U_o0 issued server command: /M rafael05 Бери, бери
+[00:27:59] [L] rafael05: что ты зочешь?
+[00:28:07] [L] rafael05: просто так?
+[00:28:13] 0o_U_o0 issued server command: /M rafael05 Бери, бери, ок
+[00:28:19] [L] rafael05: ну ладно
+[00:28:22] [L] rafael05: спасибо
+[00:28:31] ArcYellow issued server command: /warp legend
+[00:28:38] 0o_U_o0 issued server command: /M rafael05 Между нами....
+[00:28:42] LA_Phantom issued server command: /god
+[00:28:46] [L] rafael05: ок
+[00:29:08] ArcYellow issued server command: /warp neon
+[00:29:11] 0o_U_o0 issued server command: /M rafael05 Ты уже знаешь как алмазы делать из угля и кремния?
+[00:29:18] [L] rafael05: да
+[00:29:22] [L] rafael05: но угля надо много
+[00:29:34] 0o_U_o0 issued server command: /M rafael05 Я уже делал, но добывать их тоже не сложно
+[00:29:56] [L] rafael05: ну это надо делать тогда когда у тебя к примеру будет кирка виверны
+[00:29:58] [G] ArcYellow: !куплю мэ контроллер
+[00:30:06] [L] rafael05: потому бур лагает а с киркой не лагает
+[00:30:09] ArcYellow issued server command: /home
+[00:30:11] ArcYellow issued server command: /warp shop
+[00:30:15] 0o_U_o0 issued server command: /M rafael05 Надо копать у лавы на 10 уровне и у земли там же, рядом с земле и с золотом рядо тоже
+[00:30:16] ArcYellow issued server command: /we cui
+[00:30:33] [G] LA_Phantom: ! сколько надо ?
+[00:30:33] Shootologist issued server command: /home
+[00:30:34] Shootologist issued server command: /we cui
+[00:30:36] [L] ArcYellow: 11
+[00:30:39] [G] ArcYellow: !11
+[00:30:43] [L] rafael05: не понял?
+[00:30:53] rafael05 issued server command: /kit
+[00:30:53] LA_Phantom issued server command: /warp m4
+[00:31:06] [L] rafael05: уголь?
+[00:31:08] [L] rafael05: или что
+[00:31:20] 0o_U_o0 issued server command: /M rafael05 Копать алмазы на 10 уровне
+[00:31:27] 0o_U_o0 issued server command: /M rafael05 Копать алмазы на 10 уровне
+[00:31:28] [L] rafael05: ааа
+[00:31:36] [L] rafael05: ну я на рандом копаю и находу
+[00:31:52] [G] LA_Phantom: ! 35жб за 11
+[00:31:56] 0o_U_o0 issued server command: /M rafael05 Надо копать у лавы на 10 уровне и у земли там же, рядом с земле и с золотом рядо тоже
+[00:31:57] [G] LA_Phantom: ! ок ?
+[00:32:00] 0o_U_o0 issued server command: /M rafael05 Копать алмазы на 10 уровне
+[00:32:04] [L] rafael05: я понял
+[00:32:06] [L] rafael05: уже
+[00:32:10] [L] ArcYellow: ема... я их по 23 слитка покупал(((( за шо так
+[00:32:14] [G] ArcYellow: !ема... я их по 23 слитка покупал(((( за шо так
+[00:32:42] 0o_U_o0 issued server command: /M rafael05 ПОйдем копать алмазы на 10 уровне?
+[00:32:55] [L] rafael05: ну я не смогу уже
+[00:32:55] 0o_U_o0 issued server command: /Ну и все остально попутно
+[00:33:01] [L] rafael05: уже 0:32
+[00:33:05] [L] rafael05: мне пора идти спать
+[00:33:32] 0o_U_o0 issued server command: /M rafael05 Ну и все остально попутно
+[00:33:35] [G] LA_Phantom: ! ок 30 ))
+[00:33:43] [L] rafael05: извини(
+[00:33:45] ArcYellow issued server command: /home
+[00:33:46] 0o_U_o0 issued server command: /M rafael05 Ок, давай спокойной ночи
+[00:33:48] [L] rafael05: уже 0:32
+[00:33:49] ArcYellow issued server command: /we cui
+[00:33:51] [L] rafael05: мне пора идти спать
+[00:33:56] 0o_U_o0 issued server command: /M rafael05 Ок, давай спокойной ночи
+[00:34:07] [G] ArcYellow: !Не... у меня все равно не хватит...
+[00:34:08] [L] rafael05: и тебе)
+[00:34:10] [L] rafael05: удачи
+[00:34:15] rafael05 issued server command: /mpcaseshop
+[00:34:16] [G] LA_Phantom: ! (
+[00:34:17] rafael05 issued server command: /warp shop
+[00:34:19] rafael05 issued server command: /we cui
+[00:34:29] [G] ArcYellow: !300 железа только(
+[00:34:32] 0o_U_o0 issued server command: /M rafael05 Спасибо и тебе удачи.)
+[00:34:38] [L] Slavik3545: ты где
+[00:34:50] ArcYellow issued server command: /warp neon
+[00:34:53] Slavik3545 issued server command: /tpa LA_Phantom
+[00:35:01] LA_Phantom issued server command: /tpaccept
+[00:35:13] Shootologist вышел
+[00:35:18] 0o_U_o0 issued server command: /M rafael05 А где у тебя территория?
+[00:35:32] 0o_U_o0 issued server command: /тп меня к себе посмотреть)
+[00:35:32] rafael05 issued server command: /tell 0o_U_o0 на земле
+[00:35:43] [L] Slavik3545: прив
+[00:35:45] Slavik3545 issued server command: /playtime
+[00:35:47] 0o_U_o0 issued server command: /тп меня к себе посмотреть)
+[00:35:48] ArcYellow issued server command: /home
+[00:35:54] [L] Slavik3545: ура у меня 100часов
+[00:35:55] 0o_U_o0 issued server command: /т п меня к себе посмотреть)
+[00:36:09] [L] LA_Phantom: лютый задр ))
+[00:36:10] [L] Slavik3545: прикинь
+[00:36:15] 0o_U_o0 issued server command: /M rafael05 тп меня к себе посмотреть)
+[00:36:18] [L] Slavik3545: а у тебя скок
+[00:36:24] 0o_U_o0 issued server command: /tpa rafael05
+[00:36:31] [L] LA_Phantom: а как позырить ?
+[00:36:59] 0o_U_o0 issued server command: /M rafael05 тп меня к себе посмотреть)
+[00:37:01] LA_Phantom issued server command: /playtime
+[00:37:08] [L] LA_Phantom: 58
+[00:37:18] rafael05 issued server command: /tell 0o_U_o0 секунду
+[00:37:20] rafael05 issued server command: /money
+[00:37:25] [L] Slavik3545: смл как
+[00:37:26] [L] LA_Phantom: магия бро ))
+[00:37:38] [L] Slavik3545: нет не магия ты чертила
+[00:37:41] [L] LA_Phantom: пошли, добрые дела делать ))
+[00:37:43] BobrinaMorda34 зашёл
+[00:37:46] 0o_U_o0 issued server command: /M rafael05 Там есть кнопки в меню
+[00:37:47] [L] Slavik3545: у кого стоко жб взял
+[00:37:48] BobrinaMorda34 issued server command: /we cui
+[00:37:53] [L] LA_Phantom: че бл
+[00:37:56] [L] Slavik3545: пошли
+[00:38:12] rafael05 issued server command: /money
+[00:38:14] [L] Slavik3545: пойдем куда
+[00:38:19] LA_Phantom issued server command: /tpa ArcYellow
+[00:38:24] BobrinaMorda34 issued server command: /home
+[00:38:26] [G] ArcYellow: !?
+[00:38:30] 0o_U_o0 issued server command: /M rafael05 Я сейчас заметил что там есть и кнопка отключить пвп
+[00:38:39] [G] LA_Phantom: ! принимай не бойся ))
+[00:38:41] BobrinaMorda34 issued server command: /home
+[00:38:45] ArcYellow issued server command: /tpaccept
+[00:38:49] Slavik3545 issued server command: /tpa LA_Phantom
+[00:38:54] 0o_U_o0 issued server command: /tpa rafael05
+[00:38:55] LA_Phantom issued server command: /tpaccept
+[00:38:59] [L] Slavik3545: прив
+[00:39:00] BobrinaMorda34 issued server command: /home
+[00:39:07] [L] LA_Phantom: не надо
+[00:39:10] rafael05 issued server command: /home
+[00:39:11] rafael05 issued server command: /we cui
+[00:39:14] [L] LA_Phantom: развивайся ))
+[00:39:14] [L] ArcYellow: хорошо спасибо
+[00:39:15] rafael05 issued server command: /tpaccept
+[00:39:17] [L] ArcYellow: )
+[00:39:17] [L] rafael05: я тут
+[00:39:21] BobrinaMorda34 вышел
+[00:39:22] [L] LA_Phantom: если че пиши ))
+[00:39:25] [L] ArcYellow: оке)
+[00:39:29] [L] LA_Phantom: удачи
+[00:39:31] LA_Phantom issued server command: /home
+[00:39:32] [L] ArcYellow: спасибо
+[00:39:35] Slavik3545 issued server command: /tpa LA_Phantom
+[00:39:37] LA_Phantom issued server command: /tpaccept
+[00:39:44] LA_Phantom issued server command: /tpaccept
+[00:39:52] [L] Slavik3545: короч просто так вещи давать нельзя
+[00:39:53] 0o_U_o0 issued server command: /M rafael05 А я тут пролитал один раз было как то)
+[00:39:55] [L] rafael05: у меня сниху мехи
+[00:40:02] [L] rafael05: )))
+[00:40:03] [L] Slavik3545: но можно делать если нет админов
+[00:40:05] [L] Slavik3545: понел
+[00:40:13] [L] LA_Phantom: я знаю )
+[00:40:16] [L] Slavik3545: а да
+[00:40:21] [L] Slavik3545: ну тогда ладно
+[00:40:27] 0o_U_o0 issued server command: /M rafael05 Классно)
+[00:40:38] [L] rafael05: ну да)
+[00:40:44] [L] LA_Phantom: добрые дела никто не отменял
+[00:40:51] [L] Slavik3545: ахахха
+[00:41:07] [L] LA_Phantom: прикинь каково ему
+[00:41:09] [L] LA_Phantom: щас
+[00:41:18] [L] Slavik3545: хорошо
+[00:41:21] [L] Slavik3545: очень
+[00:41:25] [L] LA_Phantom: ))
+[00:41:35] [L] Slavik3545: да как мне когда простил 500ЖБ
+[00:41:44] [L] Slavik3545: это очень много
+[00:41:51] [L] Slavik3545: для меня
+[00:42:16] [L] LA_Phantom: в дис зайди
+[00:42:53] 0o_U_o0 issued server command: /M rafael05 А что выполняет это арка, какая функция
+[00:43:27] 0o_U_o0 issued server command: /M rafael05 Я слышал тут есть 3D принтер
+[00:43:31] [L] rafael05: разве
+[00:43:40] [L] rafael05: ну это арка в основм так
+[00:43:43] [L] rafael05: так все делают
+[00:43:56] [L] rafael05: тип чтоб тут ставить экраны и предметы разные
+[00:44:09] [L] LA_Phantom: а ты от куда ?
+[00:44:16] [L] rafael05: и на них были видны количества предметов которые находятся в мэ
+[00:44:37] [G] rafael05: !кто продаст тюнер?
+[00:44:44] [L] Slavik3545: из михайловки волгоградская обл
+[00:45:13] [L] LA_Phantom: ничего себе
+[00:45:16] [L] Slavik3545: смл
+[00:45:28] [L] LA_Phantom: звучит как прикольно ))
+[00:45:34] [L] Slavik3545: смл
+[00:45:39] 0o_U_o0 issued server command: /M rafael05 Экраны знаю, а вот рама светящаяся, раньше на версии 1.4.7 я её не видел, только тут
+[00:45:39] 0o_U_o0 issued server command: /M увидел
+[00:45:39] [L] Slavik3545: ты че
+[00:46:01] [L] rafael05: мэ контроллеры?
+[00:46:03] [L] Slavik3545: ты че э
+[00:46:07] [L] rafael05: эти?
+[00:46:08] 1inko1 зашёл
+[00:46:10] [L] Slavik3545: говори че
+[00:46:10] [L] LA_Phantom: ?
+[00:46:12] CEPEJILEHbKA зашёл
+[00:46:13] 1inko1 issued server command: /we cui
+[00:46:21] [L] rafael05: это более лучше чем проводник
+[00:46:23] [L] Slavik3545: смл звучит как прикольно
+[00:46:24] [L] rafael05: приемник точнее
+[00:46:28] CEPEJILEHbKA issued server command: /we cui
+[00:46:32] 0o_U_o0 issued server command: /M rafael05 Ага, МЭ контроллеры
+[00:46:32] [L] rafael05: он не зависает и работает лучше
+[00:46:34] 1inko1 issued server command: /kit top
+[00:46:37] [L] LA_Phantom: да у меня прост знакомы в волгограде живут )
+[00:46:44] [L] LA_Phantom: я сам из КЗ
+[00:46:49] [L] Slavik3545: пон
+[00:46:49] [L] rafael05: они от обычных проводов питаются
+[00:46:54] [L] rafael05: вот
+[00:46:56] [L] Slavik3545: я не волгограде
+[00:46:59] [L] Slavik3545: я в обл
+[00:47:05] [L] LA_Phantom: да понял ))
+[00:47:06] [L] Slavik3545: город михайловка
+[00:47:10] 1inko1 issued server command: /rtp
+[00:47:12] [L] Slavik3545: а ну лажно
+[00:47:14] 1inko1 issued server command: /tpr
+[00:47:15] CEPEJILEHbKA issued server command: /kit
+[00:47:16] [L] Slavik3545: ладно
+[00:47:31] 1inko1 issued server command: /rtp
+[00:47:48] [L] LA_Phantom: друг еще зашкерил гдето жб
+[00:47:51] 1inko1 issued server command: /warp world
+[00:47:53] 1inko1 issued server command: /we cui
+[00:47:54] [L] Slavik3545: ахахах
+[00:47:57] 1inko1 issued server command: /rtp
+[00:47:59] CEPEJILEHbKA issued server command: /warp world
+[00:47:59] [L] LA_Phantom: 2к точно есть ))
+[00:48:00] [L] Slavik3545: жадный
+[00:48:02] CEPEJILEHbKA issued server command: /we cui
+[00:48:06] [L] Slavik3545: прикольно
+[00:48:07] CEPEJILEHbKA issued server command: /call 1inko1
+[00:48:16] [L] LA_Phantom: да не просто в одно время я все всадил и на крафт не осталось ))
+[00:48:17] 1inko1 issued server command: /tpaccept
+[00:48:24] CEPEJILEHbKA issued server command: /mpcaseshop
+[00:48:25] [L] Slavik3545: понятно
+[00:48:32] 1inko1 issued server command: //chunk
+[00:48:32] 1inko1 issued server command: //outset 16
+[00:48:32] 1inko1 issued server command: //wand
+[00:48:39] 0o_U_o0 issued server command: /M rafael05 МЭ удобно, можно все уместить на дисках и если захотел перебраться на новое место,
+[00:48:39] 0o_U_o0 issued server command: /M выбрать покрасивее виды, то очень удобно.
+[00:48:49] [L] Slavik3545: это даш посох в руках подержать
+[00:48:55] [L] Slavik3545: или нет
+[00:48:56] 1inko1 issued server command: /spawn
+[00:48:58] 1inko1 issued server command: /we cui
+[00:49:01] [L] LA_Phantom: зачем ?)
+[00:49:10] [L] rafael05: да
+[00:49:10] 1inko1 issued server command: /warp world
+[00:49:12] 1inko1 issued server command: /we cui
+[00:49:15] [L] rafael05: а приемник я хз
+[00:49:16] 1inko1 issued server command: /call CEPEJILEHbKA
+[00:49:20] 0o_U_o0 issued server command: /M rafael05 МЭ чудобно, можно все уместить на дисках и если захотел перебраться на новое место,
+[00:49:20] [L] rafael05: говорят контроллеры лучше
+[00:49:20] CEPEJILEHbKA issued server command: /tpaccept
+[00:49:20] 0o_U_o0 issued server command: /M выбрать покрасивее виды, то очень удобно.
+[00:49:21] [L] Slavik3545: для скрина перед друзьями по выебыватся
+[00:49:27] [L] LA_Phantom: ахахахха
+[00:49:28] 1inko1 issued server command: /sell
+[00:49:31] 1inko1 issued server command: //sel
+[00:49:35] [L] Slavik3545: ну ты понел
+[00:49:38] [L] LA_Phantom: а как договор писать )
+[00:49:41] [L] LA_Phantom: и дам
+[00:49:51] [L] LA_Phantom: за честность так уж и быть
+[00:49:54] [L] Slavik3545: у нас и дк не было а тут батс и посох
+[00:50:04] 0o_U_o0 issued server command: /M rafael05 Мне пишут игрок не найден
+[00:50:12] 1inko1 issued server command: //chunk
+[00:50:12] 1inko1 issued server command: //outset 16
+[00:50:12] 1inko1 issued server command: /zone
+[00:50:24] [L] rafael05: всм?
+[00:50:24] 0o_U_o0 issued server command: /M rafael05 Ладно, спокойной ночи.)
+[00:50:25] [L] rafael05: ты о чем
+[00:50:30] [L] rafael05: спокойно
+[00:50:57] 0o_U_o0 issued server command: /M rafael05 Как тебе писали когда я был афк-без движения
+[00:50:58] 1inko1 issued server command: //sel
+[00:51:13] [L] Slavik3545: аккуратно
+[00:51:16] [L] Slavik3545: кидай
+[00:51:23] [L] Slavik3545: 22тыс эмов
+[00:51:24] 1inko1 issued server command: //chunk
+[00:51:24] 1inko1 issued server command: //outset 16
+[00:51:24] 1inko1 issued server command: /zone
+[00:51:31] 1inko1 issued server command: //sel
+[00:51:34] 1inko1 issued server command: //chunk
+[00:51:34] 1inko1 issued server command: //outset 16
+[00:51:34] 1inko1 issued server command: /zone
+[00:51:58] 0o_U_o0 issued server command: /А она тяжело крафтится?
+[00:52:10] 0o_U_o0 issued server command: /M rafael05 А она тяжело крафтится?
+[00:52:28] [L] Slavik3545: вс спс
+[00:52:31] [L] rafael05: неособо
+[00:52:35] CEPEJILEHbKA issued server command: /call 1inko1
+[00:52:38] [L] Slavik3545: все спасибо
+[00:52:38] 1inko1 issued server command: /tpaccept
+[00:52:46] 0o_U_o0 issued server command: /M rafael05 Ладно, спокойной ночи.)
+[00:52:46] 1inko1 issued server command: /kit
+[00:52:51] [L] rafael05: я хз
+[00:52:52] [L] LA_Phantom: теперь то точно самый крутой ))
+[00:52:55] [L] rafael05: сппокойно
+[00:52:57] [L] rafael05: й
+[00:53:00] 0o_U_o0 issued server command: /home
+[00:53:02] [L] Slavik3545: ))))))))))))))) да
+[00:53:04] 1inko1 issued server command: /rg claim nik
+[00:53:11] [L] LA_Phantom: а че за рукожоп у вас в банде ?
+[00:53:12] [L] Slavik3545: я уже отправил ждем реакции
+[00:53:12] 1inko1 issued server command: /rg addowner nik CEPEJILEHbKA
+[00:53:14] CEPEJILEHbKA issued server command: /kit
+[00:53:17] CEPEJILEHbKA issued server command: /kit eat
+[00:53:23] [L] Slavik3545: оо он пишет
+[00:53:31] 1inko1 issued server command: /rg addmember CEPEJILEHbKA nik
+[00:53:34] [L] Slavik3545: он написал беги нахуй
+[00:53:37] [L] Slavik3545: ахахха
+[00:53:39] 1inko1 issued server command: /rg addmember nik CEPEJILEHbKA
+[00:53:44] CEPEJILEHbKA issued server command: /kit start
+[00:53:50] [L] LA_Phantom: lol
+[00:53:58] CEPEJILEHbKA issued server command: /kit hunter
+[00:53:59] 1inko1 issued server command: /kit
+[00:54:03] 1inko1 issued server command: /kit start
+[00:54:04] [L] Slavik3545: да это тот картавый рукожоп
+[00:54:05] [L] LA_Phantom: понятно кто инициатор гриферства ))
+[00:54:11] [L] Slavik3545: да
+[00:54:14] [L] Slavik3545: это он
+[00:54:21] CEPEJILEHbKA issued server command: /kit top
+[00:54:25] 1inko1 issued server command: /kit hunter
+[00:54:36] 1inko1 issued server command: /kit eat
+[00:54:42] LA_Phantom issued server command: /god
+[00:54:49] [L] Slavik3545: а у нас еще один тот самый человек который познакомил с этой игрой и сервером
+[00:55:17] [L] Slavik3545: пропали
+[00:55:21] [L] LA_Phantom: ска опять пропали (
+[00:55:22] 1inko1 issued server command: /mpcaseshop
+[00:55:24] 1inko1 issued server command: /mpcaseview 10
+[00:55:26] 1inko1 issued server command: /buycase 10
+[00:55:30] [L] LA_Phantom: это я из вк добавил
+[00:55:40] [L] Slavik3545: спросишь потом у админов че не так
+[00:55:46] [L] LA_Phantom: че за хрень надо будет узнать ну
+[00:56:05] [L] Slavik3545: тебе дать 2 малахита
+[00:56:07] ArcYellow issued server command: /home
+[00:56:16] CEPEJILEHbKA issued server command: /rg i
+[00:56:18] CEPEJILEHbKA issued server command: /rg i
+[00:56:21] CEPEJILEHbKA issued server command: /rg
+[00:56:21] [L] LA_Phantom: давай за 200 жб
+[00:56:22] 1inko1 issued server command: /mpcaseshop
+[00:56:26] CEPEJILEHbKA issued server command: /rg select
+[00:56:31] 1inko1 issued server command: /money
+[00:56:36] 1inko1 issued server command: /mpcaseshop
+[00:56:36] 1inko1 issued server command: /mpcaseview 10
+[00:56:38] 1inko1 issued server command: /buycase 10
+[00:56:41] 1inko1 issued server command: /mpcaseshop
+[00:56:51] Slavik3545 issued server command: /m LA_Phantom бесплатно
+[00:56:53] 1inko1 issued server command: /money
+[00:56:54] 1inko1 issued server command: /mpcaseshop
+[00:56:55] 1inko1 issued server command: /mpcaseview 10
+[00:56:57] 1inko1 issued server command: /mpcaseshop
+[00:57:00] [L] LA_Phantom: да не ))
+[00:57:04] Slavik3545 issued server command: /home
+[00:57:07] [L] LA_Phantom: давай за жб
+[00:57:13] [L] LA_Phantom: он 100 эмов стоит
+[00:57:17] [L] LA_Phantom: один
+[00:57:21] Slavik3545 issued server command: /tpa LA_Phantom
+[00:57:30] 1inko1 issued server command: /cart all
+[00:57:30] LA_Phantom issued server command: /tpaccept
+[00:57:44] [L] Slavik3545: не не че не нужно
+[00:57:57] [L] LA_Phantom: ну смотри
+[00:58:01] [L] LA_Phantom: он 100 эмов стоит
+[00:58:03] [L] LA_Phantom: один
+[00:58:06] [L] Slavik3545: нет
+[00:58:11] [L] Slavik3545: 35
+[00:58:16] [L] LA_Phantom: у алисы
+[00:58:19] [L] LA_Phantom: нет ?
+[00:58:20] [L] Slavik3545: ну
+[00:58:25] [L] LA_Phantom: а 35
+[00:58:27] [L] LA_Phantom: бл
+[00:58:33] [L] LA_Phantom: а я думал 100
+[00:58:33] [L] Slavik3545: я не алиса
+[00:58:52] [L] LA_Phantom: у алисы на спавне 100 стоит
+[00:58:54] 1inko1 issued server command: /cart all
+[00:58:56] 1inko1 issued server command: /money
+[00:58:58] 1inko1 issued server command: /mpcaseshop
+[00:58:58] 1inko1 issued server command: /mpcaseview 10
+[00:58:59] 1inko1 issued server command: /rollcase 10
+[00:59:00] [L] Slavik3545: там оч дорго
+[00:59:06] [L] Slavik3545: дорого
+[00:59:10] [L] LA_Phantom: да пздц
+[00:59:13] 1inko1 issued server command: /mpcaseview 10
+[00:59:14] 1inko1 issued server command: /mpcaseshop
+[00:59:22] 1inko1 issued server command: //sel
+[00:59:37] [G] LA_Phantom: ! куплю малахит, дорого !
+[00:59:53] [G] Slavik3545: !тебе этого мало было
+[01:00:23] 1inko1 issued server command: //sel
