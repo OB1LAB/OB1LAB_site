@@ -2,23 +2,25 @@
     {% extends "base.html" %}
 
     {% block content %}
+        <hr>
         <div class="admin_panel">
             <div class="select_list">
                 {% for url in route_data.admin_panel %}
                     {% if current_user.have_permission(route_data.admin_panel[url]['perm']) %}
-                        <a href="{{ route_data.url_path }}/admin_panel/{{ url }}/"><button class="navbar_button">{{ route_data.admin_panel[url]['name'] }}</button></a>
+                        <a href="{{ route_data.url_path }}/admin_panel/{{ url }}/"><button>{{ route_data.admin_panel[url]['name'] }}</button></a>
                     {% endif %}
                 {% endfor %}
             </div>
         </div>
     {% endblock %}
 {% else %}
+    <hr>
     <div class="title">{{ title }}</div>
     <div class="admin_panel">
         <div class="select_list">
             {% for url in route_data.admin_panel %}
                 {% if current_user.have_permission(route_data.admin_panel[url]['perm']) %}
-                    <a href="{{ route_data.url_path }}/admin_panel/{{ url }}/"><button class="navbar_button">{{ route_data.admin_panel[url]['name'] }}</button></a>
+                    <a href="{{ route_data.url_path }}/admin_panel/{{ url }}/"><button>{{ route_data.admin_panel[url]['name'] }}</button></a>
                 {% endif %}
             {% endfor %}
         </div>

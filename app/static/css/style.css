@@ -238,20 +238,20 @@ html {
 	font-size: 20px;
 }
 
-.base ::-webkit-scrollbar {
+::-webkit-scrollbar {
 	width: 5px;
 }
 
-.base ::-webkit-scrollbar-thumb {
+::-webkit-scrollbar-thumb {
 	background: #BBBBBB;
 }
 
-.base ::-webkit-scrollbar-thumb:hover {
+::-webkit-scrollbar-thumb:hover {
 	background: white;
 	cursor: pointer;
 }
 
-.base ::-webkit-scrollbar-track {
+::-webkit-scrollbar-track {
     background-color: #151515;
 }
 
@@ -307,6 +307,7 @@ html {
     color: #DEDEDE;
     outline: none;
     font-size: 20px;
+    cursor: pointer;
 }
 
 .login .authorization input:hover, .authorization button:hover {
@@ -315,7 +316,6 @@ html {
 
 .login .authorization button:hover {
 	background: #FFFFFF20;
-	cursor: pointer;
 }
 
 .private_logs span {
@@ -412,4 +412,30 @@ html {
 
 .public_logs_servers .servers {
 	margin-top: 15px;
+}
+
+.admin_panel .select_list {
+    height: calc( 80vh - 52px );
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.admin_panel button {
+    width: 410px;
+    margin-top: 15px;
+    cursor: pointer;
+    border: 1px solid #999;
+    line-height: 48px;
+    height: 48px;
+    background: #FFFFFF10;
+    color: #DEDEDE;
+    outline: none;
+    font-size: 20px;
+}
+
+.admin_panel button:hover {
+    background: #FFFFFF20;
+    border: 1px solid white;
 }
