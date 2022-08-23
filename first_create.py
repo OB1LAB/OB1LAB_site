@@ -7,14 +7,12 @@ from app.config import permissions, public_logs_servers_list, private_logs_serve
 
 role = Role(name="*", color='red', lvl=999, checker_view=False)
 for perm in permissions:
-    if perm != 'UltimaTech Staff':
-        add_perm = Permission(name=perm, description=permissions[perm])
-        role.permissions.append(add_perm)
-        db.session.add(add_perm)
-staff_role = Role(name='Состав', color='white', lvl=1, checker_view=True)
-staff_perm = Permission(name='UltimaTech Staff', description='Отображение в чекере онлайна')
-db.session.add_all([staff_perm, staff_role])
-ob1ch = User(login="OB1CHAM")
+    add_perm = Permission(name=perm, description=permissions[perm])
+    role.permissions.append(add_perm)
+    db.session.add(add_perm)
+staff_role = Role(name='Назначенный состав', color='white', lvl=1, checker_view=True)
+db.session.add(staff_role)
+ob1ch = User(login="OB1CHAM", avatar=True)
 farm = User(login="FarmLander")
 test = User(login="TestUser")
 test.roles.append(staff_role)

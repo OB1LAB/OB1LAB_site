@@ -109,6 +109,12 @@ def activity_check():
     return render_template('activity_check.html', title='Игровая активность', route_data=route_data)
 
 
+@app.route('/admin_panel', methods=['GET', 'POST'])
+@login_required
+def admin_panel():
+    return render_template('admin_panel.html', title='Админ панель', route_data=route_data)
+
+
 @app.errorhandler(404)
 def page_not_found(_):
     return render_template('error.html', text='По данному адресу ничего не найдено', title='Error 404',

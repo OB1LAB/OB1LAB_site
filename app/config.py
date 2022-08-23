@@ -1,5 +1,9 @@
 url_path = 'http://127.0.0.1:5000'
 private_routes = {
+    'admin_panel': {
+        'name': 'Админ панель',
+        'perm': 'Access to adminPanel'
+    },
     'private_logs': {
         'name': 'Приватные логи',
         'perm': 'Access to private logs'
@@ -8,6 +12,20 @@ private_routes = {
 public_routes = {
     'public_logs': 'Публичные логи',
     'activity_check': 'Игровая активность'
+}
+admin_panel_routes = {
+    'edit_roles': {
+        'name': 'Редактирование ролей',
+        'perm': 'Access edit roles'
+    },
+    'create_user': {
+        'name': 'Создание пользователя',
+        'perm': 'Access create user'
+    },
+    'edit_user_roles': {
+        'name': 'Редактирование ролей у пользователей',
+        'perm': 'Access edit users roles'
+    }
 }
 public_logs_servers_list = [
     'UltimaTech',
@@ -18,6 +36,7 @@ public_logs_servers_list = [
 route_data = {
     'public_routes': public_routes,
     'private_routes': private_routes,
+    'admin_panel': admin_panel_routes,
     'url_path': url_path
 }
 private_logs_servers_list = [
@@ -120,5 +139,8 @@ invalids = {
 }
 permissions = {
     'Access to private logs': 'Доступ к приватным логам Ультимы',
-    'UltimaTech Staff': 'Отображение в чекере онлайна и ещё чтобы не выдавать доступ к приватным логам стажёрам'
+    'Access to adminPanel': 'Доступ к админ панели',
+    'Access edit roles': 'Доступ к созданию/Редактированию/Удалению ролей',
+    'Access create user': 'Доступ создавать пользователей',
+    'Access edit users roles': 'Доступ к изменению ролей у пользователей'
 }

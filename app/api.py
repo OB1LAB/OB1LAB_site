@@ -10,7 +10,7 @@ from app.config import public_logs_servers_list, mcskill_url_staff, invalids, st
 def get(parameter, post_data=None):
     data = {}
     if parameter == 'get_activity_data':
-        users, data['all_players'], staff_list = User.query.filter(User.roles.any(Role.name == 'Состав')).all(), {}, {}
+        users, data['all_players'] = User.query.filter(User.roles.any(Role.name == 'Назначенный состав')).all(), {}
         data['servers'] = {}
         for server in public_logs_servers_list:
             server_logs_dates = date_sort(os.listdir(f'logs/public/{server}'), reverse_date=True, with_txt=False)
