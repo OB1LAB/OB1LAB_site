@@ -307,7 +307,6 @@ html {
     color: #DEDEDE;
     outline: none;
     font-size: 20px;
-    cursor: pointer;
 }
 
 .login .authorization input:hover, .authorization button:hover {
@@ -316,6 +315,7 @@ html {
 
 .login .authorization button:hover {
 	background: #FFFFFF20;
+    cursor: pointer;
 }
 
 .private_logs span {
