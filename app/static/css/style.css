@@ -439,3 +439,57 @@ html {
     background: #FFFFFF20;
     border: 1px solid white;
 }
+
+.edit_roles {
+	display: flex;
+	justify-content: center;
+    align-items: center;
+}
+
+.edit_roles .main_window {
+	height: calc( 80vh - 52px );
+	width: 800px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+    align-items: center;
+}
+
+.edit_roles .main_window .act {
+	display: flex;
+	width: 400px;
+	justify-content: space-between;
+}
+
+.edit_roles .main_window .act button, .edit_roles .main_window #save_button {
+	width: 120px;
+    height: 36px;
+    cursor: pointer;
+    border: 1px solid #999;
+    background: #FFFFFF10;
+    color: #DEDEDE;
+    outline: none;
+    font-size: 20px;
+}
+
+.edit_roles .main_window #save_button {
+    width: 400px;
+}
+
+.edit_roles .main_window input[type="text"] {
+    width: 400px;
+	margin-top: 5px;
+    border: 1px solid #999;
+    height: 36px;
+    padding: 0px 10px;
+    box-sizing: border-box;
+    background: #FFFFFF10;
+    color: #DEDEDE;
+    outline: none;
+    font-size: 20px;
+}
+
+.edit_roles .main_window .permissions {
+	color: #DEDEDE;
+	width: 400px;
+}

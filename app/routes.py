@@ -115,6 +115,19 @@ def admin_panel():
     return render_template('admin_panel.html', title='Админ панель', route_data=route_data)
 
 
+@app.route('/admin_panel/<parameter>', methods=['GET', 'POST'])
+@login_required
+def admin_panel_act(parameter):
+    if parameter not in route_data['admin_panel']:
+        return render_template('error.html', text='По данному адресу ничего не найдено', title='Error 404',
+                               route_data=route_data), 404
+    if not current_user.have_permission(route_data["admin_panel"][parameter]["perm"]):
+        return render_template('error.html', text='Ю донт хэв пермишенс, куда ты лезешь, зачем?', title='Error 403',
+                               route_data=route_data), 403
+    return render_template(f'{parameter}.html', title=route_data["admin_panel"][parameter]["name"],
+                           route_data=route_data)
+
+
 @app.errorhandler(404)
 def page_not_found(_):
     return render_template('error.html', text='По данному адресу ничего не найдено', title='Error 404',

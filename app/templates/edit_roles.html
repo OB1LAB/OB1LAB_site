@@ -1,0 +1,42 @@
+{% if request.method == "GET" %}
+    {% extends "base.html" %}
+
+    {% block content %}
+        <hr>
+        <div class="edit_roles">
+            <div class="main_window">
+                <div class="act">
+                    <button>Создать</button>
+                    <button>Удалить</button>
+                    <button>Изменить</button>
+                </div>
+                <input type="text" id="role_name">
+                <div class="permissions">
+                    {% for i in range(24) %}
+                        <input type="checkbox" name="test {{ i }}">test {{ i }}
+                    {% endfor %}
+                </div>
+                <button id="save_button">Сохранить</button>
+            </div>
+        </div>
+    {% endblock %}
+{% else %}
+    <hr>
+    <div class="title">{{ title }}</div>
+    <div class="edit_roles">
+        <div class="main_window">
+            <div class="act">
+                <button>Создать</button>
+                <button>Удалить</button>
+                <button>Изменить</button>
+            </div>
+            <input type="text" id="role_name">
+            <div class="permissions">
+                {% for i in range(24) %}
+                    <input type="checkbox" name="test {{ i }}">test {{ i }}
+                {% endfor %}
+            </div>
+            <button>Сохранить</button>
+        </div>
+    </div>
+{% endif %}
