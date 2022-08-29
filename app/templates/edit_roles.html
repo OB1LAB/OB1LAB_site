@@ -1,0 +1,52 @@
+{% if request.method == "GET" %}
+    {% extends "base.html" %}
+    {% block content %}
+        <div class="activity_check">
+            <hr>
+            <div class="edit_roles">
+                <div class="activity_window">
+                    <div class="left_side">
+                        <p>Роли</p>
+                        <div class="player_list">
+                        </div>
+                    </div>
+                    <div class="right_side">
+                        <p>Права</p>
+                        <div class="activity_list">
+                            {% for permission in route_data['permissions'] %}
+                                <div class="permission" title="{{ route_data['permissions'][permission] }}">
+                                    <input type="checkbox" id="{{ permission }}">{{ permission }}
+                                </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{ form.hidden_tag() }}
+        <script type="text/javascript" src="{{ url_for('static', filename='js/edit_roles.js') }}"></script>
+    {% endblock %}
+{% else %}
+    <div class="title">{{ title }}</div>
+    <div class="activity_check">
+        <hr>
+        <div class="edit_roles">
+            <div class="activity_window">
+                <div class="left_side">
+                    <p>Роли</p>
+                    <div class="player_list">
+                    </div>
+                </div>
+                <div class="right_side">
+                    <p>Права</p>
+                    <div class="activity_list">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {{ form.hidden_tag() }}
+    <div class="jsScript">
+        <script src="{{ url_for('static', filename='js/edit_roles.js') }}"></script>
+    </div>
+{% endif %}

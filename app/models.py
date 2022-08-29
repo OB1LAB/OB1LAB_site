@@ -59,12 +59,14 @@ class User(UserMixin, db.Model):
                     return True
         return False
 
-    def get_max_role(self):
+    def get_max_role(self, star=False):
         role_name, lvl, color, is_view = 'Игрок', 0, '#BBB', False
         for role in self.roles:
+            if not star and role.lvl == 999:
+                continue
             if role.lvl > lvl:
                 role_name, lvl, color, is_view = role.name, role.lvl, role.color, role.checker_view
-        return {'name': role_name, 'color': color, 'view_checker': is_view}
+        return {'name': role_name, 'color': color, 'view_checker': is_view, 'lvl': lvl}
 
     def get_register(self):
         return self.register_time.strftime('%d-%m-%Y %H:%M')

@@ -1,10 +1,10 @@
 from app import app
 from app.models import User
-from app.forms import LoginForm
+from app.forms import LoginForm, RolePermission
 from app.api import os, date_sort, get
 from flask_login import current_user, login_user, logout_user, login_required
 from flask import render_template, redirect, url_for, request
-from app.config import private_routes, public_logs_servers_list, colors_codes, route_data, api_list
+from app.config import private_routes, public_logs_servers_list, colors_codes, route_data
 
 
 @app.route('/', methods=['GET', 'POST'])
@@ -15,9 +15,6 @@ def index():
 
 @app.route('/api/<parameter>', methods=['GET', 'POST'])
 def api(parameter, post_data=None):
-    if parameter not in api_list:
-        return render_template('error.html', text=f'Параметр {parameter} не найден', title='Error 404',
-                               route_data=route_data), 404
     if request.method == 'POST':
         post_data = request.get_json(request.json)
     return get(parameter, post_data)
@@ -113,6 +110,20 @@ def activity_check():
 @login_required
 def admin_panel():
     return render_template('admin_panel.html', title='Админ панель', route_data=route_data)
+
+
+@app.route('/admin_panel/<parameter>', methods=['GET', 'POST'])
+@login_required
+def admin_panel_act(parameter):
+    if parameter not in route_data['admin_panel']:
+        return render_template('error.html', text='По данному адресу ничего не найдено', title='Error 404',
+                               route_data=route_data), 404
+    if not current_user.have_permission(route_data['admin_panel'][parameter]['perm']):
+        return render_template('error.html', text='Ю донт хэв пермишенс, куда ты лезешь, зачем?', title='Error 403',
+                               route_data=route_data), 403
+    form = RolePermission()
+    return render_template(f'{parameter}.html', title=route_data['admin_panel'][parameter]['name'], form=form,
+                           route_data=route_data)
 
 
 @app.errorhandler(404)

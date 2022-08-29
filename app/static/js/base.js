@@ -1,4 +1,4 @@
-let players = JSON.parse(http_get('http://127.0.0.1:5000/api/get_activity_data'))
+//let players = JSON.parse(http_get('http://127.0.0.1:5000/api/get_activity_data'))
 
 
 function http_get(url) {

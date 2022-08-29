@@ -1,7 +1,9 @@
 import os
 import requests
 from datetime import datetime, timedelta
+from flask_login import current_user
 from app.models import User, Role
+from app.forms import RolePermission
 from app.logs_lib import date_sort
 from app.activity_check import get_activity
 from app.config import public_logs_servers_list, mcskill_url_staff, invalids, staff_settings
@@ -36,6 +38,16 @@ def get(parameter, post_data=None):
                 data['servers'][invalids[server['title']]]['staff'].append(player['name'])
                 if player['name'] not in data['all_players']:
                     data['all_players'][player['name']] = staff_settings[player['group']]
+    elif (parameter == 'get_roles'
+          and current_user.is_authenticated and current_user.have_permission('Access edit roles')
+          and current_user.get_max_role(star=True)['lvl'] == 999):
+        form = RolePermission()
+        if form.validate_on_submit():
+            for role in Role.query.all():
+                if role.lvl != 999:
+                    data[role.name] = {}
+                    for permission in role.permissions:
+                        data[role.name][permission.name] = permission.id
     elif parameter == 'get_activity_check' and post_data:
         data = get_activity(post_data['server'], post_data['players'], post_data['date_1'], post_data['date_2'])
     return data

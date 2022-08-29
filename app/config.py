@@ -1,4 +1,12 @@
 url_path = 'http://127.0.0.1:5000'
+mcskill_url_staff = 'https://mcskill.net/api/v2/?section=admin&action=get_crew'
+permissions = {
+    'Access to private logs': 'Доступ к приватным логам Ультимы',
+    'Access to adminPanel': 'Доступ к админ панели',
+    'Access edit roles': 'Доступ к созданию/Редактированию/Удалению ролей',
+    'Access create user': 'Доступ создавать пользователей',
+    'Access edit users roles': 'Доступ к изменению ролей у пользователей'
+}
 private_routes = {
     'admin_panel': {
         'name': 'Админ панель',
@@ -37,7 +45,8 @@ route_data = {
     'public_routes': public_routes,
     'private_routes': private_routes,
     'admin_panel': admin_panel_routes,
-    'url_path': url_path
+    'url_path': url_path,
+    'permissions': permissions
 }
 private_logs_servers_list = [
     'UltimaTech'
@@ -47,10 +56,6 @@ download_logs_url = {
     'HitechCraft_Phobos': 'https://logs12.mcskill.net/Hitechcraft2_public_logs/',
     'HitechCraft_Elara': 'https://logs12.mcskill.net/Hitechcraft3_public_logs/'
 }
-api_list = [
-    'get_activity_data',
-    'get_activity_check'
-]
 colors_codes = {
     '[30;22m': '<span style="color: #000000;">',  # §0 - Black
     '[34;22m': '<span style="color: #0000AA;">',  # §1 - Dark_Blue
@@ -93,7 +98,6 @@ colors_codes = {
     '[0m': '</b></s></u></i></span>',  # Reset
     '[m': '</b></s></u></i></span>'  # End
 }
-mcskill_url_staff = 'https://mcskill.net/api/v2/?section=admin&action=get_crew'
 staff_settings = {
     'helper1': {
         'view': True,
@@ -136,11 +140,4 @@ invalids = {
     'HiTech #1 1.7.10 - Titan': 'HitechCraft_Titan',
     'HiTech #2 1.7.10 - Phobos': 'HitechCraft_Phobos',
     'HiTech #3 1.7.10 - Elara': 'HitechCraft_Elara'
-}
-permissions = {
-    'Access to private logs': 'Доступ к приватным логам Ультимы',
-    'Access to adminPanel': 'Доступ к админ панели',
-    'Access edit roles': 'Доступ к созданию/Редактированию/Удалению ролей',
-    'Access create user': 'Доступ создавать пользователей',
-    'Access edit users roles': 'Доступ к изменению ролей у пользователей'
 }

@@ -439,3 +439,7 @@ html {
     background: #FFFFFF20;
     border: 1px solid white;
 }
+
+.edit_roles .activity_list {
+    height: 639px;
+}
