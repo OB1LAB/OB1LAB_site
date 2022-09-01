@@ -4,6 +4,13 @@
         <div class="activity_check">
             <hr>
             <div class="edit_roles">
+                <div class="modal" id="hidden">
+                    <div class="modal_window_create">
+                        <label>Название роли</label>
+                        <input>
+                        <button>Создать</button>
+                    </div>
+                </div>
                 <div class="activity_window">
                     <div class="left_side">
                         <p>Роли</p>
@@ -15,9 +22,10 @@
                         <div class="activity_list">
                             {% for permission in route_data['permissions'] %}
                                 <div class="permission" title="{{ route_data['permissions'][permission] }}">
-                                    <input type="checkbox" id="{{ permission }}">{{ permission }}
+                                    <input type="checkbox" id="{{ permission }}"><label>{{ permission }}</label>
                                 </div>
                             {% endfor %}
+                            <button class="delete" onclick="delete_role()">Удалить</button>
                         </div>
                     </div>
                 </div>
@@ -31,6 +39,13 @@
     <div class="activity_check">
         <hr>
         <div class="edit_roles">
+            <div class="modal" id="hidden">
+                <div class="modal_window_create">
+                    <label>Название роли</label>
+                    <input>
+                    <button>Создать</button>
+                </div>
+            </div>
             <div class="activity_window">
                 <div class="left_side">
                     <p>Роли</p>
@@ -40,6 +55,12 @@
                 <div class="right_side">
                     <p>Права</p>
                     <div class="activity_list">
+                        {% for permission in route_data['permissions'] %}
+                            <div class="permission" title="{{ route_data['permissions'][permission] }}">
+                                <input type="checkbox" id="{{ permission }}"><label>{{ permission }}</label>
+                            </div>
+                        {% endfor %}
+                        <button class="delete" onclick="delete_role()">Удалить</button>
                     </div>
                 </div>
             </div>

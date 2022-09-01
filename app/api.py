@@ -2,11 +2,13 @@ import os
 import requests
 from datetime import datetime, timedelta
 from flask_login import current_user
-from app.models import User, Role
+from app import db
+from app.models import User, Role, Permission
 from app.forms import RolePermission
 from app.logs_lib import date_sort
 from app.activity_check import get_activity
 from app.config import public_logs_servers_list, mcskill_url_staff, invalids, staff_settings
+all_staff = requests.get(mcskill_url_staff).json()
 
 
 def get(parameter, post_data=None):
@@ -31,7 +33,6 @@ def get(parameter, post_data=None):
                 'color': role['color'],
                 'avatar': user.avatar
             }
-        all_staff = requests.get(mcskill_url_staff).json()
         for server in all_staff[3:6]:
             data['servers'][invalids[server['title']]]['staff'] = []
             for player in server['moders']:
@@ -45,9 +46,24 @@ def get(parameter, post_data=None):
         if form.validate_on_submit():
             for role in Role.query.all():
                 if role.lvl != 999:
-                    data[role.name] = {}
+                    data[role.name] = []
                     for permission in role.permissions:
-                        data[role.name][permission.name] = permission.id
+                        data[role.name].append(permission.name)
+    elif (parameter == 'update_role'
+          and current_user.is_authenticated and current_user.have_permission('Access edit roles')
+          and current_user.get_max_role(star=True)['lvl'] == 999):
+        form = RolePermission()
+        if form.validate_on_submit():
+            if post_data['act'] == 'update_role':
+                role = Role.query.filter_by(name=post_data['role']).first()
+                permission = Permission.query.filter_by(name=post_data['permission']).first()
+                if post_data['state'] and permission not in role.permissions:
+                    role.permissions.append(permission)
+                elif not post_data['state'] and permission in role.permissions:
+                    role.permissions.remove(permission)
+            if post_data['act'] == 'create_role':
+                db.session.add(Role(name='Назначенный состав', color='white', lvl=1, checker_view=True))
+            db.session.commit()
     elif parameter == 'get_activity_check' and post_data:
         data = get_activity(post_data['server'], post_data['players'], post_data['date_1'], post_data['date_2'])
     return data

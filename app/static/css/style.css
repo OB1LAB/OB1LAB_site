@@ -307,7 +307,6 @@ html {
     color: #DEDEDE;
     outline: none;
     font-size: 20px;
-    cursor: pointer;
 }
 
 .login .authorization input:hover, .authorization button:hover {
@@ -316,6 +315,7 @@ html {
 
 .login .authorization button:hover {
 	background: #FFFFFF20;
+    cursor: pointer;
 }
 
 .private_logs span {
@@ -442,4 +442,112 @@ html {
 
 .edit_roles .activity_list {
     height: 639px;
+    display: grid;
+  	grid-template-columns: 300px 300px 300px;
+  	grid-auto-rows: 40px;
+  	column-gap: 45px;
+}
+
+.edit_roles .player_list {
+	display: flex;
+	flex-direction: column;
+    align-items: center;
+}
+
+.edit_roles .permission {
+	height: 25px;
+	display: flex;
+    align-items: center;
+    margin-top: 12px;
+}
+
+.edit_roles .permission input {
+	width: 25px;
+	height: 25px;
+}
+
+.edit_roles .permission label {
+	margin-left: 10px;
+}
+
+.edit_roles .player_list button {
+	font-size: 20px;
+	height: 35px;
+	min-height: 35px;
+	width: 310px;
+	margin-top: 10px;
+	background: #292929;
+    color: #DEDEDE;
+    cursor: pointer;
+    border: 0;
+}
+
+.edit_roles .player_list button:hover {
+	background: #404040;
+}
+
+.edit_roles #selected_role {
+	background: #404040;
+}
+
+.edit_roles .modal {
+	position: fixed;
+	display: flex;
+	justify-content: center;
+    align-items: center;
+	height: 100%;
+	width: 100%;
+	z-index: 100;
+	background-color: rgba(0,0,0,0.5);
+}
+
+.edit_roles .modal_window_create {
+	color: #DEDEDE;
+	font-size: 25px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+    align-items: center;
+	width: 500px;
+	height: 240px;
+	background: #202020;
+	margin-bottom: 250px;
+}
+
+.edit_roles .modal_window_create input, .edit_roles .modal_window_create button {
+	margin-top: 25px;
+    border: 1px solid #999;
+    line-height: 48px;
+    height: 48px;
+    padding: 0px 16px;
+    width: 400px;
+    box-sizing: border-box;
+    background: #FFFFFF10;
+    color: #DEDEDE;
+    outline: none;
+    font-size: 20px;
+    margin-left: 0;
+}
+
+.edit_roles .modal_window_create input:hover, .edit_roles .modal_window_create button:hover {
+	border: 1px solid white;
+}
+
+.edit_roles .modal_window_create button:hover {
+	cursor: pointer;
+}
+
+.edit_roles .delete {
+	color: #AC0000;
+	background: #FFFFFF10;
+	font-size: 16px;
+	width: 300px;
+	height: 30px;
+	margin-top: 8px;
+	border: 0;
+}
+
+.edit_roles .delete:hover {
+	background: #404040;
+	cursor: pointer;
 }

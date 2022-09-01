@@ -3,7 +3,6 @@ mcskill_url_staff = 'https://mcskill.net/api/v2/?section=admin&action=get_crew'
 permissions = {
     'Access to private logs': 'Доступ к приватным логам Ультимы',
     'Access to adminPanel': 'Доступ к админ панели',
-    'Access edit roles': 'Доступ к созданию/Редактированию/Удалению ролей',
     'Access create user': 'Доступ создавать пользователей',
     'Access edit users roles': 'Доступ к изменению ролей у пользователей'
 }

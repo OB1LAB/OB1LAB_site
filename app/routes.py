@@ -150,3 +150,4 @@ def before_request():
         if not current_user.have_permission(private_routes[path]['perm']):
             return render_template('error.html', text='Ю донт хэв пермишенс, куда ты лезешь, зачем?', title='Error 403',
                                    route_data=route_data), 403
+
